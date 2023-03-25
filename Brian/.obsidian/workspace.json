@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "e4ac6cab8c0d6bb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "81f40bb9ff761efd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de05e78136132523",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Reference Notes/Date String Formats.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08520d6556f45dac",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3acffbe7979095e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dae94ee0884bb00b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9773db83295e0f47",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21c4600760ce11e2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fd09b1b6fe60d87e",
+    "type": "split",
+    "children": [
+      {
+        "id": "80c8418dbf6c5e52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57ea601a75af33c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03 Reference Notes/Date String Formats.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "526fc7e941ab57a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03 Reference Notes/Date String Formats.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33202071c621c965",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "696823bd89930bde",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 Reference Notes/Date String Formats.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "de05e78136132523",
+  "lastOpenFiles": [
+    "03 Reference Notes/Obsidian Callouts.md",
+    "03 Reference Notes/Obsidian Zettelkasten Youtube video Kirsanov.md",
+    "Idea Compass.md",
+    "Obsidian Zettelkasten Note Taking.md",
+    "2023-03-25.md",
+    "Templates/Idea Compass.md",
+    "Idea test.md",
+    "Templates/Map of Content.md",
+    "Untitled 1.md",
+    "Templates/Note.md",
+    "01 Hubs/Tags.md",
+    "03 Reference Notes/Date String Formats.md",
+    "new note.md",
+    "New note.md",
+    "01 Hubs/Obsidian.md",
+    "Production",
+    "01 Hubs",
+    "02 Permanent Notes",
+    "03 Reference Notes",
+    "04 Fleeting Notes",
+    "Templates",
+    "05 Daily Notes"
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "2a7d6edf632e3570",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4f53ae5c6ee2390",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7cbeeb328ea243f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e48f01ec914267a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6f2e3b841ac2186e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "5cae818729c4cfa5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "31ce8375954b790e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "313138e3129e79b7",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4f7329f5a53a553a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "84eddce178c67ea2",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c575795598576b34",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "832ebadf8e6dddc0",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c7cbeeb328ea243f",
+  "lastOpenFiles": [
+    "Tutorial/Tutorial/affect heuristic.md",
+    "Tutorial/Tutorial/Sync test.md",
+    "Tutorial/Tutorial/test back.md",
+    "Tutorial/Tutorial/Youtube/Video on Russell's conjugation.md",
+    "Tutorial/Tutorial/Thinking fast and slow/Table of contents.md",
+    "Tutorial/Tutorial/Thinking fast and slow/Thinking fast and slow - UCL study $50.md",
+    "Tutorial/Tutorial/Templates/Note template.md",
+    "Tutorial/Tutorial/Inserting Templates.md",
+    "Tutorial/Tutorial/Pasted image 20230325092051.png",
+    "Tutorial/Tutorial/Russell's conjugation.md",
+    "Tutorial/Tutorial/ideas.md",
+    "Tutorial/Tutorial/framing effect.md",
+    "Tutorial/Tutorial/Obsidian basics.md",
+    "Tutorial/Tutorial/Youtube",
+    "Tutorial/Tutorial/Thinking fast and slow",
+    "Tutorial/Tutorial/Templates",
+    "Tutorial/Tutorial",
+    "Tutorial"
+  ]
+}
