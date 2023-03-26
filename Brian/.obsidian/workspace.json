@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "81f40bb9ff761efd",
+        "id": "0f6668a7fad64081",
         "type": "tabs",
         "children": [
           {
-            "id": "de05e78136132523",
+            "id": "7c633562df5ac6d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 Reference Notes/Date String Formats.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -50,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sve",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Reference Notes/Date String Formats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Reference Notes/Date String Formats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +119,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "03 Reference Notes/Date String Formats.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "aa45e0925e5a6e2b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ],
@@ -146,26 +145,40 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "de05e78136132523",
+  "active": "7c633562df5ac6d9",
   "lastOpenFiles": [
-    "03 Reference Notes/Obsidian Callouts.md",
-    "03 Reference Notes/Obsidian Zettelkasten Youtube video Kirsanov.md",
-    "Idea Compass.md",
-    "Obsidian Zettelkasten Note Taking.md",
-    "2023-03-25.md",
-    "Templates/Idea Compass.md",
-    "Idea test.md",
-    "Templates/Map of Content.md",
-    "Untitled 1.md",
+    "Templates/Weekly Note.md",
+    "06 Weekly Notes/2023-W12.md",
+    "Untitled.md",
+    "Templates/Note Title.md",
     "Templates/Note.md",
-    "01 Hubs/Tags.md",
-    "03 Reference Notes/Date String Formats.md",
-    "new note.md",
-    "New note.md",
-    "01 Hubs/Obsidian.md",
+    "2023-03-26.md",
+    "05 Daily Notes/2023-03-25.md",
+    "Dataview.md",
+    "new test.md",
+    "Templates/Daily Note.md",
+    "New title.md",
+    "Svelte & D3 Video.md",
+    "Rename.md",
+    "03 Reference Notes/Obsidian Templater.md",
+    "Templates/Map of Content.md",
+    "Templates/Idea Compass.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Ghgh.md",
+    "Untitled 3.md",
+    "Untitled 4.md",
+    "06 Weekly Notes",
+    "Ghghj.md",
+    "Chch.md",
+    "Njhj.md",
+    "New one.md",
+    "Niui.md",
+    "Untitled",
     "Production",
     "01 Hubs",
     "02 Permanent Notes",

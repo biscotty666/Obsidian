@@ -161,4 +161,5 @@ A literal '%' character.
 
 ---
 ## References
-https://momentjs.com/docs/#/displaying/format/
+
+https://www.markdownguide.org/extended-syntax/#tables
