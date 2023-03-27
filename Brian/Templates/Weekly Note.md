@@ -1,3 +1,6 @@
+## Reflections
+
+
 ## Week at a Glance
 
 ![[{{sunday:gggg-MM-DD}}]]

@@ -1,0 +1,17 @@
+date_created: 2023-03-26
+
+Status: #reference #book
+Tags: [[Data Science]] [[Data Visualization]] [[R]]
+
+# Introduction to Data Science
+
+## _Data Analysis and Prediction Algorithms with R_
+
+_Rafael A. Irizarry_
+
+[Online](http://rafalab.dfci.harvard.edu/dsbook/)
+
+![[Pasted image 20230326222521.png]]
+
+---
+## References

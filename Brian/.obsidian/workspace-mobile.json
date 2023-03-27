@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-03-26.md",
+                "file": "2023-03-27.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,7 +59,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#video",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -100,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2023-03-26.md",
+            "file": "2023-03-27.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2023-03-26.md",
+            "file": "2023-03-27.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -129,7 +129,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2023-03-26.md"
+            "file": "2023-03-27.md"
           }
         }
       },
@@ -157,9 +157,18 @@
   },
   "active": "43b8217c8d690c1c",
   "lastOpenFiles": [
-    "Templates/Weekly Note.md",
+    "Attachments/IMG_20230327_070830295.jpg",
+    "R.md",
+    "Create lesson plans.md",
+    "R Studio.md",
+    "Latex Tutorial Video.md",
+    "2023-03-27.md",
+    "Templates/Daily Note.md",
+    "03 Reference Notes/PH125 Course.md",
     "06 Weekly Notes/2023-W12.md",
+    "05 Daily Notes/2023-03-26.md",
     "2023-03-26.md",
+    "Templates/Weekly Note.md",
     "Templates/Note.md",
     "Ghghj.md",
     "Chch.md",
@@ -169,21 +178,12 @@
     "Niui.md",
     "New one.md",
     "05 Daily Notes/2023-03-25.md",
-    "Templates/Daily Note.md",
     "03 Reference Notes/Obsidian Task Manager.md",
     "03 Reference Notes/Obsidian and Kindle.md",
     "03 Reference Notes/Obsidian Zettelkasten Note Taking.md",
     "03 Reference Notes/Idea Compass.md",
     "02 Permanent Notes/Obsidian.md",
     "Untitled",
-    "Obsidian Task Manager.md",
-    "2023-03-26b.md",
-    "Obsidian and Kindle.md",
-    "Dataview.md",
-    "Create write up for syncthing.md",
-    "2023-03-25.md",
-    "03 Reference Notes/Obsidian Zettelkasten Youtube video Kirsanov.md",
-    "Idea Compass.md",
     "01 Hubs"
   ]
 }

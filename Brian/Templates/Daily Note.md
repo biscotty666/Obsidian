@@ -1,13 +1,11 @@
-title: <%+ tp.file.title %>
-date_created: <% tp.file.creation_date("YYYY-MM-DD") %>
-date_modified: <%+ tp.file.last_modified_date() %>
-tags: <% tp.file.tags %>
 
-Status: #dailynoteopen
+
+Status: #open
+Type: #dailynote
 Tags: 
 
 ### Goals
-#goal
+#goal 
 
 - [ ] Finish yesterday's note
 
