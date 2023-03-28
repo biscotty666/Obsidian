@@ -10,6 +10,8 @@ Tags: [[R]] [[Data Science]] [[Data Visualization]]
 #### [PH125.2x Data Science: Visualization](https://learning.edx.org/course/course-v1:HarvardX+PH125.2x+3T2022/home)
 [Data Camp Module 2](https://app.datacamp.com/learn/courses/data-science-visualization-module-2)
 
+#### [PH 125.3x Data Science: Probability](https://learning.edx.org/course/course-v1:HarvardX+PH125.3x+3T2022/home)
+[[Data Camp Module 3]]
 
 ### Certificates
 

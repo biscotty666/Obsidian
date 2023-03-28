@@ -1,5 +1,8 @@
 {
   "accentColor": "",
   "cssTheme": "Dracula Official",
-  "baseFontSize": 14
+  "baseFontSize": 14,
+  "enabledCssSnippets": [
+    "StackedPainWidth"
+  ]
 }

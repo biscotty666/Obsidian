@@ -1,5 +1,7 @@
 [
   "calendar",
   "dataview",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-min-width",
+  "nldates-obsidian"
 ]

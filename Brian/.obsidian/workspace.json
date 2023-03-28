@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c633562df5ac6d9",
+            "id": "1a981e4403d95f22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-03-27.md",
+                "file": "LYT Kit.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sve",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-03-27.md",
+                "file": "LYT Kit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-03-27.md",
+                "file": "LYT Kit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-03-27.md"
+                "file": "LYT Kit.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -158,45 +158,46 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7c633562df5ac6d9",
+  "active": "dae94ee0884bb00b",
   "lastOpenFiles": [
-    "03 Reference Notes/Mastering the Fundamentals of Statistics for Data Science -Basic to Advance Level- Part 1.md",
-    "05 Daily Notes/2023-03-26.md",
-    "03 Reference Notes/Zettelkasten.md",
+    "YAML.md",
+    "YAML and Dataview in Obisidian.md",
+    "R Studio.md",
+    "R.md",
+    "03 Reference Notes/Purge large or sensitive files from a git repo.md",
+    "03 Reference Notes/Latex Tutorial Video.md",
+    "James Clear.md",
+    "Dataview Videos.md",
+    "Data Camp Module 3.md",
+    "Create lesson plans.md",
+    "03 Reference Notes/Beginners Guide to Dataview.md",
+    "05 Daily Notes/2023-03-27.md",
+    "Templates/Daily Note.md",
+    "LYT Kit.md",
     "Templates/Note.md",
-    "03 Reference Notes/PH125 Course.md",
-    "04 Fleeting Notes/Create write up for syncthing.md",
-    "03 Reference Notes/Svelte & D3 Video.md",
-    "Rename.md",
-    "new test.md",
-    "03 Reference Notes/Introduction to Data Science.md",
-    "02 Permanent Notes/Dataview.md",
-    "06 Weekly Notes/2023-W12.md",
+    "new again.md",
+    "Untitled 3.md",
+    "new note.md",
+    "Templates/Note.sync-conflict-20230327-152519-HSJIBKW.md",
+    "Test Note.md",
+    "Templates/Note.sync-conflict-20230327-154357-HSJIBKW.md",
+    "Templates/Note.sync-conflict-20230327-154055-HSJIBKW.md",
+    "05 Daily Notes/2023-03-26.md",
+    "Untitled 2.md",
+    "Templates/Note.sync-conflict-20230327-153522-HSJIBKW.md",
+    "Templates/Note.sync-conflict-20230327-153412-HSJIBKW.md",
+    "snippets/StackedPain.css",
+    "snippets",
+    "Attachments/RDT_20230327_1014531655643967115452871.jpg",
     "Attachments/DSm2Visualization.pdf",
     "Attachments/DSm1RBasics.pdf",
     "Attachments",
     "Attachments/Pasted image 20230326222938.jpg",
     "Attachments/Pasted image 20230326222521.png",
-    "Templates/Weekly Note.md",
-    "Templates/Note Title.md",
-    "05 Daily Notes/2023-03-25.md",
-    "Templates/Daily Note.md",
-    "New title.md",
-    "03 Reference Notes/Obsidian Templater.md",
-    "Templates/Map of Content.md",
-    "Templates/Idea Compass.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Ghgh.md",
-    "Untitled 3.md",
-    "Untitled 4.md",
     "06 Weekly Notes",
-    "Ghghj.md",
     "Production",
     "01 Hubs",
     "02 Permanent Notes",
-    "03 Reference Notes",
-    "04 Fleeting Notes",
-    "Templates"
+    "03 Reference Notes"
   ]
 }

@@ -1,8 +1,19 @@
-date_created: <% tp.file.creation_date("YYYY-MM-DD") %>
-
-Status: #idea #incomplete
-Tags:
-
+<%*
+  let title = tp.file.title
+  if (title.startsWith("Untitled")) {
+    title = await tp.system.prompt("Title");
+    await tp.file.rename(title);
+  } 
+  
+  tR += "---"
+%>
+Title:  <%* tR += title %>
+Created: <% tp.date.now("dddd Do MMMM YYYY HH:mm") %>
+Categories: 
+Status: #new
+Aliases: 
+Tags: 
+---
 
 ---
-## References
+# <%* tR += title %>
