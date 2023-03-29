@@ -1,0 +1,3 @@
+# Obsidian
+
+My second brain.
