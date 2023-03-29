@@ -15,6 +15,8 @@ Aliases:
 Tags: 
 ---
 
+<% tp.web.daily_quote() %>
+
 ### Goals
 #goal 
 

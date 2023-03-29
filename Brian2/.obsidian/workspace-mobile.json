@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "73168c5e5a658d3b",
+    "id": "2e1fd2e999022306",
     "type": "split",
     "children": [
       {
-        "id": "1c6c9dd5856ee738",
+        "id": "a4d1c0a02e2d1a25",
         "type": "tabs",
         "children": [
           {
-            "id": "94ea17e904e85d86",
+            "id": "a44390eb6cbdf424",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-03-28.md",
+                "file": "Atlas/Zettelkasten.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,11 +26,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b259e62e9dbad20a",
+    "id": "a80eb9145a8ebf41",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "599a8c53003f6a94",
+        "id": "87f6e8793f7cc4fa",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -40,12 +40,12 @@
         }
       },
       {
-        "id": "da6bef93843f31a9",
+        "id": "5b689dbfcf865d38",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#question",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -55,7 +55,7 @@
         }
       },
       {
-        "id": "c74004b38ee1e963",
+        "id": "6f0a7e0f79e1a3a4",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -66,10 +66,10 @@
         }
       },
       {
-        "id": "1ec3cc4ff0389262",
+        "id": "4f343a71541a2d18",
         "type": "leaf",
         "state": {
-          "type": "starred",
+          "type": "recent-files",
           "state": {}
         }
       }
@@ -77,16 +77,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "3116fa6086c51012",
+    "id": "e906ea1dae891a8c",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "bb0851ea2e5d4241",
+        "id": "604ef7f56cd95288",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2023-03-28.md",
+            "file": "Atlas/Zettelkasten.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -98,29 +98,29 @@
         }
       },
       {
-        "id": "6a2d2f1157edef4a",
+        "id": "7f1dc0c7473f8729",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2023-03-28.md",
+            "file": "Atlas/Zettelkasten.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "d845d02368046a6d",
+        "id": "bda178b43911487e",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "2023-03-28.md"
+            "file": "Atlas/Zettelkasten.md"
           }
         }
       },
       {
-        "id": "1dc1ab48e54d1d7c",
+        "id": "8259c4c3447e20e9",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -138,40 +138,37 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "periodic-notes:Open today's daily note": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "94ea17e904e85d86",
+  "active": "a44390eb6cbdf424",
   "lastOpenFiles": [
-    "Data Camp Module 3 1.md",
-    "Templates/Note.sync-conflict-20230327-154357-HSJIBKW.md",
-    "Templates/Note.sync-conflict-20230327-154055-HSJIBKW.md",
-    "Templates/Note.sync-conflict-20230327-153522-HSJIBKW.md",
-    "Templates/Note.sync-conflict-20230327-153412-HSJIBKW.md",
-    "Templates/Note.sync-conflict-20230327-152812-HSJIBKW.md",
-    "Templates/Note.sync-conflict-20230327-152519-HSJIBKW.md",
-    "2023-03-27.md",
-    "Purge large or sensitive files from a git repo.md",
-    "Attachments/RDT_20230327_1014531655643967115452871.jpg",
-    "Latex Tutorial Video.md",
-    "Attachments/IMG_20230327_070830295.jpg",
-    "R.md",
-    "Create lesson plans.md",
-    "R Studio.md",
-    "Templates/Daily Note.md",
-    "03 Reference Notes/PH125 Course.md",
-    "06 Weekly Notes/2023-W12.md",
-    "05 Daily Notes/2023-03-26.md",
-    "2023-03-26.md",
-    "Templates/Weekly Note.md",
-    "Templates/Note.md",
-    "Ghghj.md",
-    "Chch.md",
-    "Njhj.md",
-    "Ghgh.md",
-    "New.md",
-    "Niui.md",
-    "Untitled",
-    "01 Hubs"
+    "Atlas/PKM.md",
+    "Atlas/Obsidian.md",
+    "Home.md",
+    "Atlas/Meta PKM.md",
+    "+ Encounters/My PKM MOC.md",
+    "+ Encounters/My PKM Folders.md",
+    "Atlas/Library.md",
+    "Atlas/Daily Notes.md",
+    "Calendar/2013-03-10 Habit Planning.md",
+    "Extras/Templates/Template, Daily Note (kit).md",
+    "Calendar/2019-01-25 Resiliency Routines.md",
+    "Atlas/Outbox.md",
+    "Atlas/Notebox.md",
+    "Cards/Cause and Effect.md",
+    "+ Encounters/Elden Ring.md",
+    "Atlas/Inbox.md",
+    "Atlas/Thinking MOC.md",
+    "Cards/Thought Collisions.md",
+    "Cards/MOCs are both workbenches and maps.md",
+    "+ Encounters/Thought Unpacking.md",
+    "Cards/Set Up Your Home Note.md",
+    "Cards/Figuring out your Home MOCs.md",
+    "Cards/LYT Framework.md",
+    "Cards/Benefits of LYT frameworks.md",
+    "LYT Kit.md",
+    "Atlas/Efforts.md"
   ]
 }

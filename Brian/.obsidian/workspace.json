@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0f6668a7fad64081",
+        "id": "57d1e408765986de",
         "type": "tabs",
         "children": [
           {
-            "id": "1a981e4403d95f22",
+            "id": "535de7345fca1246",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LYT Kit.md",
-                "mode": "source",
+                "file": "03 Reference Notes/Purge large or sensitive files from a git repo.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -71,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 421.5110321044922
   },
   "right": {
     "id": "fd09b1b6fe60d87e",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LYT Kit.md",
+                "file": "03 Reference Notes/Purge large or sensitive files from a git repo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LYT Kit.md",
+                "file": "03 Reference Notes/Purge large or sensitive files from a git repo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LYT Kit.md"
+                "file": "03 Reference Notes/Purge large or sensitive files from a git repo.md"
               }
             }
           },
@@ -158,46 +158,46 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dae94ee0884bb00b",
+  "active": "535de7345fca1246",
   "lastOpenFiles": [
+    "03 Reference Notes/PH125 Course.md",
+    "03 Reference Notes/Obsidian and Kindle.md",
+    "Attachments/DSm1RBasics 1.pdf",
+    "Attachments/DSm1RBasics.pdf",
+    "03 Reference Notes/Obsidian Zettelkasten Youtube video Kirsanov.md",
+    "03 Reference Notes/Obsidian Zettelkasten Note Taking.md",
+    "03 Reference Notes/Obsidian Templater.md",
+    "03 Reference Notes/Obsidian Task Manager.md",
+    "03 Reference Notes/Mastering the Fundamentals of Statistics for Data Science -Basic to Advance Level- Part 1.md",
+    "03 Reference Notes/Latex Tutorial Video.md",
+    "03 Reference Notes/Introduction to Data Science.md",
+    "Attachments/Pasted image 20230326222521 1.png",
+    "03 Reference Notes/Zettelkasten.md",
+    "03 Reference Notes/Idea Compass.md",
+    "03 Reference Notes/Date String Formats.md",
+    "03 Reference Notes/Beginners Guide to Dataview.md",
+    "LYT Kit.md",
+    "03 Reference Notes/Obsidian Callouts.md",
+    "05 Daily Notes/2023-03-25.md",
+    "05 Daily Notes/2023-03-26.md",
+    "05 Daily Notes/2023-03-27.md",
+    "06 Weekly Notes/2023-W12.md",
+    "Templates/Weekly Note.md",
+    "2023-03-28.md",
+    "Templates/Daily Note.md",
+    "Data Camp Module 3 1.md",
     "YAML.md",
     "YAML and Dataview in Obisidian.md",
-    "R Studio.md",
-    "R.md",
-    "03 Reference Notes/Purge large or sensitive files from a git repo.md",
-    "03 Reference Notes/Latex Tutorial Video.md",
-    "James Clear.md",
-    "Dataview Videos.md",
-    "Data Camp Module 3.md",
-    "Create lesson plans.md",
-    "03 Reference Notes/Beginners Guide to Dataview.md",
-    "05 Daily Notes/2023-03-27.md",
-    "Templates/Daily Note.md",
-    "LYT Kit.md",
-    "Templates/Note.md",
-    "new again.md",
-    "Untitled 3.md",
-    "new note.md",
-    "Templates/Note.sync-conflict-20230327-152519-HSJIBKW.md",
-    "Test Note.md",
-    "Templates/Note.sync-conflict-20230327-154357-HSJIBKW.md",
-    "Templates/Note.sync-conflict-20230327-154055-HSJIBKW.md",
-    "05 Daily Notes/2023-03-26.md",
-    "Untitled 2.md",
-    "Templates/Note.sync-conflict-20230327-153522-HSJIBKW.md",
-    "Templates/Note.sync-conflict-20230327-153412-HSJIBKW.md",
     "snippets/StackedPain.css",
     "snippets",
     "Attachments/RDT_20230327_1014531655643967115452871.jpg",
     "Attachments/DSm2Visualization.pdf",
-    "Attachments/DSm1RBasics.pdf",
     "Attachments",
     "Attachments/Pasted image 20230326222938.jpg",
     "Attachments/Pasted image 20230326222521.png",
     "06 Weekly Notes",
     "Production",
     "01 Hubs",
-    "02 Permanent Notes",
-    "03 Reference Notes"
+    "02 Permanent Notes"
   ]
 }
