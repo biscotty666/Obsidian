@@ -5,6 +5,7 @@ alias: ["000"]
 Your launchpad and home base. That's here. That's home.
 
 ## Atlas 
+
 These are maps to launch your `efforts`. Where would you like to go?
 
 - Daily Activities
@@ -30,7 +31,4 @@ These are maps to launch your `efforts`. Where would you like to go?
 	- [[Travel Experiences]]
 	- [[Music]]
 	- [[Linguistics and Languages]]
-
-
-![[pale-blue-dot-banner.jpg]]
 

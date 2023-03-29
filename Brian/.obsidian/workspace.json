@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Reference Notes/Purge large or sensitive files from a git repo.md",
-                "mode": "preview",
+                "file": "Templates/Daily Note.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Reference Notes/Purge large or sensitive files from a git repo.md",
+                "file": "Templates/Daily Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Reference Notes/Purge large or sensitive files from a git repo.md",
+                "file": "Templates/Daily Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Reference Notes/Purge large or sensitive files from a git repo.md"
+                "file": "Templates/Daily Note.md"
               }
             }
           },
@@ -160,6 +160,18 @@
   },
   "active": "535de7345fca1246",
   "lastOpenFiles": [
+    "R Studio.md",
+    "YAML and Dataview in Obisidian.md",
+    "YAML.md",
+    "R.md",
+    "Dataview Videos.md",
+    "Data Camp Module 3.md",
+    "Templates/Idea Compass.md",
+    "Templates/Map of Content.md",
+    "06 Weekly Notes/2023-W12.md",
+    "03 Reference Notes/Zettelkasten.md",
+    "03 Reference Notes/Svelte & D3 Video.md",
+    "03 Reference Notes/Purge large or sensitive files from a git repo.md",
     "03 Reference Notes/PH125 Course.md",
     "03 Reference Notes/Obsidian and Kindle.md",
     "Attachments/DSm1RBasics 1.pdf",
@@ -172,22 +184,11 @@
     "03 Reference Notes/Latex Tutorial Video.md",
     "03 Reference Notes/Introduction to Data Science.md",
     "Attachments/Pasted image 20230326222521 1.png",
-    "03 Reference Notes/Zettelkasten.md",
     "03 Reference Notes/Idea Compass.md",
     "03 Reference Notes/Date String Formats.md",
     "03 Reference Notes/Beginners Guide to Dataview.md",
     "LYT Kit.md",
     "03 Reference Notes/Obsidian Callouts.md",
-    "05 Daily Notes/2023-03-25.md",
-    "05 Daily Notes/2023-03-26.md",
-    "05 Daily Notes/2023-03-27.md",
-    "06 Weekly Notes/2023-W12.md",
-    "Templates/Weekly Note.md",
-    "2023-03-28.md",
-    "Templates/Daily Note.md",
-    "Data Camp Module 3 1.md",
-    "YAML.md",
-    "YAML and Dataview in Obisidian.md",
     "snippets/StackedPain.css",
     "snippets",
     "Attachments/RDT_20230327_1014531655643967115452871.jpg",

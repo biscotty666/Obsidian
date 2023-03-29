@@ -3,8 +3,8 @@
   "weekStart": "monday",
   "wordsPerDot": 250,
   "showWeeklyNote": true,
-  "weeklyNoteFormat": "YYYY-MM-[w]ww",
+  "weeklyNoteFormat": "YYYY-[W]ww",
   "weeklyNoteTemplate": "Extras/Templates/Template, Weekly Note",
-  "weeklyNoteFolder": "Calendar",
+  "weeklyNoteFolder": "Calendar/Weekly Notes",
   "localeOverride": "system-default"
 }

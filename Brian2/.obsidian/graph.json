@@ -1,9 +1,9 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "evergreen",
   "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -12,6 +12,13 @@
       "color": {
         "a": 1,
         "rgb": 5562450
+      }
+    },
+    {
+      "query": "path:Atlas",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
       }
     }
   ],
@@ -22,9 +29,9 @@
   "lineSizeMultiplier": 0.447842096249358,
   "collapse-forces": false,
   "centerStrength": 0.418727745164084,
-  "repelStrength": 9.93123628383321,
-  "linkStrength": 0.662111442594553,
-  "linkDistance": 30,
+  "repelStrength": 11.541755888651,
+  "linkStrength": 0.577087794432548,
+  "linkDistance": 84,
   "scale": 0.14587524706194854,
-  "close": true
+  "close": false
 }

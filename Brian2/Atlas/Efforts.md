@@ -13,7 +13,7 @@ TABLE WITHOUT ID
 
 FROM #effort
 
-SORT rank desc
+SORT rank asc
 
 
 ```

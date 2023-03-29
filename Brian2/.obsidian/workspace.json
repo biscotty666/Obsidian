@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "18cba98c4abf0e06",
+        "id": "4a8f6659ae886d95",
         "type": "tabs",
         "children": [
           {
-            "id": "d2d1fef9b76c9db7",
+            "id": "1329241602f18509",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,48 +18,205 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "The big differences between efforts and projects",
+                  "title": "Template, Daily Note (kit)",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/The big differences between efforts and projects.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Extras/Templates/Template, Daily Note (kit).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":4},\"to\":{\"line\":0,\"ch\":4}}}"
+                },
+                {
+                  "title": "2023-03-29",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2023-03-29.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":4},\"to\":{\"line\":0,\"ch\":4}}}"
+                },
+                {
+                  "title": "Template, Daily Note (kit)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Extras/Templates/Template, Daily Note (kit).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
+                  "title": "2023-03-29",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2023-03-29.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "How ideas and efforts play nicely together",
+                  "title": "Template, Daily Note (kit)",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/How ideas and efforts play nicely together.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Extras/Templates/Template, Daily Note (kit).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":7},\"to\":{\"line\":36,\"ch\":7}},\"scroll\":8.15651912519357}"
+                },
+                {
+                  "title": "2023-03-29",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2023-03-29.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":4.924707359417947}"
+                },
+                {
+                  "title": "Template, Daily Note (kit)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Extras/Templates/Template, Daily Note (kit).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":0},\"to\":{\"line\":32,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "2023-03-29",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2023-03-29.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":3.252653383501615}"
+                },
+                {
+                  "title": "Folgezettel - 100a.1a But Also How It",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Folgezettel - 100a.1a But Also How It.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "The big differences between efforts and projects",
+                  "title": "Folgezettel - 100a.1 Showing How Folgezettel Works",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/The big differences between efforts and projects.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Folgezettel - 100a.1 Showing How Folgezettel Works.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Evergreen notes maximize reusability",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Evergreen notes maximize reusability.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Evergreen notes compound in value over time",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Evergreen notes compound in value over time.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Evergreen notes are things or statements about things",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Evergreen notes are things or statements about things.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":18.07319029993976}"
+                },
+                {
+                  "title": "Evergreen notes are antifragile",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Evergreen notes are antifragile.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Evergreen notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Evergreen notes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.994374680581739}"
+                },
+                {
+                  "title": "Evergreen notes are antifragile",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Evergreen notes are antifragile.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Evergreen notes (defn)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Evergreen notes (defn).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Evergreen notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Evergreen notes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "+ About Spaces",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/+ About Spaces.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Efforts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Efforts.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Home",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Latex Tutorial Video",
+                  "title": "+ About Spaces",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Latex Tutorial Video.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":36},\"to\":{\"line\":1,\"ch\":36}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/+ About Spaces.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "LYT Notes 2 (Example)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Archive/My Newsletters/LYT Notes 2 (Example).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "LYT Notes 1 (Example)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Archive/My Newsletters/LYT Notes 1 (Example).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":29.768926515911478}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "PKM",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/PKM.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "BOAT notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/BOAT notes.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Inbox",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Inbox.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/PH125 Introduction to Data Science.md",
+                "file": "Calendar/2023-03-29.md",
                 "mode": "source",
-                "backlinks": false,
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -198,7 +355,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sources/PH125 Introduction to Data Science.md",
+                "file": "Calendar/2023-03-29.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -242,7 +399,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/PH125 Introduction to Data Science.md"
+                "file": "Calendar/2023-03-29.md"
               }
             }
           },
@@ -285,7 +442,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/PH125 Introduction to Data Science.md",
+                "file": "Calendar/2023-03-29.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +468,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sources/PH125 Introduction to Data Science.md",
+                "file": "Calendar/2023-03-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -321,8 +478,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
-    "collapsed": true
+    "width": 286.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -336,41 +492,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d2d1fef9b76c9db7",
+  "active": "1329241602f18509",
   "lastOpenFiles": [
+    "+ Encounters/Untitled.md",
+    "Calendar/2023-03-29.md",
+    "Extras/Templates/Template, Daily Note (kit).md",
+    "Cards/Folgezettel - 100a.1 Showing How Folgezettel Works.md",
+    "Calendar/2022/2023-03-29.md",
+    "Calendar/2022",
+    "+ Encounters/Discord.py Tutorial Video.md",
+    "Cards/Folgezettel - 100a.1a But Also How It.md",
+    "Cards/Feedback Loop.md",
+    "Cards/Exploring Wim Hof's Breath Manipulation (kit).md",
+    "Cards/Evergreen notes maximize reusability.md",
+    "Cards/Evergreen notes compound in value over time.md",
+    "Cards/Evergreen notes are things or statements about things.md",
+    "Cards/Evergreen notes are antifragile.md",
+    "Cards/Evergreen notes.md",
+    "Cards/Evergreen notes (defn).md",
+    "Home.md",
+    "Spaces/CV",
+    "Spaces/+ About Spaces.md",
+    "Atlas/Efforts.md",
+    "Archive/My Newsletters/LYT Notes 2 (Example).md",
+    "Archive/My Newsletters/LYT Notes 1 (Example).md",
+    "Atlas/PKM.md",
+    "Cards/BOAT notes.md",
+    "Atlas/Inbox.md",
+    "Calendar/Weekly Notes/2023-W12.md",
+    "Extras/Templates/Template, Idea Compass.md",
+    "Extras/Templates/Template, Dates dates dates (kit).md",
+    "Calendar/Weekly Notes",
     "Extras/Images/DSm2Visualization.pdf",
     "Extras/Images/DSm1RBasics.pdf",
     "Extras/Images/DSm1RBasics 1.pdf",
-    "+ Encounters/The big differences between efforts and projects.md",
-    "+ Encounters/PH125 Course.md",
-    "Home.md",
-    "Atlas/Technology.md",
-    "Atlas/R.md",
-    "Atlas/Data Science.md",
-    "Sources/Introduction to Data Science.md",
-    "Sources/PH125 Introduction to Data Science.md",
-    "Sources/Data Camp Module 3.md",
-    "Atlas/Studies.md",
-    "Sources/Studies.md",
-    "Atlas/Untitled.md",
-    "+ Encounters/How ideas and efforts play nicely together.md",
-    "+ Encounters/Pasted image 20230326222521.png.md",
-    "+ Encounters/PMK.md",
-    "+ Encounters/English Language MOC.md",
-    "+ Encounters/sound sensory sensitivity.md",
-    "+ Encounters/Thought Unpacking.md",
-    "+ Encounters/We've already discovered aliens...we just call them bees.md",
-    "Sources/NOMA Method Prompts.md",
-    "+ Encounters/My PKM MOC.md",
-    "+ Encounters/My PKM Folders.md",
-    "Atlas/PKM.md",
-    "Sources/Obsidian Zettelkasten Youtube video Kirsanov.md",
-    "Atlas/Zettelkasten.md",
     "Archive/Cards",
     "Extras/Images/Pasted image 20230328164738.png",
     "Archive/Calendar",
     "Archive/Atlas",
-    "Archive/Sources",
-    "Archive"
+    "Archive/Sources"
   ]
 }

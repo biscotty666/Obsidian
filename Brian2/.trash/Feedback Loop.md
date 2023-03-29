@@ -1,4 +1,4 @@
-up:: [[Habits MOC]]
+p:: [[Habits MOC]]
 tags:: #concept 
 
 # Feedback Loop

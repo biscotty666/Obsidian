@@ -11,13 +11,8 @@
             "id": "a44390eb6cbdf424",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/Zettelkasten.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Atlas/Zettelkasten.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Atlas/Zettelkasten.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Atlas/Zettelkasten.md"
-          }
+          "state": {}
         }
       },
       {
@@ -142,16 +133,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a44390eb6cbdf424",
+  "active": "87f6e8793f7cc4fa",
   "lastOpenFiles": [
+    "Calendar/2023-03-29.md",
+    "Atlas/Daily Notes.md",
+    "Calendar/2022/2023-03-29.md",
+    "Calendar/2022",
+    "Home.md",
+    "+ Encounters/Discord.py Tutorial Video.md",
+    "Atlas/Zettelkasten.md",
     "Atlas/PKM.md",
     "Atlas/Obsidian.md",
-    "Home.md",
     "Atlas/Meta PKM.md",
     "+ Encounters/My PKM MOC.md",
     "+ Encounters/My PKM Folders.md",
     "Atlas/Library.md",
-    "Atlas/Daily Notes.md",
     "Calendar/2013-03-10 Habit Planning.md",
     "Extras/Templates/Template, Daily Note (kit).md",
     "Calendar/2019-01-25 Resiliency Routines.md",
@@ -165,10 +161,6 @@
     "Cards/MOCs are both workbenches and maps.md",
     "+ Encounters/Thought Unpacking.md",
     "Cards/Set Up Your Home Note.md",
-    "Cards/Figuring out your Home MOCs.md",
-    "Cards/LYT Framework.md",
-    "Cards/Benefits of LYT frameworks.md",
-    "LYT Kit.md",
-    "Atlas/Efforts.md"
+    "Cards/Figuring out your Home MOCs.md"
   ]
 }

@@ -1,6 +1,7 @@
 up:: [[Studies]]
-tags:: #source/course 
+tags:: #source/course #effort 
 X:: [[Data Science]] [[R]] [[Data Visualization]]
+Rank:: 1
 
 # PH125 Introduction to Data Science
 
