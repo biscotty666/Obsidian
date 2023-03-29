@@ -1,4 +1,4 @@
-up:: [[Systems MOC (kit)]] 
+up:: [[Thinking]] 
 tags:: #on/PKM #on/systems 
 
 **Idea Emergence** is the process of how the ideas you encounter go from the "nothingness" to the "somethingness"—and how those ideas grow in richness, complexity, and personally meaningful value over time.

@@ -1,10 +1,6 @@
 up:: [[Habits MOC]]
 tags:: #on/habit 
 
-> [!NOTE]+ Notes on this note
-> This is a sanitized version of my actual note. 
-> - Some content and links have been removed.
-
 # Habits carry a ton of hidden inertia
 While some [[Feedback Loop]]s show immediate results, many times progress is hidden until much further along in time. This type of progress, where it's not obvious and visible is basically "hidden inertia". 
 

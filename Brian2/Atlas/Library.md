@@ -1,10 +1,6 @@
 up:: [[Home]]
 tags:: #map
 
-> [!NOTE]+ Notes on this note
-> This is a sanitized version of my actual note. 
-> - Content and links have been removed.
-
 # Library
 Navigate your library of maps with a classification system made specifically for PKM. 
 

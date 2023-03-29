@@ -1,4 +1,4 @@
-up:: [[The 3 Phases of MOCs]]
+up:: [[The 3 Phases of MOCs]] [[Habits MOC]]
 tags:: #on/PKM, #on/habit 
 
 # Habits MOC - Gather Phase

@@ -1,9 +1,5 @@
-up:: [[LYT Kit]]
+up:: [[PKM]]
 tags:: #on/PKM 
-
-> [!NOTE]+ Notes on this note
-> This is a sanitized version of my actual note. 
-> - Some content and links have been removed.
 
 # Fluid Taxonomies
 Fluid Taxonomies is a term coined by [[Steen Comer]], which came up in our conversations about MOCs and other ways of managing knowledge.

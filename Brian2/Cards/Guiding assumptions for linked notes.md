@@ -1,5 +1,5 @@
-up:: [[LYT Kit]]
-
+up:: [[Zettelkasten]]
+X:: [[Obsidian]]
 # Guiding assumptions for linked notes
 
 > The external part of your ideaverse should make sense and be useable to someone else—including and especially your future self. 

@@ -1,9 +1,6 @@
 up:: [[Habits MOC]]
 tags:: #on/habit, #on/PD 
 
-> [!NOTE]+ Notes on this note
-> This is a sanitized version of my actual note. 
-> - Some content and links have been removed.
 
 # How Atomic Habits fit into the conversation on habits
 Atomic Habits is a term from James Clear, with a [[2018 - Atomic Habits (book)|book of the same name]]. 

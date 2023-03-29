@@ -1,9 +1,5 @@
-up:: [[Habits MOC]]
+up:: [[Thinking]]
 tags:: #on/habit #on/Practice
-
-> [!NOTE]+ Notes on this note
-> This is a sanitized version of my actual note. 
-> - Some content and links have been removed.
 
 # An asymptotic curve models the development of skills, strength, habits, and more
 An asymptotic curve is seen in the development of habits, skills,  muscles, and more.

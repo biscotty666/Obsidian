@@ -31,10 +31,6 @@ Activate "LYT Vision" to resurface thoughts in context. When you twirl this open
 These notes point directly to this note. But this note doesn't point back.
 This is the strongest contextual query.
 
-> [!HINT]+ This data view 🔬 only renders in the free downloadable version.
-> If you are viewing this note on Obsidian Publish, you won't be able to see the magic below unless you [download the kit](https://www.linkingyourthinking.com/download-lyt-kit).
-> Note: If you can see the list below, you have already downloaded the LYT Kit.
-
 ```dataview
 LIST
 
@@ -49,10 +45,6 @@ SORT file.link asc
 ### Possibly relevant, currently unmentioned notes
 These notes have the tag `#concept`, and are not mentioned above—but could be relevant.
 This is a nicely fuzzy contextual query.
-
-> [!HINT]+ This data view 🔬 only renders in the free downloadable version.
-> If you are viewing this note on Obsidian Publish, you won't be able to see the magic below unless you [download the kit](https://www.linkingyourthinking.com/download-lyt-kit).
-> Note: If you can see the list below, you have already downloaded the LYT Kit.
 
 ```dataview
 LIST 

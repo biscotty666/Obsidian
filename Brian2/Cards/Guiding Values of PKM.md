@@ -1,4 +1,4 @@
-up:: [[The forest entrance]]
+up:: [[PKM]]
 tags:: #on/PKM 
 
 # Guiding Values of PKM

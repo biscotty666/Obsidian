@@ -1,4 +1,5 @@
 up:: [[FlowCreation MOC]]
+tags:: #on/flow 
 
 # Conditions of Flow
 ### The Three Major Conditions of Flow

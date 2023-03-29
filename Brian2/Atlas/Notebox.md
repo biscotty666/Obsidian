@@ -1,12 +1,6 @@
 up:: [[Home]]
 tags:: #map/view 
 
-> [!NOTE]+  Only the "Boat" and "Develop" data views are included in the LYT Kit.
-> This is a sanitized version of my actual note. 
-> 
-> - Content and links have been removed.
-> - Nick, go here [[Notebox 🗃]]
-
 # The Notebox 🗃
 The Notebox is a place of joy—without expectations or obligations.
 

@@ -27,8 +27,13 @@ These are maps to launch your `efforts`. Where would you like to go?
 	- [[Plan and Review]]
 - Personal
 	- [[Studies]]
-	- [[Work Experiences]]
-	- [[Travel Experiences]]
-	- [[Music]]
+	- Experiences
+		- [[Work]]
+		- [[Travel]]
 	- [[Linguistics and Languages]]
+	- [[Thinking]]
+	- [[Music]]
+	- [[Math and Science]]
+	- [[Linguistics and Languages]]
+	- [[Food]]
 
