@@ -1,1 +1,0 @@
-title: <% tp.file.title %>
