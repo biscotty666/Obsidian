@@ -4,7 +4,7 @@
   "wordsPerDot": 250,
   "showWeeklyNote": true,
   "weeklyNoteFormat": "YYYY-[W]ww",
-  "weeklyNoteTemplate": "Extras/Templates/Template, Weekly Note",
+  "weeklyNoteTemplate": "Extras/Templates/Weekly Note",
   "weeklyNoteFolder": "Calendar/Weekly Notes",
   "localeOverride": "system-default"
 }

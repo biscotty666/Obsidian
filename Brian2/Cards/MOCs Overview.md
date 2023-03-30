@@ -1,5 +1,6 @@
 up:: [[PKM]]
 tags:: #on/PKM 
+X:: [[In what ways can we form useful relationships between notes]] [[What can we learn from nerdy discussions on MOCs]] [[MOCs are both workbenches and maps]]
 
 # MOCs Overview
 This is a brief overview of MOCs. 

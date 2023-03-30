@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "2e1fd2e999022306",
+    "id": "c4f7fdb608baf8e1",
     "type": "split",
     "children": [
       {
-        "id": "0a688bbbc5856629",
+        "id": "3ec105dea3adf419",
         "type": "tabs",
         "children": [
           {
-            "id": "74b5d23e98946052",
+            "id": "042767b5ee6c8e50",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,224 +18,36 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Improving Micro Habits at the Point of Contact",
+                  "title": "2023-03-28",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Improving Micro Habits at the Point of Contact.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2023-03-28.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Important habits preserve mental clarity and a sense of control",
+                  "title": "2023-03-29",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Important habits preserve mental clarity and a sense of control.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2023-03-29.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Thinking",
+                  "title": "2023-03-29",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Thinking.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Idea Emergence (defn)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Idea Emergence (defn).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Thinking",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Thinking.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
-                },
-                {
-                  "title": "Habits MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Habits MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "How Atomic Habits fit into the conversation on habits",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/How Atomic Habits fit into the conversation on habits.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Thinking",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Thinking.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
-                },
-                {
-                  "title": "Habits MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Habits MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Habit formation provides an evolutionary advantage",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Habit formation provides an evolutionary advantage.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Thinking",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Thinking.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
-                },
-                {
-                  "title": "Idea Emergence (defn)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Idea Emergence (defn).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "How Atomic Habits fit into the conversation on habits",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/How Atomic Habits fit into the conversation on habits.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Idea Emergence (defn)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Idea Emergence (defn).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "How Atomic Habits fit into the conversation on habits",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/How Atomic Habits fit into the conversation on habits.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Thinking",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Thinking.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
-                },
-                {
-                  "title": "Idea Emergence (defn)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Idea Emergence (defn).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":88},\"to\":{\"line\":13,\"ch\":88}}}"
-                },
-                {
-                  "title": "How Atomic Habits fit into the conversation on habits",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/How Atomic Habits fit into the conversation on habits.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Habits MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Habits MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":2},\"to\":{\"line\":8,\"ch\":2}}}"
-                },
-                {
-                  "title": "How Atomic Habits fit into the conversation on habits",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/How Atomic Habits fit into the conversation on habits.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}}}"
-                },
-                {
-                  "title": "Habits MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Habits MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Habits MOC - Gather",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Habits MOC - Gather.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Heterarchy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Heterarchy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Habits MOC - Gather",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Habits MOC - Gather.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":44},\"to\":{\"line\":0,\"ch\":44}}}"
-                },
-                {
-                  "title": "Habits MOC - Collide",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Habits MOC - Collide.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Habits MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Habits MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":2},\"to\":{\"line\":7,\"ch\":2}}}"
-                },
-                {
-                  "title": "Habits MOC - Collide",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Habits MOC - Collide.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":37},\"to\":{\"line\":6,\"ch\":37}}}"
-                },
-                {
-                  "title": "MOCs Overview",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/MOCs Overview.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "The 3 Phases of MOCs",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/The 3 Phases of MOCs.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Habits MOC - Collide",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Habits MOC - Collide.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Habits carry a ton of hidden inertia",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Habits carry a ton of hidden inertia.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}}}"
-                },
-                {
-                  "title": "Habit Planning",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Habit Planning.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Habit formation provides an evolutionary advantage",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Habit formation provides an evolutionary advantage.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Habit Concepts and Theory",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Habit Concepts and Theory.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Habits MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Habits MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2022/2023-03-29.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/2023-03-30.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -282,34 +94,17 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#source/quote",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "50a064198c878664",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "31b3e2576b134863",
+            "id": "f2f067fa401a0574",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -329,7 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 259.5
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -338,6 +133,7 @@
       {
         "id": "ea89fdbc5439f479",
         "type": "tabs",
+        "dimension": 48.36702954898911,
         "children": [
           {
             "id": "4f6e4ddebde66a86",
@@ -374,6 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Calendar/2023-03-30.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -416,11 +213,13 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Calendar/2023-03-30.md"
+              }
             }
           },
           {
-            "id": "0069a232d8fa8fa8",
+            "id": "1dc0cb1cebc39098",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -442,6 +241,7 @@
       {
         "id": "cc261747cbab30f2",
         "type": "tabs",
+        "dimension": 51.63297045101089,
         "children": [
           {
             "id": "d535bd36dbc98e0b",
@@ -458,6 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Calendar/2023-03-30.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -469,7 +270,7 @@
             }
           },
           {
-            "id": "6321f478b28fa615",
+            "id": "ae0aed29d208c352",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -483,16 +284,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Calendar/2023-03-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -503,47 +306,55 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "periodic-notes:Open today's daily note": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "042767b5ee6c8e50",
+  "ophidian:layout-settings": {
+    "pane-relief:focus-lock": false
+  },
   "lastOpenFiles": [
-    "Cards/Improving Micro Habits at the Point of Contact.md",
-    "Cards/Important habits preserve mental clarity and a sense of control.md",
-    "Atlas/Thinking.md",
-    "Cards/Idea Emergence (defn).md",
-    "Atlas/Habits MOC.md",
-    "Cards/How Atomic Habits fit into the conversation on habits.md",
-    "Cards/Habit formation provides an evolutionary advantage.md",
-    "Cards/How can we be responsible pro-active citizens without becoming full-time activists.md",
-    "Cards/Hormesis.md",
-    "Cards/Heterarchy.md",
-    "Cards/Habits MOC - Gather.md",
-    "Cards/Habits MOC - Collide.md",
-    "Cards/MOCs Overview.md",
-    "Cards/The 3 Phases of MOCs.md",
-    "Cards/Habits carry a ton of hidden inertia.md",
-    "Cards/Habit Planning.md",
-    "Cards/Habit Concepts and Theory.md",
-    "Cards/Guiding Values of PKM.md",
-    "Cards/On the process of note-making.md",
-    "Atlas/PKM.md",
-    "Cards/Guiding assumptions for linked notes.md",
-    "Cards/The forest entrance.md",
-    "Atlas/Zettelkasten.md",
-    "Cards/Gall's Law.md",
-    "Atlas/Concepts MOC.md",
-    "Cards/Future-proofed.md",
-    "Calendar/2022",
-    "Spaces/CV",
-    "Calendar/Weekly Notes",
+    "Calendar/2023-03-30.md",
+    "Calendar/2022/2023-03-29.md",
+    "Calendar/2023-03-28.md",
+    "Calendar/2023-03-29.md",
     "Extras/Images/DSm2Visualization.pdf",
-    "Extras/Images/DSm1RBasics.pdf",
     "Extras/Images/DSm1RBasics 1.pdf",
-    "Archive/Cards",
-    "Extras/Images/Pasted image 20230328164738.png",
-    "Archive/Calendar",
-    "Archive/Atlas",
-    "Archive/Sources"
+    "Extras/Images/DSm1RBasics.pdf",
+    "+ Encounters/Obsidian Training Class.md",
+    "excalibrain.md",
+    "Atlas/Obsidian.md",
+    "Extras/Images/feynman-triangulation-1.png",
+    "Excalidraw/Drawing 2023-03-29 22.55.51.excalidraw.md",
+    "Home.md",
+    "LYT Kit.md",
+    "Excalidraw",
+    "Extras/Templates/Note.md",
+    "Extras/Templates/Daily Note.md",
+    "+ Encounters/Obsidian Excalidraw.md",
+    "+ Encounters/test2.md",
+    "+ Encounters/Testnote.md",
+    "+ Encounters/Natural Language and Statistics Article.md",
+    "Cards/How ideas and efforts play nicely together.md",
+    "Atlas/Efforts.md",
+    "+ Encounters/Gangsta Rap, Narco Bolero and Blues.md",
+    "+ Encounters/Create Wordcount View.md",
+    "Extras/Templates/Weekly Note.md",
+    "Extras/Templates/Template, Dates dates dates (kit).md",
+    "+ Encounters/test.md",
+    "Extras/Templates/Template, Meeting (kit).md",
+    "Extras/Templates/Template, Note (kit).md",
+    "Atlas/Notebox.md",
+    "Test.canvas",
+    "Calendar/2022",
+    "test.canvas",
+    "ir.dcs.gla.ac.uk/resources/linguistic_utils",
+    "ir.dcs.gla.ac.uk/resources",
+    "ir.dcs.gla.ac.uk",
+    "Extras/Images/NLP.pdf",
+    "Spaces/CV",
+    "Extras/Images/Pasted image 20230328164738.png"
   ]
 }

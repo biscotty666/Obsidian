@@ -2,6 +2,9 @@ up:: [[Zettelkasten]]
 X:: [[Obsidian]]
 # Guiding assumptions for linked notes
 
+https://google.com
+
+
 > The external part of your ideaverse should make sense and be useable to someone else—including and especially your future self. 
 
 ## On linking and thinking

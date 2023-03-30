@@ -1,3 +1,4 @@
+up:: [[Note-makers]]
 X:: [[Note-making creates unexpected optionality]]
 tags:: #on/PKM 
 

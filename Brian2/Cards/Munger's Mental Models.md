@@ -1,4 +1,4 @@
-up:: [[Concepts MOC]], [[Thinking MOC]]
+up:: [[Concepts MOC]], [[Thinking]]
 tags:: #concept 
 
 # Munger's Mental Models

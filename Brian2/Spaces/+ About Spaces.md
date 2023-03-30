@@ -1,4 +1,4 @@
-up:: [[Meta PKM]]
+up:: [[PKM]]
 tags:: #on/readme
 
 # About Spaces

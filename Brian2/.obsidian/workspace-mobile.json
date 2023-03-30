@@ -11,8 +11,13 @@
             "id": "a44390eb6cbdf424",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/2022/2023-03-29.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Calendar/2022/2023-03-29.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Calendar/2022/2023-03-29.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +114,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Calendar/2022/2023-03-29.md"
+          }
         }
       },
       {
@@ -133,12 +142,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "87f6e8793f7cc4fa",
+  "active": "a44390eb6cbdf424",
   "lastOpenFiles": [
+    "Cards/Word count python.sync-conflict-20230329-175312-HSJIBKW.md",
+    "+ Encounters/Natural Language and Statistics Article.sync-conflict-20230329-175040-HSJIBKW.md",
+    "+ Encounters/Natural Language and Statistics Article.md",
+    "+ Encounters/Untitled.md",
+    "Calendar/Weekly Notes/2023-W13.md",
+    "Calendar/2023-03-26.md",
     "Calendar/2023-03-29.md",
-    "Atlas/Daily Notes.md",
+    "Calendar/2023-03-28.md",
     "Calendar/2022/2023-03-29.md",
+    "+ Encounters/Obsidian Excalidraw.md",
     "Calendar/2022",
+    "+ Encounters/Discord.py Tutorial Video.sync-conflict-20230329-124941-HSJIBKW.md",
+    "Extras/Images/NLP.pdf",
+    "+ Encounters/Word count python.md",
+    "+ Encounters/Data Science Project Ideas.md",
+    "+ Encounters/Stop word List.md",
+    "Atlas/Daily Notes.md",
     "Home.md",
     "+ Encounters/Discord.py Tutorial Video.md",
     "Atlas/Zettelkasten.md",
@@ -149,18 +171,6 @@
     "+ Encounters/My PKM Folders.md",
     "Atlas/Library.md",
     "Calendar/2013-03-10 Habit Planning.md",
-    "Extras/Templates/Template, Daily Note (kit).md",
-    "Calendar/2019-01-25 Resiliency Routines.md",
-    "Atlas/Outbox.md",
-    "Atlas/Notebox.md",
-    "Cards/Cause and Effect.md",
-    "+ Encounters/Elden Ring.md",
-    "Atlas/Inbox.md",
-    "Atlas/Thinking MOC.md",
-    "Cards/Thought Collisions.md",
-    "Cards/MOCs are both workbenches and maps.md",
-    "+ Encounters/Thought Unpacking.md",
-    "Cards/Set Up Your Home Note.md",
-    "Cards/Figuring out your Home MOCs.md"
+    "Extras/Templates/Template, Daily Note (kit).md"
   ]
 }

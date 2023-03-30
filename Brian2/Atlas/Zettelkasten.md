@@ -5,9 +5,12 @@ tags:: #map #concept
 
 [Zettelkasten Wikipedia](https://en.wikipedia.org/wiki/Zettelkasten)
 
-- [[Idea Compass]]
+- [[Sources/Idea Compass]]
 - [[Obsidian Zettelkasten Youtube video Kirsanov]]
 - [[Obsidian Zettelkasten Note Taking]]
 - [[Guiding assumptions for linked notes]]
+- [[What are higher-order notes]]
+- [[On the process of note-making]]
+- [[Note-makers]]
 - 
 

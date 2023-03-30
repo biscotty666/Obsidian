@@ -1,4 +1,4 @@
-up:: [[On the process of note-making]]
+up:: [[Zettelkasten]]
 tags:: #on/PKM 
 X:: [[Note-takers]]
 

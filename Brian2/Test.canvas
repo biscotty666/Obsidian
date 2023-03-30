@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"85b1ce6ba4e2a71f","x":-600,"y":-120,"width":400,"height":400,"type":"file","file":"Sources/Obsidian Zettelkasten Note Taking.md"},
+		{"id":"28be5f698f79ce70","x":40,"y":140,"width":400,"height":400,"type":"file","file":"Atlas/Zettelkasten.md"},
+		{"id":"442a1fee420a8f83","x":-385,"y":485,"width":400,"height":400,"type":"file","file":"Atlas/PKM.md"},
+		{"id":"2228ba8cece716c0","x":40,"y":-560,"width":400,"height":400,"type":"file","file":"Atlas/Obsidian.md"},
+		{"id":"41bcf6a597cf1165","x":606,"y":-502,"width":400,"height":400,"type":"file","file":"Atlas/Technology.md"},
+		{"id":"d3c4735d0d750f76","x":-660,"y":-760,"width":400,"height":400,"type":"file","file":"Sources/Obsidian Callouts.md"},
+		{"id":"c84a56fee9bdfb30","x":-1099,"y":-638,"width":400,"height":400,"type":"link","url":"https://help.obsidian.md/Editing+and+formatting/Callouts"}
+	],
+	"edges":[
+		{"id":"2628dfab1f3644a6","fromNode":"d3c4735d0d750f76","fromSide":"bottom","toNode":"2228ba8cece716c0","toSide":"left","label":"Callouts"},
+		{"id":"79a390782ab0b3d2","fromNode":"85b1ce6ba4e2a71f","fromSide":"right","toNode":"2228ba8cece716c0","toSide":"bottom"},
+		{"id":"025a2501b367e9db","fromNode":"28be5f698f79ce70","fromSide":"left","toNode":"85b1ce6ba4e2a71f","toSide":"right"},
+		{"id":"2c18842ad3f6b1b1","fromNode":"442a1fee420a8f83","fromSide":"top","toNode":"2228ba8cece716c0","toSide":"bottom"},
+		{"id":"44e766ff608c914f","fromNode":"442a1fee420a8f83","fromSide":"right","toNode":"28be5f698f79ce70","toSide":"bottom"},
+		{"id":"56b9e58f0c04701b","fromNode":"41bcf6a597cf1165","fromSide":"left","toNode":"2228ba8cece716c0","toSide":"right"},
+		{"id":"ecc665cdf7249c15","fromNode":"2228ba8cece716c0","fromSide":"bottom","toNode":"442a1fee420a8f83","toSide":"top"},
+		{"id":"7897b9374fb4eb5a","fromNode":"c84a56fee9bdfb30","fromSide":"right","toNode":"d3c4735d0d750f76","toSide":"left"}
+	]
+}

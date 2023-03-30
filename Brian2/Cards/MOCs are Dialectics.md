@@ -1,9 +1,5 @@
-up:: [[LYT Kit]]
+up:: [[Concepts MOC]]
 tags:: #on/PKM 
-
-> [!NOTE]+ Notes on this note
-> This is a sanitized version of my actual note. 
-> - Some content and links have been removed.
 
 # MOCs are Dialectics
 Ideas are often forged in argument where opposing propositions are set against each other. 

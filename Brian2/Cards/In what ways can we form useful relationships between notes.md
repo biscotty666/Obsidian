@@ -1,9 +1,6 @@
-up:: [[LYT Kit]]
-tags:: #output/article☑️ 
+up:: [[MOCs Overview]]
+tags:: #on/PKM  
 URL:: [Medium](https://medium.com/@nickmilo22/in-what-ways-can-we-form-useful-relationships-between-notes-9b9ec46973c6)
-
-> [!NOTE] This is the 2nd best version. The best version is in the LYT Curriculum.
-> 
 
 # In what ways can we form useful relationships between notes?
 Are you into personal knowledge management (PKM)? Are you confused about when to use a **folder** versus a **tag** versus a **link** versus a **Map of Content**? Let’s explore each “relationship-builder” and how we can use them expertly.

@@ -1,35 +1,33 @@
 dates:: {{date}}
-tags:: #log/journal 
+tags:: #log/journal #goal #question #idea
+
+---
+<% tp.file.title %>
 
 <% tp.web.daily_quote() %>
 
-### Goals
-#goal 
+### Goals 
 
 - [ ] Finish yesterday's note
 
 
 ### Questions
-#question
+
+
+
+### Ideas
+
 
 
 ### Things to read/watch
 
 
+
 ### Progress
 
 
----
-- Three important action items today
-	- Big:
-	- Medium:
-	- Small:
-- Log
-- Scratchpad
-- Wind Down
-	- I am grateful for:
-	- Today I spoke with:
-	- Today I accomplished:
+
+
 ---
 ## Yesterday's Note
 

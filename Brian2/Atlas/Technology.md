@@ -11,4 +11,5 @@ tags:: #map
 -  [[Linux]]
 -  [[git]]
 -  [[Svelte]]
+- [[Syncthing]]
 - 

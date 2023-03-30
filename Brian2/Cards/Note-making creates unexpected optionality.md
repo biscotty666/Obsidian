@@ -1,10 +1,6 @@
 X:: [[Note-making sharpens your thinking]]
 tags:: #on/PKM 
 
-> [!NOTE]+ Notes on this note
-> This is a sanitized version of my actual note. 
-> - Content and links have been removed.
-
 # Note-making creates unexpected optionality
 A second-order effect that results from "linking your thinking" is how much "Optionality" it offers. 
 

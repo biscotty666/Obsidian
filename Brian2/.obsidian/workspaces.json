@@ -203,7 +203,8 @@
         "width": 288.5,
         "collapsed": true
       },
-      "active": "3574a12289f46027"
+      "active": "3574a12289f46027",
+      "workspaces-plus:settings-v1": {}
     },
     "Base": {
       "main": {
@@ -427,7 +428,8 @@
         "direction": "horizontal",
         "width": 278.5
       },
-      "active": "d535bd36dbc98e0b"
+      "active": "d535bd36dbc98e0b",
+      "workspaces-plus:settings-v1": {}
     },
     "Graph": {
       "main": {
@@ -631,5 +633,5 @@
       "active": "77966b04a7f238ed"
     }
   },
-  "active": "Clean Slate"
+  "active": "Base"
 }

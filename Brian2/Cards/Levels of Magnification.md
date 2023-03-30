@@ -1,4 +1,4 @@
-up:: [[Thinking MOC]]
+up:: [[Thinking]]
 tags:: #concept 
 
 # Levels of Magnification

@@ -1,4 +1,4 @@
-up:: [[LYT Kit]]
+up:: [[MOCs Overview]]
 tags:: #on/PKM 
 
 # What can we learn from nerdy discussions on MOCs?

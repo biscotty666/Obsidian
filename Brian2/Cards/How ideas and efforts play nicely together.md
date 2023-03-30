@@ -1,4 +1,6 @@
 up:: [[Efforts]]
+tags:: #concept 
+
 
 # How ideas and efforts play nicely together
 The best way to understand "efforts" is to walk through an example of how "efforts" naturally support existing ideas.

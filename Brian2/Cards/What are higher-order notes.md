@@ -1,9 +1,5 @@
-up:: [[LYT Kit]]
+up:: [[Zettelkasten]]
 tags:: #on/PKM 
-
-> [!NOTE]+ Notes on this note
-> This is a sanitized version of my actual note. 
-> - Some content and links have been removed.
 
 # What are higher-order notes?
 First let's zoom out. Every note in a note library is a note. They come in two basic varieties: 
