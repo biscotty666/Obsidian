@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Pkm video series",
+      "path": "+ Encounters/Pkm video series.md"
+    },
+    {
       "basename": "2023-03-30",
       "path": "Calendar/2023-03-30.md"
     },
     {
-      "basename": "2023-03-28",
-      "path": "Calendar/2023-03-28.md"
-    },
-    {
       "basename": "2023-03-29",
       "path": "Calendar/2023-03-29.md"
+    },
+    {
+      "basename": "2023-03-28",
+      "path": "Calendar/2023-03-28.md"
     },
     {
       "basename": "DSm2Visualization",
@@ -195,10 +199,6 @@
     {
       "basename": "Munger's Mental Models",
       "path": "Cards/Munger's Mental Models.md"
-    },
-    {
-      "basename": "No-Face",
-      "path": "Cards/No-Face.md"
     }
   ],
   "omittedPaths": [],

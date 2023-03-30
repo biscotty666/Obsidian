@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/2022/2023-03-29.md",
+                "file": "+ Encounters/Pkm video series.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Calendar/2022/2023-03-29.md",
+            "file": "+ Encounters/Pkm video series.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Calendar/2022/2023-03-29.md",
+            "file": "+ Encounters/Pkm video series.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,12 +115,12 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Calendar/2022/2023-03-29.md"
+            "file": "+ Encounters/Pkm video series.md"
           }
         }
       },
       {
-        "id": "8259c4c3447e20e9",
+        "id": "2f3c84833bba8fc9",
         "type": "leaf",
         "state": {
           "type": "calendar",
@@ -132,6 +132,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -139,38 +140,60 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "periodic-notes:Open today's daily note": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "a44390eb6cbdf424",
   "lastOpenFiles": [
-    "Cards/Word count python.sync-conflict-20230329-175312-HSJIBKW.md",
-    "+ Encounters/Natural Language and Statistics Article.sync-conflict-20230329-175040-HSJIBKW.md",
-    "+ Encounters/Natural Language and Statistics Article.md",
-    "+ Encounters/Untitled.md",
-    "Calendar/Weekly Notes/2023-W13.md",
-    "Calendar/2023-03-26.md",
+    "Calendar/2023-03-30.md",
+    "+ Encounters/Pkm video series.md",
     "Calendar/2023-03-29.md",
-    "Calendar/2023-03-28.md",
-    "Calendar/2022/2023-03-29.md",
-    "+ Encounters/Obsidian Excalidraw.md",
-    "Calendar/2022",
-    "+ Encounters/Discord.py Tutorial Video.sync-conflict-20230329-124941-HSJIBKW.md",
-    "Extras/Images/NLP.pdf",
-    "+ Encounters/Word count python.md",
-    "+ Encounters/Data Science Project Ideas.md",
-    "+ Encounters/Stop word List.md",
-    "Atlas/Daily Notes.md",
-    "Home.md",
-    "+ Encounters/Discord.py Tutorial Video.md",
-    "Atlas/Zettelkasten.md",
-    "Atlas/PKM.md",
-    "Atlas/Obsidian.md",
-    "Atlas/Meta PKM.md",
-    "+ Encounters/My PKM MOC.md",
-    "+ Encounters/My PKM Folders.md",
-    "Atlas/Library.md",
-    "Calendar/2013-03-10 Habit Planning.md",
-    "Extras/Templates/Template, Daily Note (kit).md"
+    "Text File.txt",
+    "Obsidian/Brian2/Cards/Thought Collisions.md",
+    "Obsidian/Cards/Practical Tactics for Finding Flow.md",
+    "Obsidian/Atlas/Python.md",
+    "Obsidian/Brian2/Sources/Obsidian Callouts.md",
+    "Obsidian/Cards/Should I have an Articles folder under Sources.md",
+    "Obsidian/Brian2/Brian2/Cards/Flow.md",
+    "Obsidian/Brian2/Brian2/Sources/NOMA Method Prompts.md",
+    "Obsidian/Brian2/Sources/Date String Formats.md",
+    "Obsidian/Brian2/Archive/Calendar/2020-04-17 - Event on Dataview w Tres Brenan.md",
+    "Obsidian/Brian2/Extras/Images/sort-by-file-name-a-to-z.png",
+    "Obsidian/Brian2/Brian2/Extras/Images/lyt-crafting-mocs-2.jpg",
+    "Obsidian/Brian2/Brian2/Atlas/Obsidian.md",
+    "Obsidian/Brian2/Brian2/Cards/Rubik's Cube.md",
+    "Obsidian/Brian2/Brian2/Extras/Images/NLP.pdf",
+    "Obsidian/Cards/Resiliency Routines help regain a sense of control.md",
+    "Obsidian/Brian2/Brian2/Cards/Thought Collisions.md",
+    "Obsidian/Brian2/Extras/Images/flow-four-factors.png",
+    "Obsidian/Brian2/Brian2/Home.md",
+    "Obsidian/Cards/Guiding assumptions for linked notes.md",
+    "Obsidian/Brian2/Cards/Preparing for the next day is an important habit.md",
+    "Obsidian/Brian2/Cards/No-Face.md",
+    "Obsidian/Brian2/Atlas/Python.md",
+    "Obsidian/Brian2/Brian2/+ Encounters/Writeup Syncthing experience.md",
+    "Obsidian/Cards/The 3 Phases of MOCs, a coda.md",
+    "Obsidian/Cards/OODA Loop.md",
+    "Obsidian/Brian/Templates/Daily Note.md",
+    "Obsidian/Brian2/Archive/Atlas/Life Map.md",
+    "Obsidian/Extras/Images/lyt-crafting-mocs-2.jpg",
+    "Obsidian/Brian2/Brian2/Extras/Images/flow-zone-channel.jpg",
+    "Obsidian/Brian2/Extras/Images/lyt-logo-04.png",
+    "Obsidian/Test.canvas",
+    "Obsidian/Brian2/Brian/Attachments/DSm1RBasics 1.pdf",
+    "Obsidian/Brian2/Extras/Images/lyt-crafting-mocs-3.jpg",
+    "Obsidian/Brian2/Brian/snippets/StackedPain.css",
+    "Obsidian/Brian2/Brian2/Extras/Images/pale-blue-dot-banner.jpg",
+    "Obsidian/Extras/Images/flow-four-factors.png",
+    "Obsidian/Extras/Images/wolverine-tethered.jpg",
+    "Obsidian/Brian2/Brian2/Test.canvas",
+    "Obsidian/Brian/Attachments/DSm2Visualization.pdf",
+    "Obsidian/Brian2/Extras/Images/DSm2Visualization.pdf",
+    "Obsidian/Brian2/Brian2/Extras/Images/DSm1RBasics 1.pdf",
+    "Obsidian/Brian2/Brian2/Extras/Images/DSm2Visualization.pdf",
+    "Obsidian/Extras/Images/NLP.pdf",
+    "Obsidian/Extras/Images/DSm1RBasics.pdf",
+    "Obsidian/Brian2/Test.canvas"
   ]
 }
