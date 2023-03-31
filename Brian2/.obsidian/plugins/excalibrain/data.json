@@ -152,7 +152,8 @@
     "Extras/Images/feynman-triangulation-1.png",
     "Atlas/Obsidian.md",
     "Calendar/2023-03-29.md",
-    "+ Encounters/Obsidian Training Class.md"
+    "+ Encounters/Obsidian Training Class.md",
+    "Extras/Canvases/Obsidian and PKM Class Overview.canvas"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",

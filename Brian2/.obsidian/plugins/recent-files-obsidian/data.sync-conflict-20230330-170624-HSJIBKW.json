@@ -1,44 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Obsidian and PKM Class Overview",
-      "path": "Extras/Canvases/Obsidian and PKM Class Overview.canvas"
+      "basename": "Efforts",
+      "path": "Atlas/Efforts.md"
     },
     {
-      "basename": "Obsidian and PKM Training Class",
-      "path": "Spaces/Obsidian and PKM Class/Obsidian and PKM Training Class.md"
+      "basename": "PH125 Introduction to Data Science",
+      "path": "Sources/PH125 Introduction to Data Science.md"
     },
     {
-      "basename": "+ About Spaces",
-      "path": "Spaces/+ About Spaces.md"
-    },
-    {
-      "basename": "excalibrain",
-      "path": "excalibrain.md"
-    },
-    {
-      "basename": "On the process of note-making",
-      "path": "Cards/On the process of note-making.md"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "Atlas/Obsidian.md"
-    },
-    {
-      "basename": "PKM",
-      "path": "Atlas/PKM.md"
-    },
-    {
-      "basename": "Obsidian Zettelkasten Note Taking",
-      "path": "Sources/Obsidian Zettelkasten Note Taking.md"
-    },
-    {
-      "basename": "Technology",
-      "path": "Atlas/Technology.md"
+      "basename": "Obsidian Training Class",
+      "path": "Spaces/Obsidian Training Class.md"
     },
     {
       "basename": "Home",
       "path": "Home.md"
+    },
+    {
+      "basename": "Data Science",
+      "path": "Atlas/Data Science.md"
+    },
+    {
+      "basename": "Svelte & D3 Video",
+      "path": "Sources/Svelte & D3 Video.md"
+    },
+    {
+      "basename": "Time series article",
+      "path": "+ Encounters/Time series article.md"
+    },
+    {
+      "basename": "Svelte D3 another video",
+      "path": "+ Encounters/Svelte D3 another video.md"
+    },
+    {
+      "basename": "Inbox",
+      "path": "Atlas/Inbox.md"
+    },
+    {
+      "basename": "Pkm video series",
+      "path": "+ Encounters/Pkm video series.md"
     },
     {
       "basename": "2023-03-30",
@@ -63,6 +63,14 @@
     {
       "basename": "DSm1RBasics",
       "path": "Extras/Images/DSm1RBasics.pdf"
+    },
+    {
+      "basename": "excalibrain",
+      "path": "excalibrain.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "Atlas/Obsidian.md"
     },
     {
       "basename": "feynman-triangulation-1",
@@ -103,10 +111,6 @@
     {
       "basename": "How ideas and efforts play nicely together",
       "path": "Cards/How ideas and efforts play nicely together.md"
-    },
-    {
-      "basename": "Efforts",
-      "path": "Atlas/Efforts.md"
     },
     {
       "basename": "Gangsta Rap, Narco Bolero and Blues",
@@ -195,10 +199,6 @@
     {
       "basename": "MOCs are both workbenches and maps",
       "path": "Cards/MOCs are both workbenches and maps.md"
-    },
-    {
-      "basename": "MOCs are Dialectics",
-      "path": "Cards/MOCs are Dialectics.md"
     }
   ],
   "omittedPaths": [],

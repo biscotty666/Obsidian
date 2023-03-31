@@ -1,8 +1,9 @@
 up:: [[Obsidian]]
-tags:: #note/develop🍃 
+tags:: #note/develop🍃 #effort 
 X:: [[Zettelkasten]]
+Rank:: 1
 
-### Obsidian Training Class
+### Obsidian and PKM Training Class
 
 Friend:: [[Word count python]]
 

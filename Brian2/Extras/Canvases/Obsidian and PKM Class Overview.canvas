@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"type":"file","file":"Spaces/Obsidian and PKM Class/Obsidian and PKM Training Class.md","id":"26bdc326251cf40f","x":-180,"y":-1520,"width":400,"height":400},
+		{"type":"file","file":"Atlas/PKM.md","id":"4c0aad4ae976a667","x":500,"y":-1120,"width":400,"height":400},
+		{"type":"file","file":"Atlas/Obsidian.md","id":"e239399dd5cb2abc","x":-880,"y":-1120,"width":400,"height":400},
+		{"type":"text","text":"PKM","id":"564ef78fe9dd20e6","x":-105,"y":-640,"width":250,"height":60},
+		{"type":"text","text":"Idea","id":"26eaf202278e4d66","x":-296,"y":-490,"width":199,"height":60,"color":"4"},
+		{"type":"text","text":"Notes","id":"4c4c9f4377f7f2a0","x":-78,"y":-490,"width":199,"height":60,"color":"4"},
+		{"type":"text","text":"Maps of Content","id":"a3b88c4a93dbe9bb","x":145,"y":-490,"width":199,"height":60,"color":"4"},
+		{"type":"text","text":"Introduction to PKM","id":"2f6dac3644909602","x":-880,"y":-490,"width":250,"height":60,"color":"5"},
+		{"type":"text","text":"Course Introduction","id":"ed224c44516b6a88","x":-755,"y":-610,"width":250,"height":60,"color":"5"},
+		{"type":"text","text":"Introduction to Obsidian","id":"621e8bdd4f441f34","x":-580,"y":-490,"width":250,"height":60,"color":"5"},
+		{"type":"text","text":"Obsidian","id":"8f511aa87a8fc8b8","x":575,"y":-640,"width":250,"height":60},
+		{"type":"text","text":"Installation and  Basic Use","id":"74684696c121719e","x":400,"y":-490,"width":250,"height":60},
+		{"type":"file","file":"Cards/On the process of note-making.md","id":"2a8da1a252d3d0ef","x":-97,"y":-340,"width":238,"height":280}
+	],
+	"edges":[
+		{"id":"297fc9228a00bb05","fromNode":"e239399dd5cb2abc","fromSide":"right","toNode":"26bdc326251cf40f","toSide":"left"},
+		{"id":"92299a009125390c","fromNode":"4c0aad4ae976a667","fromSide":"left","toNode":"26bdc326251cf40f","toSide":"right"},
+		{"id":"d65f65043dfec33c","fromNode":"2a8da1a252d3d0ef","fromSide":"top","toNode":"4c4c9f4377f7f2a0","toSide":"bottom"},
+		{"id":"ab0dc456794e126b","fromNode":"ed224c44516b6a88","fromSide":"top","toNode":"26bdc326251cf40f","toSide":"bottom"},
+		{"id":"3d9e144b0ae59b2a","fromNode":"2f6dac3644909602","fromSide":"top","toNode":"ed224c44516b6a88","toSide":"bottom"},
+		{"id":"c51ac3f8e7daf122","fromNode":"621e8bdd4f441f34","fromSide":"top","toNode":"ed224c44516b6a88","toSide":"bottom"},
+		{"id":"0e9e346a88e76afa","fromNode":"564ef78fe9dd20e6","fromSide":"top","toNode":"26bdc326251cf40f","toSide":"bottom"},
+		{"id":"33881a45b466c899","fromNode":"26eaf202278e4d66","fromSide":"top","toNode":"564ef78fe9dd20e6","toSide":"bottom"},
+		{"id":"de0089c8b2ad6de4","fromNode":"4c4c9f4377f7f2a0","fromSide":"top","toNode":"564ef78fe9dd20e6","toSide":"bottom"},
+		{"id":"498d2d14fa3a0aad","fromNode":"a3b88c4a93dbe9bb","fromSide":"top","toNode":"564ef78fe9dd20e6","toSide":"bottom"},
+		{"id":"c4fce741871aab23","fromNode":"74684696c121719e","fromSide":"top","toNode":"8f511aa87a8fc8b8","toSide":"bottom"},
+		{"id":"8cfe0400d77ab810","fromNode":"8f511aa87a8fc8b8","fromSide":"top","toNode":"26bdc326251cf40f","toSide":"bottom"}
+	]
+}
