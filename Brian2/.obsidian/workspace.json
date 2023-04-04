@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3ec105dea3adf419",
+        "id": "05ba9cc16215d628",
         "type": "tabs",
         "children": [
           {
-            "id": "042767b5ee6c8e50",
+            "id": "83e1bc11fd49d11c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,62 +18,93 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Obsidian Training Class",
+                  "title": "2023-04-03",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/Obsidian and PKM Class/Obsidian and PKM Training Class.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2023-04-03.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}}}"
                 },
                 {
-                  "title": "2023-03-30",
+                  "title": "Tasks",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2023-03-30.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":5.25}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Tasks.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":0.9464285714285714}"
                 },
                 {
-                  "title": "2023-03-29",
+                  "title": "2023-04-03",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2023-03-29.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2023-04-03.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
                 },
                 {
-                  "title": "2023-03-30",
+                  "title": "Tasks",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2023-03-30.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":2},\"to\":{\"line\":22,\"ch\":2}}}"
-                },
-                {
-                  "title": "2023-03-28",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2023-03-28.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "2023-03-29",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2023-03-29.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "2023-03-29",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2022/2023-03-29.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Tasks.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":0},\"to\":{\"line\":25,\"ch\":0}},\"scroll\":3.7916666666666665}"
                 }
               ]
             },
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Extras/Canvases/Obsidian and PKM Class Overview.canvas",
-                "viewState": {
-                  "x": 59.92940152207478,
-                  "y": -364.6685201793722,
-                  "zoom": -0.7459945599673318
+                "file": "Atlas/R.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5369857e7d271fa8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "2023-04-03",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2023-04-03.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
                 }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extras/Templates/Daily Note.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fcb1b3b62e75affe",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+ Encounters/Tasks.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +151,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#concept",
+                "query": "tag:#note/investigate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -146,7 +177,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -159,7 +191,7 @@
       {
         "id": "ea89fdbc5439f479",
         "type": "tabs",
-        "dimension": 48.36702954898911,
+        "dimension": 74.18738049713194,
         "children": [
           {
             "id": "4f6e4ddebde66a86",
@@ -196,31 +228,31 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Extras/Canvases/Obsidian and PKM Class Overview.canvas",
+                "file": "Extras/Templates/Daily Note.md",
                 "options": {
-                  "collapse-filter": true,
-                  "search": "",
+                  "collapse-filter": false,
+                  "search": "obsidian",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
+                  "localInterlinks": true,
                   "showTags": false,
                   "showAttachments": true,
-                  "hideUnresolved": false,
+                  "hideUnresolved": true,
                   "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
+                  "textFadeMultiplier": -0.7,
+                  "nodeSizeMultiplier": 0.457291666666667,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
+                  "collapse-forces": false,
                   "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
+                  "repelStrength": 15.7291666666667,
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.5168584698559424,
-                  "close": false
+                  "close": true
                 }
               }
             }
@@ -240,7 +272,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extras/Canvases/Obsidian and PKM Class Overview.canvas"
+                "file": "Extras/Templates/Daily Note.md"
               }
             }
           },
@@ -261,12 +293,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "cc261747cbab30f2",
         "type": "tabs",
-        "dimension": 51.63297045101089,
+        "dimension": 25.812619502868063,
         "children": [
           {
             "id": "d535bd36dbc98e0b",
@@ -283,7 +316,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Canvases/Obsidian and PKM Class Overview.canvas",
+                "file": "Extras/Templates/Daily Note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -309,7 +342,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extras/Canvases/Obsidian and PKM Class Overview.canvas",
+                "file": "Extras/Templates/Daily Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -320,7 +353,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 271.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -331,63 +365,67 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "periodic-notes:Open today's daily note": false,
-      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "042767b5ee6c8e50",
+  "active": "5369857e7d271fa8",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "excalibrain.md",
-    "Extras/Canvases/Obsidian and PKM Class Overview.canvas",
-    "Spaces/Obsidian and PKM Class/Obsidian and PKM Training Class.md",
-    "Extras/Canvases",
-    "Sources/Obsidian Zettelkasten Note Taking.md",
-    "Atlas/Obsidian.md",
+    "+ Encounters/Tasks.md",
+    "Extras/Templates/Daily Note.md",
+    "Atlas/R.md",
+    "Calendar/2023-04-03.md",
+    "Calendar/Weekly Notes/2023-W13.md",
+    "Calendar/2023-04-02.md",
+    "+ Encounters/Data Variable Types.md",
+    "+ Encounters/Determine proportions for categorical data.md",
+    "Atlas/Notebox.md",
+    "+ Encounters/Obsidian Slides Plugin.md",
+    "+ Encounters/Excalidraw.md",
+    "Extras/Images/Pasted image 20230403135519.png",
+    "Extras/Images/Pasted image 20230403134633.png",
+    "Atlas/Inbox.md",
+    "+ Encounters/Untitled 2.md",
+    "Calendar/2023-04-01.md",
+    "+ Encounters/Determine proportion of data below a certain value.md",
+    "+ Encounters/Display plots next to each other.md",
+    "Atlas/Data Science.md",
+    "Atlas/Statistics.md",
+    "+ Encounters/Data Vizualization Reading List.md",
+    "Atlas/Data Visualization.md",
+    "+ Encounters/Untitled 1.md",
+    "+ Encounters/ggplot2 Cheatsheet.md",
     "Atlas/Technology.md",
-    "Home.md",
-    "Cards/On the process of note-making.md",
-    "Calendar/2023-03-30.md",
+    "+ Encounters/Untitled.md",
+    "+ Encounters/data.table vs dplyr.md",
+    "Sources/Introduction to Data Science.md",
+    "Extras/Canvases/OPCourseIntro.canvas",
+    "Extras/Canvases/Obsidian and PKM Class Overview.canvas",
+    "Extras/Images/Pasted image 20230401103803.jpg",
+    "Extras/Slides",
+    "Extras/Canvases/What is Obsidian?.canvas",
+    "Extras/Images/image 2.webp",
+    "Extras/Images/image 1.webp",
+    "Extras/Images/Obsidian Logo.webp",
+    "Extras/Images/image.webp",
+    "Extras/Canvases",
     "Spaces/Obsidian and PKM Class",
     "Obsidian and PKM Class",
     "Untitled",
     "Untitled 1",
     "Obsidian and PKM",
-    "Spaces/Obsidian Training Class.md",
-    "+ Encounters/Time series article.md",
-    "+ Encounters/Svelte D3 another video.md",
-    "+ Encounters/Pkm video series.md",
     "Text File.txt",
-    "Obsidian/Tutorial/Tutorial/ideas.md",
-    "Obsidian/Brian2/Cards/Sensemaking happens by triangulation.md",
-    "Obsidian/Brian2/Cards/The truest habit metaphors are additive.md",
-    "Obsidian/Brian2/Sources/+ About Sources.md",
-    "Obsidian/Cards/Idea Emergence (defn).md",
-    "Obsidian/Sources/PH125 Introduction to Data Science.md",
-    "Obsidian/Cards/The truest habit metaphors are additive.md",
-    "Obsidian/Sources/Obsidian Templater.md",
     "Obsidian/Extras/Images/flow-zone-channel.jpg",
-    "Obsidian/Cards/Words I've used to describe important habits.md",
-    "Obsidian/Cards/Emergence (defn).md",
-    "Obsidian/Brian2/Cards/Lindy Effect.md",
-    "Obsidian/Tutorial/Tutorial/test back.md",
-    "Obsidian/Brian2/Tutorial/Tutorial/Thinking fast and slow/Table of contents.md",
     "Obsidian/Brian2/Extras/Images/lyt-logo-04.png",
     "Obsidian/Brian2/Extras/Images/sort-by-file-name-a-to-z.png",
-    "Obsidian/Brian2/Extras/Images/feynman-triangulation-1.png",
-    "Obsidian/Extras/Images/feynman-triangulation-1.png",
-    "Obsidian/Extras/Images/lyt-mode-graphic-1.jpg",
-    "Obsidian/Extras/Images/lyt-kit-example-cooling-pad-.jpg",
-    "Obsidian/Extras/Images/stay-on-target.jpg",
-    "Obsidian/Brian2/Extras/Images/flow-map-original.jpg",
-    "Obsidian/Brian2/Extras/Images/lyt-kit-example-cooling-pad-.jpg",
     "Obsidian/Brian2/Extras/Images/DSm1RBasics.pdf",
     "Obsidian/Test.canvas",
     "Obsidian/Brian2/Extras/Images/DSm2Visualization.pdf",
-    "Obsidian/Brian2/Extras/Images/NLP.pdf",
     "Obsidian/Brian2/Test.canvas",
     "Obsidian/Brian2/Brian2/Test.canvas",
     "Test.canvas",

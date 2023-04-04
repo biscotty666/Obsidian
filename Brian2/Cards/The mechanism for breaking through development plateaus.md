@@ -7,7 +7,7 @@ To break through the a-curve plateau, we must get out of our newly established "
 Physical development by strength training is the clearest example. 
 Russian Conjugate Periodization [^1]—used for the physical development of Olympic athletes—shows how to "game" the curve by evolving the routine around every 4-5 weeks, which forces the muscles into their own form of "cognitive thinking."
 
-- [ ] Needs more clarification on "gaming" the curve
+- [x] Needs more clarification on "gaming" the curve ✅ 2023-04-01
 
 A key term here is "adaption." (explore Tom Mysklinski's article to put it into context)
 

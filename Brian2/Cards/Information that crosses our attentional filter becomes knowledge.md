@@ -1,3 +1,4 @@
+up:: [[Zettelkasten]]
 X:: [[+ About Cards]]
 tags:: #on/PKM 
 

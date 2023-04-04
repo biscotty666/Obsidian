@@ -2,7 +2,7 @@ up:: [[FlowCreation MOC]]
 tags:: #on/flow 
 
 # Solutions to Flow Stoppers
-- [ ] Organize these using the four factors
+- [x] Organize these using the four factors ✅ 2023-04-01
 
 1. **Reduce Distractions** — This is the number one killer of flow. (Main Element: Attention)
 2. **Do activities you naturally want to do** — Obviously this can get you in trouble if these activities take you away from your responsibilities to your family, finances, friends, and to society as a whole. So with that disclaimer out of the way, if you do the things that easily get you into flow—and ideally create some sort of additional value (extra money, quality time with others)—then it's likely not a destructive type of flow (like playing online games too much). (Main Element: [[Enthusiasm (re Flow)]])

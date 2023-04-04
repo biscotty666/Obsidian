@@ -1,4 +1,7 @@
-tags:: 
+tags:: #note/weekly 
+
+### {{title}}
+
 ## Reflections
 
 

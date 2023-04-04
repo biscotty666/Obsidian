@@ -1,5 +1,5 @@
 up:: [[Obsidian]]
-tags:: #source/documentation 
+tags:: #source/documentation #on/Obsidian
 
 # Obsidian Callouts
 

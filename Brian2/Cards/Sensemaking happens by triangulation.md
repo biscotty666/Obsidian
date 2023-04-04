@@ -2,16 +2,6 @@ up:: [[MOCs Overview]]
 tags:: #on/PKM 
 rank:: 4
 
-- Outputs
-	- output::  2022-02-01 - lesson retired
-	- output:: 2022-07-21 - [twitter thread](https://twitter.com/NickMilo/status/1562063375491817473).
-	- output:: 2022-07-21 - [youtube video](https://www.youtube.com/watch?v=JV_7nppxv7A).
-	- output:: 2022-07-26 - [newsletter](https://ckarchive.com/b/n4uohvh8xw94n).
-	- output:: 2022-xx-xx - website
-
-> [!NOTE]+ Notes on this note
-> This is a sanitized version of my actual note. 
-> - Some content and links have been removed.
 
 # Sensemaking happens by triangulation
 > Triangulation is using two known points to find a third point. 

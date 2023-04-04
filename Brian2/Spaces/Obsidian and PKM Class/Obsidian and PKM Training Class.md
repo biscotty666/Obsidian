@@ -1,5 +1,5 @@
 up:: [[Obsidian]]
-tags:: #note/develop🍃 #effort 
+tags:: #note/develop🍃 #effort #map/canvas
 X:: [[Zettelkasten]]
 Rank:: 1
 

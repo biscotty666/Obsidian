@@ -1,14 +1,29 @@
 dates:: {{date}}
-tags:: #log/journal #goal #question #idea
+tags:: #log/journal #note/daily 
 
 ---
-<% tp.file.title %>
+## <% tp.file.title %>
 
 <% tp.web.daily_quote() %>
 
 ### Goals 
 
-- [ ] Finish yesterday's note
+##### High and medium priority
+
+```tasks
+not done
+(priority is high) OR (priority is medium)
+sort by priority
+```
+
+##### Others
+
+
+```tasks
+not done
+(priority is not high) AND (priority is not medium)
+sort by priority
+```
 
 
 ### Questions

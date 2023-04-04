@@ -1,6 +1,13 @@
 up:: [[Technology]]
 tags:: #map
+X:: [[Introduction to Data Science]]
 
 # R
 
-[[Introduction to Data Science]]
+## R reference notes
+```dataview
+list from #on/R & #note/reference 
+```
+
+
+

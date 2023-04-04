@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Thinking MOC",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Thinking MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -1090,7 +1096,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Calendar/2023-03-30.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -1119,8 +1125,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -1259,7 +1264,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Atlas/PKM.md",
+                "file": "Calendar/2023-03-30.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -1303,7 +1308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/PKM.md"
+                "file": "Calendar/2023-03-30.md"
               }
             }
           },
@@ -1324,7 +1329,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "cc261747cbab30f2",
@@ -1345,7 +1351,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/PKM.md",
+                "file": "Calendar/2023-03-30.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1371,7 +1377,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/PKM.md",
+                "file": "Calendar/2023-03-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -1381,8 +1387,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5028076171875,
-    "collapsed": true
+    "width": 305.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -1395,13 +1400,14 @@
       "periodic-notes:Open today's daily note": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "a5d8fa9914a9a6b6",
   "lastOpenFiles": [
+    "Home.md",
+    "Calendar/2023-03-30.md",
     "Extras/Canvases",
     "Cards/LYT Glossary.md",
     "Atlas/PKM.md",
     "Cards/Why Categories for Your Notes are a Good Idea.md",
-    "Home.md",
     "Atlas/Plan and Review.md",
     "Atlas/Efforts.md",
     "Atlas/Concepts MOC.md",

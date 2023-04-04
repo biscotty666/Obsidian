@@ -1,5 +1,5 @@
 up:: [[Data Science]]
-tags:: #source/article #projects #studies
+tags:: #source/article #projects #studies #source/article/toread
 
 # Data Science 10 Guided Projects
 

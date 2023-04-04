@@ -56,7 +56,7 @@
   "showNeighborCount": true,
   "showFullTagName": false,
   "maxItemCount": 30,
-  "renderSiblings": true,
+  "renderSiblings": false,
   "baseNodeStyle": {
     "prefix": "",
     "backgroundColor": "#00000066",
@@ -153,7 +153,9 @@
     "Atlas/Obsidian.md",
     "Calendar/2023-03-29.md",
     "+ Encounters/Obsidian Training Class.md",
-    "Extras/Canvases/Obsidian and PKM Class Overview.canvas"
+    "Extras/Canvases/Obsidian and PKM Class Overview.canvas",
+    "Extras/Canvases/OPCourseIntro.canvas",
+    "Atlas/PKM.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",

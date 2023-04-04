@@ -1,10 +1,6 @@
 up:: [[Concepts MOC]]
 tags:: #concept 
 
-> [!NOTE]+ Notes on this note
-> This is a sanitized version of my actual note. 
-> - Some content and links have been removed.
-
 # Gall's Law
 > *[[Structure must be earned]]!* #source/quote/my 
 

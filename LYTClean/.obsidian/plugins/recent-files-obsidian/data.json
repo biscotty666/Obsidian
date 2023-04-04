@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "PKM",
-      "path": "Atlas/PKM.md"
+      "basename": "2023-03-30",
+      "path": "Calendar/2023-03-30.md"
     },
     {
       "basename": "Home",
       "path": "Home.md"
+    },
+    {
+      "basename": "PKM",
+      "path": "Atlas/PKM.md"
     },
     {
       "basename": "Plan and Review",
@@ -195,10 +199,6 @@
     {
       "basename": "Resiliency Routines help regain a sense of control",
       "path": "Cards/Resiliency Routines help regain a sense of control.md"
-    },
-    {
-      "basename": "Reps",
-      "path": "Cards/Reps.md"
     }
   ],
   "omittedPaths": [],

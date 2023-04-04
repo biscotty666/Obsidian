@@ -27,6 +27,7 @@ These are maps to launch your `efforts`. Where would you like to go?
 	- [[Plan and Review]]
 - Personal
 	- [[Studies]]
+	- [[Brian Carey]]
 	- Experiences
 		- [[Work]]
 		- [[Travel]]

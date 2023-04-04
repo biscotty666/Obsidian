@@ -1,9 +1,14 @@
 up:: [[Studies]]
-tags:: #source/course #effort 
-X:: [[Data Science]] [[R]] [[Data Visualization]]
+tags:: #source/course #effort #on/R  #on/DataScience #on/DataVisualization 
+X:: [[Data Science]] [[R]] [[Data Visualization]] [[Introduction to Data Science]]
 Rank:: 2
 
 # PH125 Introduction to Data Science
+
+
+
+[[Mastering the Fundamentals of Statistics for Data Science -Basic to Advance Level- Part 1]]
+
 
 #### [PH 125.1x Data Science: R Basics](https://learning.edx.org/course/course-v1:HarvardX+PH125.1x+3T2022/home)
 [Data Camp Module 1]()

@@ -1,21 +1,14 @@
 {
   "collapse-filter": false,
-  "search": "evergreen",
-  "showTags": true,
+  "search": "tag:#on/R",
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Cards",
-      "color": {
-        "a": 1,
-        "rgb": 5562450
-      }
-    },
-    {
-      "query": "path:Atlas",
+      "query": "tag:#note/reference",
       "color": {
         "a": 1,
         "rgb": 14725458
@@ -26,12 +19,12 @@
   "showArrow": true,
   "textFadeMultiplier": -1.8,
   "nodeSizeMultiplier": 1.35738663675693,
-  "lineSizeMultiplier": 0.447842096249358,
+  "lineSizeMultiplier": 2.35859375,
   "collapse-forces": false,
   "centerStrength": 0.418727745164084,
-  "repelStrength": 11.541755888651,
+  "repelStrength": 13.1770833333333,
   "linkStrength": 0.577087794432548,
   "linkDistance": 84,
-  "scale": 0.14587524706194854,
+  "scale": 0.1458752470619476,
   "close": false
 }

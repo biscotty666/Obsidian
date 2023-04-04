@@ -11,14 +11,12 @@
             "id": "a44390eb6cbdf424",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Extras/Canvases/Obsidian and PKM Class Overview.canvas",
-                "viewState": {
-                  "x": -163.76301962566956,
-                  "y": -615.4664484230359,
-                  "zoom": -1.914895278335672
-                }
+                "file": "+ Encounters/Graph Theory Algorithms.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -47,7 +45,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Home",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -88,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Extras/Canvases/Obsidian and PKM Class Overview.canvas",
+            "file": "+ Encounters/Graph Theory Algorithms.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Extras/Canvases/Obsidian and PKM Class Overview.canvas",
+            "file": "+ Encounters/Graph Theory Algorithms.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -117,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Extras/Canvases/Obsidian and PKM Class Overview.canvas"
+            "file": "+ Encounters/Graph Theory Algorithms.md"
           }
         }
       },
@@ -146,41 +144,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a44390eb6cbdf424",
+  "active": "87f6e8793f7cc4fa",
   "lastOpenFiles": [
-    "Spaces/Obsidian and PKM Class/Obsidian and PKM Training Class.md",
-    "Spaces/+ About Spaces.md",
+    "+ Encounters/I talked to eric.md",
+    "+ Encounters/Graph Theory Algorithms.md",
+    "+ Encounters/Trim bushes.md",
+    "Calendar/Weekly Notes/2023-W14.md",
+    "Extras/Images/Pasted image 20230401103803.jpg",
+    "+ Encounters/Untitled.md",
+    "+ Encounters/test.md",
+    "Excalidraw/Drawing 2023-04-01 12.43.07.excalidraw.md",
+    "Cards/Information that crosses our attentional filter becomes knowledge.md",
+    "+ Encounters/Another computer vision project.md",
+    "+ Encounters/BC Skill Areas.md",
+    "+ Encounters/SQL.md",
+    "Spaces/Brian Carey.md",
+    "Sources/+ About Sources.md",
+    "Atlas/Linux.md",
+    "Sources/Natural Language and Statistics Article.md",
+    "Cards/PKM Definition.md",
+    "Cards/PKM video series.md",
+    "Cards/Stop word List.md",
+    "Cards/Svelte D3 another video.md",
+    "Sources/Bash Scripting Tutorial.md",
+    "Atlas/Studies.sync-conflict-20230331-233715-HSJIBKW.md",
+    "Sources/The big differences between efforts and projects.md",
+    "Sources/Time Series Forecasting Wind Power.md",
+    "Calendar/2023-03-31.md",
+    "Calendar/2023-03-30.md",
+    "+ Encounters/IBM vidéo with data viz examples.md",
+    "Extras/Canvases/Obsidian and PKM Class Overview.canvas",
     "Untitled.canvas",
-    "Atlas/Efforts.md",
-    "Spaces/Obsidian and PKM Class/Obsidian Training Class.md",
-    "excalibrain.md",
     "Spaces/Obsidian and PKM Class",
     "Untitled 1",
     "Obsidian and PKM",
-    "Home.md",
-    "Sources/PH125 Introduction to Data Science.md",
-    "Atlas/Data Science.md",
-    "Sources/Svelte & D3 Video.md",
-    "+ Encounters/Time series article.md",
-    "+ Encounters/Svelte D3 another video.md",
-    "Atlas/Inbox.md",
-    "+ Encounters/Pkm video series.md",
-    "Calendar/2023-03-30.md",
-    "Calendar/2023-03-29.md",
     "Text File.txt",
-    "Obsidian/Brian2/Cards/Thought Collisions.md",
-    "Obsidian/Cards/Practical Tactics for Finding Flow.md",
-    "Obsidian/Atlas/Python.md",
-    "Obsidian/Brian2/Sources/Obsidian Callouts.md",
-    "Obsidian/Cards/Should I have an Articles folder under Sources.md",
-    "Obsidian/Brian2/Brian2/Cards/Flow.md",
-    "Obsidian/Brian2/Brian2/Sources/NOMA Method Prompts.md",
-    "Obsidian/Brian2/Sources/Date String Formats.md",
-    "Obsidian/Brian2/Archive/Calendar/2020-04-17 - Event on Dataview w Tres Brenan.md",
     "Obsidian/Brian2/Extras/Images/sort-by-file-name-a-to-z.png",
     "Obsidian/Brian2/Brian2/Extras/Images/lyt-crafting-mocs-2.jpg",
-    "Obsidian/Brian2/Brian2/Atlas/Obsidian.md",
-    "Obsidian/Brian2/Brian2/Cards/Rubik's Cube.md",
     "Obsidian/Brian2/Brian2/Extras/Images/NLP.pdf",
     "Obsidian/Brian2/Extras/Images/flow-four-factors.png",
     "Obsidian/Extras/Images/lyt-crafting-mocs-2.jpg",
@@ -192,7 +192,6 @@
     "Obsidian/Brian2/Brian/snippets/StackedPain.css",
     "Obsidian/Brian2/Brian2/Extras/Images/pale-blue-dot-banner.jpg",
     "Obsidian/Extras/Images/flow-four-factors.png",
-    "Obsidian/Extras/Images/wolverine-tethered.jpg",
     "Obsidian/Brian2/Brian2/Test.canvas",
     "Obsidian/Brian/Attachments/DSm2Visualization.pdf",
     "Obsidian/Brian2/Extras/Images/DSm2Visualization.pdf",

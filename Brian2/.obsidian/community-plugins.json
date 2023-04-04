@@ -14,7 +14,10 @@
   "nldates-obsidian",
   "obsidian-hover-editor",
   "obsidian-auto-link-title",
-  "templater-obsidian",
   "excalibrain",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "templater-obsidian",
+  "obsidian-advanced-slides",
+  "obsidian-tasks-plugin",
+  "obsidian-icons-plugin"
 ]

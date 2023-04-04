@@ -22,7 +22,6 @@ SORT file.cday asc
 LIMIT 20
 ```
 
-
 ---
 
 If you want to encounter some new things, check out: [🐦](https://www.twitter.com) or [📚](https://readwise.io/lyt/)          

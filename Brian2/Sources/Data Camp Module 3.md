@@ -1,4 +1,4 @@
-up::  [[PH125 Course]]
+up::  [[PH125 Introduction to Data Science]]
 tags:: #source/course #on/DataScience #on/R #on/DataVisualization
 
 # Data Camp Module 3

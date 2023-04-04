@@ -14,8 +14,6 @@ TABLE WITHOUT ID
 FROM #effort
 
 SORT rank asc
-
-
 ```
 
 
