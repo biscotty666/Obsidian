@@ -1,20 +1,192 @@
 {
   "recentFiles": [
     {
-      "basename": "Daily Note",
-      "path": "Extras/Templates/Daily Note.md"
+      "basename": "SvelteKit from Scratch",
+      "path": "+ Encounters/SvelteKit from Scratch.md"
     },
     {
-      "basename": "Tasks",
-      "path": "+ Encounters/Tasks.md"
+      "basename": "Sveltekit Update Title",
+      "path": "+ Encounters/Sveltekit Update Title.md"
+    },
+    {
+      "basename": "Writeup Syncthing experience",
+      "path": "+ Encounters/Writeup Syncthing experience.md"
+    },
+    {
+      "basename": "SvelteKit Course",
+      "path": "+ Encounters/SvelteKit Course.md"
+    },
+    {
+      "basename": "Piano Journal",
+      "path": "+ Encounters/Piano Journal.md"
+    },
+    {
+      "basename": "Obsidian Slides Plugin",
+      "path": "+ Encounters/Obsidian Slides Plugin.md"
+    },
+    {
+      "basename": "Obsidian Excalidraw",
+      "path": "+ Encounters/Obsidian Excalidraw.md"
+    },
+    {
+      "basename": "Obsidian & PKM Course Introduction",
+      "path": "+ Encounters/Obsidian & PKM Course Introduction.md"
+    },
+    {
+      "basename": "Nginx deep dive video",
+      "path": "+ Encounters/Nginx deep dive video.md"
+    },
+    {
+      "basename": "Graph Theory Algorithms",
+      "path": "+ Encounters/Graph Theory Algorithms.md"
+    },
+    {
+      "basename": "dnorm, pnorm, qnorm, rnorm",
+      "path": "Cards/dnorm, pnorm, qnorm, rnorm.md"
+    },
+    {
+      "basename": "Introduction to Data Science",
+      "path": "Sources/Introduction to Data Science.md"
+    },
+    {
+      "basename": "Display plots next to each other",
+      "path": "Cards/Display plots next to each other.md"
+    },
+    {
+      "basename": "Determine proportions for categorical data",
+      "path": "Cards/Determine proportions for categorical data.md"
+    },
+    {
+      "basename": "Determine proportion of data below a certain value",
+      "path": "Cards/Determine proportion of data below a certain value.md"
+    },
+    {
+      "basename": "Data Vizualization Reading List",
+      "path": "Cards/Data Vizualization Reading List.md"
+    },
+    {
+      "basename": "Data Variable Types",
+      "path": "Cards/Data Variable Types.md"
+    },
+    {
+      "basename": "BC Skill Areas",
+      "path": "+ Encounters/BC Skill Areas.md"
+    },
+    {
+      "basename": "Central Limit Theorem",
+      "path": "Cards/Central Limit Theorem.md"
+    },
+    {
+      "basename": "data.table vs dplyr",
+      "path": "Cards/data.table vs dplyr.md"
     },
     {
       "basename": "R",
       "path": "Atlas/R.md"
     },
     {
+      "basename": "Z-score or Standard Units",
+      "path": "Cards/Z-score or Standard Units.md"
+    },
+    {
+      "basename": "Probability and Statistics",
+      "path": "Atlas/Probability and Statistics.md"
+    },
+    {
+      "basename": "Stratification",
+      "path": "Cards/Stratification.md"
+    },
+    {
+      "basename": "Probability that data lies within a given range",
+      "path": "Cards/Probability that data lies within a given range.md"
+    },
+    {
+      "basename": "Quantiles, Quartiles, Percentiles",
+      "path": "Cards/Quantiles, Quartiles, Percentiles.md"
+    },
+    {
+      "basename": "Normal Distribution",
+      "path": "Cards/Normal Distribution.md"
+    },
+    {
+      "basename": "The 68-95-99.7",
+      "path": "Cards/The 68-95-99.7.md"
+    },
+    {
+      "basename": "Standard Deviation",
+      "path": "Cards/Standard Deviation.md"
+    },
+    {
+      "basename": "Show proportion for each category",
+      "path": "Cards/Show proportion for each category.md"
+    },
+    {
+      "basename": "QQ-plots",
+      "path": "Cards/QQ-plots.md"
+    },
+    {
+      "basename": "Data Visualization",
+      "path": "Atlas/Data Visualization.md"
+    },
+    {
+      "basename": "Inbox",
+      "path": "Atlas/Inbox.md"
+    },
+    {
+      "basename": "ggplot2 Cheatsheet",
+      "path": "Cards/ggplot2 Cheatsheet.md"
+    },
+    {
+      "basename": "Notebox",
+      "path": "Atlas/Notebox.md"
+    },
+    {
+      "basename": "2023-04-06",
+      "path": "Calendar/2023-04-06.md"
+    },
+    {
+      "basename": "2023-04-05",
+      "path": "Calendar/2023-04-05.md"
+    },
+    {
+      "basename": "Drawing 2023-04-06 11.20.35.excalidraw",
+      "path": "Extras/Excalidraw/Drawing 2023-04-06 11.20.35.excalidraw.md"
+    },
+    {
+      "basename": "Brian Carey",
+      "path": "Spaces/Brian Carey.md"
+    },
+    {
+      "basename": "Daily Note",
+      "path": "Extras/Templates/Daily Note.md"
+    },
+    {
+      "basename": "2023-03-29",
+      "path": "Calendar/2023-03-29.md"
+    },
+    {
       "basename": "2023-04-03",
       "path": "Calendar/2023-04-03.md"
+    },
+    {
+      "basename": "Pasted image 20230404123436",
+      "path": "Extras/Images/Pasted image 20230404123436.png"
+    },
+    {
+      "basename": "2023-04-04",
+      "path": "Calendar/2023-04-04.md"
+    },
+    {
+      "basename": "Drawing 2023-03-29 22.55.51.excalidraw",
+      "path": "Extras/Excalidraw/Drawing 2023-03-29 22.55.51.excalidraw.md"
+    },
+    {
+      "basename": "Excalidraw",
+      "path": "+ Encounters/Excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2023-04-03 22.36.11.excalidraw",
+      "path": "Extras/Excalidraw/Drawing 2023-04-03 22.36.11.excalidraw.md"
     },
     {
       "basename": "2023-W13",
@@ -25,180 +197,8 @@
       "path": "Calendar/2023-04-02.md"
     },
     {
-      "basename": "Data Variable Types",
-      "path": "+ Encounters/Data Variable Types.md"
-    },
-    {
-      "basename": "Determine proportions for categorical data",
-      "path": "+ Encounters/Determine proportions for categorical data.md"
-    },
-    {
-      "basename": "Notebox",
-      "path": "Atlas/Notebox.md"
-    },
-    {
-      "basename": "Obsidian Slides Plugin",
-      "path": "+ Encounters/Obsidian Slides Plugin.md"
-    },
-    {
-      "basename": "Excalidraw",
-      "path": "+ Encounters/Excalidraw.md"
-    },
-    {
-      "basename": "Inbox",
-      "path": "Atlas/Inbox.md"
-    },
-    {
-      "basename": "Untitled 2",
-      "path": "+ Encounters/Untitled 2.md"
-    },
-    {
       "basename": "2023-04-01",
       "path": "Calendar/2023-04-01.md"
-    },
-    {
-      "basename": "Determine proportion of data below a certain value",
-      "path": "+ Encounters/Determine proportion of data below a certain value.md"
-    },
-    {
-      "basename": "Display plots next to each other",
-      "path": "+ Encounters/Display plots next to each other.md"
-    },
-    {
-      "basename": "Data Science",
-      "path": "Atlas/Data Science.md"
-    },
-    {
-      "basename": "Statistics",
-      "path": "Atlas/Statistics.md"
-    },
-    {
-      "basename": "Data Vizualization Reading List",
-      "path": "+ Encounters/Data Vizualization Reading List.md"
-    },
-    {
-      "basename": "Data Visualization",
-      "path": "Atlas/Data Visualization.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "+ Encounters/Untitled 1.md"
-    },
-    {
-      "basename": "ggplot2 Cheatsheet",
-      "path": "+ Encounters/ggplot2 Cheatsheet.md"
-    },
-    {
-      "basename": "Technology",
-      "path": "Atlas/Technology.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "+ Encounters/Untitled.md"
-    },
-    {
-      "basename": "data.table vs dplyr",
-      "path": "+ Encounters/data.table vs dplyr.md"
-    },
-    {
-      "basename": "Introduction to Data Science",
-      "path": "Sources/Introduction to Data Science.md"
-    },
-    {
-      "basename": "Obtaining summary results in different columns instead of rows",
-      "path": "Cards/Obtaining summary results in different columns instead of rows.md"
-    },
-    {
-      "basename": "Tibbles are a special kind of data frame",
-      "path": "Cards/Tibbles are a special kind of data frame.md"
-    },
-    {
-      "basename": "2023-W12",
-      "path": "Calendar/Weekly Notes/2023-W12.md"
-    },
-    {
-      "basename": "2023-03-27",
-      "path": "Calendar/2023-03-27.md"
-    },
-    {
-      "basename": "2023-03-26",
-      "path": "Calendar/2023-03-26.md"
-    },
-    {
-      "basename": "order and sort functions in R",
-      "path": "Cards/order and sort functions in R.md"
-    },
-    {
-      "basename": "Numeric and Integer Data Types in R",
-      "path": "Cards/Numeric and Integer Data Types in R.md"
-    },
-    {
-      "basename": "Determine if a value is in a given interval",
-      "path": "Cards/Determine if a value is in a given interval.md"
-    },
-    {
-      "basename": "Definition of Tidy Data",
-      "path": "Cards/Definition of Tidy Data.md"
-    },
-    {
-      "basename": "Finding specific quantiles in R",
-      "path": "Cards/Finding specific quantiles in R.md"
-    },
-    {
-      "basename": "map vs sapply in R",
-      "path": "Cards/map vs sapply in R.md"
-    },
-    {
-      "basename": "Indexing with Logical Values in R",
-      "path": "Cards/Indexing with Logical Values in R.md"
-    },
-    {
-      "basename": "Graph Theory Algorithms",
-      "path": "+ Encounters/Graph Theory Algorithms.md"
-    },
-    {
-      "basename": "Data Camp Module 3",
-      "path": "Sources/Data Camp Module 3.md"
-    },
-    {
-      "basename": "PH125 Introduction to Data Science",
-      "path": "Sources/PH125 Introduction to Data Science.md"
-    },
-    {
-      "basename": "Note DSB",
-      "path": "Extras/Templates/Note DSB.md"
-    },
-    {
-      "basename": "Note",
-      "path": "Extras/Templates/Note.md"
-    },
-    {
-      "basename": "Time Series Forecasting Wind Power",
-      "path": "Sources/Time Series Forecasting Wind Power.md"
-    },
-    {
-      "basename": "Mastering the Fundamentals of Statistics for Data Science -Basic to Advance Level- Part 1",
-      "path": "Sources/Mastering the Fundamentals of Statistics for Data Science -Basic to Advance Level- Part 1.md"
-    },
-    {
-      "basename": "Studies",
-      "path": "Atlas/Studies.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
-      "basename": "Obsidian Excalidraw",
-      "path": "+ Encounters/Obsidian Excalidraw.md"
-    },
-    {
-      "basename": "PKM",
-      "path": "Atlas/PKM.md"
-    },
-    {
-      "basename": "excalibrain",
-      "path": "excalibrain.md"
     }
   ],
   "omittedPaths": [],

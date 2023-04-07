@@ -8,3 +8,4 @@ tags:: #effort #map
 [[Finance and Administration]]
 [[Education]]
 [[BC Skill Areas]]
+[[Piano Journal]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Encounters/Graph Theory Algorithms.md",
+                "file": "Cards/Data Science 10 Guided Projects.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "+ Encounters/Graph Theory Algorithms.md",
+            "file": "Cards/Data Science 10 Guided Projects.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "+ Encounters/Graph Theory Algorithms.md",
+            "file": "Cards/Data Science 10 Guided Projects.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "+ Encounters/Graph Theory Algorithms.md"
+            "file": "Cards/Data Science 10 Guided Projects.md"
           }
         }
       },
@@ -144,10 +144,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "87f6e8793f7cc4fa",
+  "active": "a44390eb6cbdf424",
   "lastOpenFiles": [
-    "+ Encounters/I talked to eric.md",
+    "+ Encounters/Nginx deep dive video.md",
+    "Extras/Templates/Daily Note.md",
+    "Calendar/2023-04-04.md",
+    "Calendar/2022/2023-04-04.md",
+    "Calendar/2022",
     "+ Encounters/Graph Theory Algorithms.md",
+    "+ Encounters/I talked to eric.md",
     "+ Encounters/Trim bushes.md",
     "Calendar/Weekly Notes/2023-W14.md",
     "Extras/Images/Pasted image 20230401103803.jpg",
@@ -169,10 +174,6 @@
     "Sources/Bash Scripting Tutorial.md",
     "Atlas/Studies.sync-conflict-20230331-233715-HSJIBKW.md",
     "Sources/The big differences between efforts and projects.md",
-    "Sources/Time Series Forecasting Wind Power.md",
-    "Calendar/2023-03-31.md",
-    "Calendar/2023-03-30.md",
-    "+ Encounters/IBM vidéo with data viz examples.md",
     "Extras/Canvases/Obsidian and PKM Class Overview.canvas",
     "Untitled.canvas",
     "Spaces/Obsidian and PKM Class",
@@ -195,7 +196,6 @@
     "Obsidian/Brian2/Brian2/Test.canvas",
     "Obsidian/Brian/Attachments/DSm2Visualization.pdf",
     "Obsidian/Brian2/Extras/Images/DSm2Visualization.pdf",
-    "Obsidian/Brian2/Brian2/Extras/Images/DSm1RBasics 1.pdf",
     "Obsidian/Brian2/Test.canvas"
   ]
 }

@@ -1,5 +1,5 @@
 up::
-tags:: #note/investigate
+tags:: #note/investigate🔎
 X:: [[Obsidian]]
 Priority:: 2
 

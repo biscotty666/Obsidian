@@ -18,15 +18,15 @@ FROM #note/develop🍃
 SORT file.name asc
 ```
 
-## Investigate
+## Investigate 🔎
 
 Things to look into:
 
 ```dataview
 TABLE
 priority as Priority, tags as Tags
-FROM #note/investigate  
-SORT file.name asc
+FROM #note/investigate🔎 
+SORT priority
 ```
 
 ## Boats 🚤

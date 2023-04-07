@@ -2,7 +2,9 @@
   "cssTheme": "Dracula Official",
   "translucency": false,
   "baseFontSize": 16,
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "AlternateCheckboxes"
+  ],
   "textFontFamily": "",
   "interfaceFontFamily": "",
   "theme": "obsidian",

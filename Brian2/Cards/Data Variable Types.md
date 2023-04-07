@@ -1,6 +1,6 @@
 up:: [[Introduction to Data Science]]
-tags:: #source/book #note/reference #on/R #on/Statistics
-X:: [[R]] [[Statistics]]
+tags:: #source/book #note/reference #on/R #on/PnS
+X:: [[R]] [[Probability and Statistics]]
 
 ## Data Variable Types
 

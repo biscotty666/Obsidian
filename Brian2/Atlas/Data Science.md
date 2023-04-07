@@ -5,7 +5,7 @@ tags:: #map
 
 ### Statistics
 
-[[Statistics]]
+[[Probability and Statistics]]
 
 ### Resources
 - [[Introduction to Data Science]]
