@@ -3,8 +3,6 @@ tags:: #map
 
 # Data Science
 
-### Statistics
-
 [[Probability and Statistics]]
 
 ### Resources
@@ -12,10 +10,10 @@ tags:: #map
 - [[Mastering the Fundamentals of Statistics for Data Science -Basic to Advance Level- Part 1]]
 
 ### Project Ideas
-- [[Data Science 10 Guided Projects]]
+- [[Data Science Projects Youssef Hosni]]
 - [[Time Series Forecasting Wind Power]]
 
-### #on/DataScience 
+### on/DataScience 
 
 ```dataview
 LIST

@@ -4,303 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2b9eea71e974f74e",
+        "id": "a4f808bf6e935663",
         "type": "tabs",
         "children": [
           {
-            "id": "8a9c1d2afade049e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Daily Note",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Extras/Templates/Daily Note.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":0},\"to\":{\"line\":34,\"ch\":0}},\"scroll\":15.335773855702094}"
-                },
-                {
-                  "title": "2023-04-06",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2023-04-06.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":0},\"to\":{\"line\":35,\"ch\":0}},\"scroll\":17.471563981042653}"
-                },
-                {
-                  "title": "Notebox",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Notebox.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Inbox",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Inbox.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "2023-04-05",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2023-04-05.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":58,\"ch\":185},\"to\":{\"line\":58,\"ch\":185}},\"scroll\":34.18908969210174}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/2023-04-06.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9afbeeb13113b321",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Piano Journal",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Piano Journal.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources/Introduction to Data Science.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33fd040c5cf044b6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Stratification",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Stratification.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":4},\"to\":{\"line\":2,\"ch\":4}}}"
-                },
-                {
-                  "title": "Probability that data lies within a given range",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Probability that data lies within a given range.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                },
-                {
-                  "title": "Standard Deviation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Standard Deviation.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                },
-                {
-                  "title": "Show proportion for each category",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Show proportion for each category.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Quantiles, Quartiles, Percentiles",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Quantiles, Quartiles, Percentiles.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
-                },
-                {
-                  "title": "Normal Distribution",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Normal Distribution.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/The 68-95-99.7.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b77995d76946c930",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Sveltekit Update Title",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Sveltekit Update Title.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Writeup Syncthing experience",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Writeup Syncthing experience.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Sveltekit Update Title",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Sveltekit Update Title.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "SvelteKit from Scratch",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/SvelteKit from Scratch.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "SvelteKit Course",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/SvelteKit Course.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Piano Journal",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Piano Journal.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Obsidian Slides Plugin",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Obsidian Slides Plugin.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Obsidian Excalidraw",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Obsidian Excalidraw.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Obsidian & PKM Course Introduction",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Obsidian & PKM Course Introduction.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Nginx deep dive video",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Nginx deep dive video.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Graph Theory Algorithms",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Graph Theory Algorithms.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "dnorm, pnorm, qnorm, rnorm",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/dnorm, pnorm, qnorm, rnorm.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                },
-                {
-                  "title": "Display plots next to each other",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Display plots next to each other.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Determine proportions for categorical data",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Determine proportions for categorical data.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Determine proportion of data below a certain value",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Determine proportion of data below a certain value.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Data Vizualization Reading List",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Data Vizualization Reading List.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Data Variable Types",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Data Variable Types.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "BC Skill Areas",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/BC Skill Areas.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Central Limit Theorem",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Central Limit Theorem.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "data.table vs dplyr",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/data.table vs dplyr.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Z-score or Standard Units",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Z-score or Standard Units.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                },
-                {
-                  "title": "Probability and Statistics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Probability and Statistics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+ Encounters/SvelteKit from Scratch.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69f2c21281a29edb",
+            "id": "7f2b359ad6e49127",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -312,17 +20,11 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources/Introduction to Data Science.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -399,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -445,10 +148,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ Encounters/SvelteKit from Scratch.md",
                 "options": {
                   "collapse-filter": false,
-                  "search": "obsidian",
+                  "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
@@ -488,9 +190,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "+ Encounters/SvelteKit from Scratch.md"
-              }
+              "state": {}
             }
           },
           {
@@ -509,8 +209,26 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "4517169b96743ab5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "cc261747cbab30f2",
@@ -532,7 +250,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ Encounters/SvelteKit from Scratch.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -558,7 +275,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ Encounters/SvelteKit from Scratch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -569,7 +285,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 385.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -583,44 +300,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "b77995d76946c930",
+  "active": "7f2b359ad6e49127",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "+ Encounters/Sveltekit Update Title.md",
-    "+ Encounters/Writeup Syncthing experience.md",
-    "+ Encounters/SvelteKit from Scratch.md",
-    "+ Encounters/SvelteKit Course.md",
+    "Atlas/Notebox.md",
+    "Calendar/Daily Notes/2023-04-07.md",
     "+ Encounters/Piano Journal.md",
-    "+ Encounters/Obsidian Slides Plugin.md",
-    "+ Encounters/Obsidian Excalidraw.md",
-    "+ Encounters/Obsidian & PKM Course Introduction.md",
-    "+ Encounters/Nginx deep dive video.md",
-    "+ Encounters/Graph Theory Algorithms.md",
-    "Cards/dnorm, pnorm, qnorm, rnorm.md",
-    "Sources/Introduction to Data Science.md",
-    "Cards/Display plots next to each other.md",
-    "Cards/Determine proportions for categorical data.md",
-    "Cards/Determine proportion of data below a certain value.md",
-    "Cards/Data Vizualization Reading List.md",
-    "Cards/Data Variable Types.md",
-    "+ Encounters/BC Skill Areas.md",
-    "Cards/Central Limit Theorem.md",
-    "Cards/data.table vs dplyr.md",
+    "Calendar/Daily Notes",
+    "Spaces/Obsidian and PKM Class/Obsidian and PKM Training Class.md",
+    "Atlas/Inbox.md",
+    "+ Encounters/SvelteKit Course.md",
+    "Cards/Computed variables in R.md",
+    "Cards/Rotate labels in R.md",
     "Atlas/R.md",
-    "Cards/Z-score or Standard Units.md",
-    "Atlas/Probability and Statistics.md",
-    "Cards/Stratification.md",
-    "Cards/Probability that data lies within a given range.md",
-    "Cards/Quantiles, Quartiles, Percentiles.md",
+    "Cards/Ridge Plots.md",
+    "+ Encounters/Investigate multi-user environment.md",
+    "+ Encounters/Presentation Test.md",
+    "Cards/Logistic or Logit Transformation.md",
+    "Extras/Images/Pasted image 20230407220934.png",
+    "+ Encounters/mermaid.css.md",
+    "+ Encounters/test date.md",
+    "Calendar/Daily Notes/2023-04-06.md",
+    "Calendar/Daily Notes/2023-04-05.md",
+    "Calendar/2022/2023-04-07.md",
+    "+ Encounters/Financial Data Visualization Widgets.md",
+    "Calendar/2022",
+    "Extras/Templates/Daily Note.md",
+    "Cards/Data Science Projects Youssef Hosni.sync-conflict-20230406-231508-HSJIBKW.md",
+    "Cards/Data Science Projects Youssef Hosni.md",
+    "Calendar/2023-04-08.md",
+    "Sources/Introduction to Data Science.md",
+    "Cards/The 68-95-99.7.md",
+    "Atlas/Data Science.md",
     "Extras/Images/Pasted image 20230406211446.png",
     "Extras/Images/Pasted image 20230404123436.png",
     "Extras/Images/00cb9b2c9b866378626bcfa45c86a6de2f2b2e40.svg",
-    "Calendar/2022",
     "Extras/Excalidraw/Scripts",
     "Extras/Images/Pasted image 20230403135519.png",
     "Extras/Images/Pasted image 20230403134633.png",
@@ -632,14 +352,12 @@
     "Extras/Images/image 2.webp",
     "Extras/Images/image 1.webp",
     "Extras/Images/Obsidian Logo.webp",
-    "Extras/Images/image.webp",
     "Extras/Canvases",
     "Spaces/Obsidian and PKM Class",
     "Obsidian and PKM Class",
     "Untitled",
     "Untitled 1",
     "Obsidian and PKM",
-    "Text File.txt",
     "Obsidian/Test.canvas",
     "Obsidian/Brian2/Test.canvas",
     "Obsidian/Brian2/Brian2/Test.canvas",

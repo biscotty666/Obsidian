@@ -3,7 +3,8 @@
   "translucency": false,
   "baseFontSize": 16,
   "enabledCssSnippets": [
-    "AlternateCheckboxes"
+    "AlternateCheckboxes",
+    "mermaid"
   ],
   "textFontFamily": "",
   "interfaceFontFamily": "",

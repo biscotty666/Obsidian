@@ -5,6 +5,8 @@ Rank:: 1
 
 ### Obsidian and PKM Training Class
 
+
+
 Friend:: [[Word count python]]
 
 ---

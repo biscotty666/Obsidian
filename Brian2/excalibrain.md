@@ -132,9 +132,9 @@ On the process of note-making ^WoiQeEac
 
 [[Atlas/Zettelkasten.md]] ^kmesDP66
 
-[[Calendar/2023-03-27.md]] ^KJtvoee5
+[[2023-03-27]] ^KJtvoee5
 
-[[Calendar/2023-03-29.md]] ^jmZsbK9u
+[[2023-03-29]] ^jmZsbK9u
 
 [[Cards/Idea Emergence (defn).md]] ^A8K4cafl
 

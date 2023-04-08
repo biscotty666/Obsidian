@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#on/R",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -25,6 +25,6 @@
   "repelStrength": 13.1770833333333,
   "linkStrength": 0.577087794432548,
   "linkDistance": 84,
-  "scale": 0.1458752470619476,
+  "scale": 0.4271923246097423,
   "close": false
 }

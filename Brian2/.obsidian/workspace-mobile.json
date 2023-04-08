@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Data Science 10 Guided Projects.md",
+                "file": "Calendar/2023-04-07.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -45,7 +45,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "2023-04-08",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -74,7 +74,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "e906ea1dae891a8c",
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Cards/Data Science 10 Guided Projects.md",
+            "file": "Calendar/2023-04-07.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Cards/Data Science 10 Guided Projects.md",
+            "file": "Calendar/2023-04-07.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Cards/Data Science 10 Guided Projects.md"
+            "file": "Calendar/2023-04-07.md"
           }
         }
       },
@@ -146,17 +146,22 @@
   },
   "active": "a44390eb6cbdf424",
   "lastOpenFiles": [
+    "Calendar/2023-04-06.md",
+    "Calendar/2022/2023-04-07.md",
+    "+ Encounters/Investigate multi-user environment.md",
+    "Calendar/2022",
+    "Cards/Data Science Projects Youssef Hosni.sync-conflict-20230406-231508-HSJIBKW.md",
+    "Cards/Data Science 10 Guided Projects.md",
+    "Cards/Data Science Projects Youssef Hosni.md",
     "+ Encounters/Nginx deep dive video.md",
     "Extras/Templates/Daily Note.md",
     "Calendar/2023-04-04.md",
     "Calendar/2022/2023-04-04.md",
-    "Calendar/2022",
     "+ Encounters/Graph Theory Algorithms.md",
     "+ Encounters/I talked to eric.md",
     "+ Encounters/Trim bushes.md",
     "Calendar/Weekly Notes/2023-W14.md",
     "Extras/Images/Pasted image 20230401103803.jpg",
-    "+ Encounters/Untitled.md",
     "+ Encounters/test.md",
     "Excalidraw/Drawing 2023-04-01 12.43.07.excalidraw.md",
     "Cards/Information that crosses our attentional filter becomes knowledge.md",
@@ -169,11 +174,6 @@
     "Sources/Natural Language and Statistics Article.md",
     "Cards/PKM Definition.md",
     "Cards/PKM video series.md",
-    "Cards/Stop word List.md",
-    "Cards/Svelte D3 another video.md",
-    "Sources/Bash Scripting Tutorial.md",
-    "Atlas/Studies.sync-conflict-20230331-233715-HSJIBKW.md",
-    "Sources/The big differences between efforts and projects.md",
     "Extras/Canvases/Obsidian and PKM Class Overview.canvas",
     "Untitled.canvas",
     "Spaces/Obsidian and PKM Class",

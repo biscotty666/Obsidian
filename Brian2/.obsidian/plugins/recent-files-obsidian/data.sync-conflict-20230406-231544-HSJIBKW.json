@@ -1,60 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Notebox",
-      "path": "Atlas/Notebox.md"
-    },
-    {
       "basename": "2023-04-07",
-      "path": "Calendar/Daily Notes/2023-04-07.md"
-    },
-    {
-      "basename": "Piano Journal",
-      "path": "+ Encounters/Piano Journal.md"
-    },
-    {
-      "basename": "Obsidian and PKM Training Class",
-      "path": "Spaces/Obsidian and PKM Class/Obsidian and PKM Training Class.md"
-    },
-    {
-      "basename": "Inbox",
-      "path": "Atlas/Inbox.md"
-    },
-    {
-      "basename": "Computed variables in R",
-      "path": "Cards/Computed variables in R.md"
-    },
-    {
-      "basename": "Rotate labels in R",
-      "path": "Cards/Rotate labels in R.md"
-    },
-    {
-      "basename": "R",
-      "path": "Atlas/R.md"
-    },
-    {
-      "basename": "Ridge Plots",
-      "path": "Cards/Ridge Plots.md"
-    },
-    {
-      "basename": "Logistic or Logit Transformation",
-      "path": "Cards/Logistic or Logit Transformation.md"
-    },
-    {
-      "basename": "2023-04-06",
-      "path": "Calendar/Daily Notes/2023-04-06.md"
-    },
-    {
-      "basename": "2023-04-05",
-      "path": "Calendar/Daily Notes/2023-04-05.md"
-    },
-    {
-      "basename": "Financial Data Visualization Widgets",
-      "path": "+ Encounters/Financial Data Visualization Widgets.md"
+      "path": "Calendar/2023-04-07.md"
     },
     {
       "basename": "Daily Note",
       "path": "Extras/Templates/Daily Note.md"
+    },
+    {
+      "basename": "2023-04-06",
+      "path": "Calendar/2023-04-06.md"
     },
     {
       "basename": "Introduction to Data Science",
@@ -67,6 +23,10 @@
     {
       "basename": "Data Science",
       "path": "Atlas/Data Science.md"
+    },
+    {
+      "basename": "R",
+      "path": "Atlas/R.md"
     },
     {
       "basename": "SvelteKit from Scratch",
@@ -83,6 +43,10 @@
     {
       "basename": "SvelteKit Course",
       "path": "+ Encounters/SvelteKit Course.md"
+    },
+    {
+      "basename": "Piano Journal",
+      "path": "+ Encounters/Piano Journal.md"
     },
     {
       "basename": "Obsidian Slides Plugin",
@@ -181,8 +145,20 @@
       "path": "Atlas/Data Visualization.md"
     },
     {
+      "basename": "Inbox",
+      "path": "Atlas/Inbox.md"
+    },
+    {
       "basename": "ggplot2 Cheatsheet",
       "path": "Cards/ggplot2 Cheatsheet.md"
+    },
+    {
+      "basename": "Notebox",
+      "path": "Atlas/Notebox.md"
+    },
+    {
+      "basename": "2023-04-05",
+      "path": "Calendar/2023-04-05.md"
     },
     {
       "basename": "Drawing 2023-04-06 11.20.35.excalidraw",
@@ -194,11 +170,27 @@
     },
     {
       "basename": "2023-03-29",
-      "path": "Calendar/Daily Notes/2023-03-29.md"
+      "path": "Calendar/2023-03-29.md"
     },
     {
       "basename": "2023-04-03",
-      "path": "Calendar/Daily Notes/2023-04-03.md"
+      "path": "Calendar/2023-04-03.md"
+    },
+    {
+      "basename": "Pasted image 20230404123436",
+      "path": "Extras/Images/Pasted image 20230404123436.png"
+    },
+    {
+      "basename": "2023-04-04",
+      "path": "Calendar/2023-04-04.md"
+    },
+    {
+      "basename": "Drawing 2023-03-29 22.55.51.excalidraw",
+      "path": "Extras/Excalidraw/Drawing 2023-03-29 22.55.51.excalidraw.md"
+    },
+    {
+      "basename": "Excalidraw",
+      "path": "+ Encounters/Excalidraw.md"
     }
   ],
   "omittedPaths": [],
