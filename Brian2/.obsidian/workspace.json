@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a4f808bf6e935663",
+        "id": "c61a2c48443dc1e4",
         "type": "tabs",
         "children": [
           {
-            "id": "7f2b359ad6e49127",
+            "id": "af8a7fc386136b68",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,8 +20,13 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Daily Notes/2023-04-09.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -71,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#note/investigate",
+                "query": "tag:#note/reference",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -101,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5,
-    "collapsed": true
+    "width": 259.5
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -148,6 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Calendar/Daily Notes/2023-04-09.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -190,7 +195,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Calendar/Daily Notes/2023-04-09.md"
+              }
             }
           },
           {
@@ -211,7 +218,7 @@
             }
           },
           {
-            "id": "4517169b96743ab5",
+            "id": "35dc597a1abd6835",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -250,6 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Calendar/Daily Notes/2023-04-09.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,6 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Calendar/Daily Notes/2023-04-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,8 +294,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5,
-    "collapsed": true
+    "width": 337.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -304,40 +312,44 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "7f2b359ad6e49127",
+  "active": "af8a7fc386136b68",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "Atlas/Notebox.md",
-    "Calendar/Daily Notes/2023-04-07.md",
-    "+ Encounters/Piano Journal.md",
-    "Calendar/Daily Notes",
-    "Spaces/Obsidian and PKM Class/Obsidian and PKM Training Class.md",
-    "Atlas/Inbox.md",
-    "+ Encounters/SvelteKit Course.md",
-    "Cards/Computed variables in R.md",
-    "Cards/Rotate labels in R.md",
-    "Atlas/R.md",
-    "Cards/Ridge Plots.md",
-    "+ Encounters/Investigate multi-user environment.md",
-    "+ Encounters/Presentation Test.md",
-    "Cards/Logistic or Logit Transformation.md",
-    "Extras/Images/Pasted image 20230407220934.png",
-    "+ Encounters/mermaid.css.md",
-    "+ Encounters/test date.md",
-    "Calendar/Daily Notes/2023-04-06.md",
-    "Calendar/Daily Notes/2023-04-05.md",
-    "Calendar/2022/2023-04-07.md",
-    "+ Encounters/Financial Data Visualization Widgets.md",
-    "Calendar/2022",
-    "Extras/Templates/Daily Note.md",
-    "Cards/Data Science Projects Youssef Hosni.sync-conflict-20230406-231508-HSJIBKW.md",
-    "Cards/Data Science Projects Youssef Hosni.md",
-    "Calendar/2023-04-08.md",
+    "+ Encounters/Obsidian & PKM Course Introduction.md",
+    "Calendar/Daily Notes/2023-04-09.md",
+    "Cards/Compare differences versus average with Bland-Altman plots.md",
+    "Calendar/Daily Notes/2023-04-08.md",
     "Sources/Introduction to Data Science.md",
+    "Cards/Normal Distribution.md",
     "Cards/The 68-95-99.7.md",
-    "Atlas/Data Science.md",
+    "Cards/dnorm, pnorm, qnorm, rnorm.md",
+    "Cards/Show proportion for each category.md",
+    "Atlas/Data Visualization.md",
+    "Atlas/R.md",
+    "Cards/Change the length of the whiskers in a box plot.md",
+    "Cards/Advanced Slides.md",
+    "Cards/Change slide background in Obsidian.md",
+    "+ Encounters/Slide Tutorial.md",
+    "+ Encounters/Fragmented list shortcut syntax in Obsidian.md",
+    "+ Encounters/Obsidian slides sequentially reveal items.md",
+    "+ Encounters/Declare a Stylesheet for Obsidian Slides.md",
+    "+ Encounters/Obsidian Slide Transitions (Fragments) List.md",
+    "+ Encounters/Pie Charts in R.md",
+    "+ Encounters/Create a factor column in a data frame.md",
+    "+ Encounters/Reorder gotcha in R.md",
+    "+ Encounters/Overlay data on boxplots.md",
+    "+ Encounters/Slope charts to compare a small number of observations.md",
+    "Extras/Images/Pasted image 20230408224611.png",
+    "Extras/Images/Pasted image 20230408224110.png",
+    "Extras/Images/Pasted image 20230408223134.png",
+    "Extras/Images/Pasted image 20230408220311.png",
+    "+ Encounters/mermaid.js.md",
+    "+ Encounters/Nginx deep dive video.md",
+    "Calendar/2022",
+    "Calendar/Daily Notes",
+    "Extras/Images/Pasted image 20230407220934.png",
     "Extras/Images/Pasted image 20230406211446.png",
     "Extras/Images/Pasted image 20230404123436.png",
     "Extras/Images/00cb9b2c9b866378626bcfa45c86a6de2f2b2e40.svg",
@@ -346,12 +358,8 @@
     "Extras/Images/Pasted image 20230403134633.png",
     "Extras/Canvases/OPCourseIntro.canvas",
     "Extras/Canvases/Obsidian and PKM Class Overview.canvas",
-    "Extras/Images/Pasted image 20230401103803.jpg",
     "Extras/Slides",
     "Extras/Canvases/What is Obsidian?.canvas",
-    "Extras/Images/image 2.webp",
-    "Extras/Images/image 1.webp",
-    "Extras/Images/Obsidian Logo.webp",
     "Extras/Canvases",
     "Spaces/Obsidian and PKM Class",
     "Obsidian and PKM Class",

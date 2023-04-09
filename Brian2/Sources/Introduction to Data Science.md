@@ -5,8 +5,11 @@ X:: [[Data Visualization]]  [[R]]  [[PH125 Introduction to Data Science]] [[Prob
 # Introduction to Data Science
 
 ## Notes
+
 ```dataview
-List file.inlinks from [[Introduction to Data Science]] & #note/reference 
+List 
+file.inlinks from [[Introduction to Data Science]] & #note/reference 
+sort file.name
 ```
 
 ## _Data Analysis and Prediction Algorithms with R_
