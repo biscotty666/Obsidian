@@ -1,6 +1,7 @@
 up:: [[Data Science]]
 tags:: #source/book #map/notes #on/R #on/DataScience #on/DataVisualization 
 X:: [[Data Visualization]]  [[R]]  [[PH125 Introduction to Data Science]] [[Probability and Statistics]]
+Library:: 600
 
 # Introduction to Data Science
 

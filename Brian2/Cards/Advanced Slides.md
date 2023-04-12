@@ -4,7 +4,7 @@ X::
 
 ## Advanced Slides
 
-[[Slide Tutorial]]
+[[Advanced Slides Doc Walkthrough]]
 [[Change slide background in Obsidian]]
 
 

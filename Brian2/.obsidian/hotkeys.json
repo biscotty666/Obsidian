@@ -18,14 +18,7 @@
       "key": "K"
     }
   ],
-  "editor:swap-line-up": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "1"
-    }
-  ],
+  "editor:swap-line-up": [],
   "app:go-forward": [
     {
       "modifiers": [
@@ -35,15 +28,7 @@
     }
   ],
   "workspaces:load": [],
-  "workspace:toggle-pin": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "E"
-    }
-  ],
+  "workspace:toggle-pin": [],
   "url-into-selection:paste-url-into-selection": [
     {
       "modifiers": [
@@ -326,14 +311,6 @@
       "key": "ArrowDown"
     }
   ],
-  "hotkeysplus-obsidian:toggle-bullet-number": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "3"
-    }
-  ],
   "workspace:close-others": [
     {
       "modifiers": [
@@ -370,14 +347,7 @@
   "pane-relief:put-3rd": [],
   "pane-relief:put-2nd": [],
   "pane-relief:put-1st": [],
-  "editor:swap-line-down": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "2"
-    }
-  ],
+  "editor:swap-line-down": [],
   "obsidian-sample-plugin:prompt-random": [
     {
       "modifiers": [
@@ -399,9 +369,10 @@
   "insert-current-date": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Meta"
       ],
-      "key": "4"
+      "key": "D"
     }
   ],
   "workspace:copy-url": [
@@ -416,36 +387,15 @@
   "obsidian-citation-plugin:insert-citation": [],
   "hotkeysplus-obsidian:toggle-embed": [],
   "hotkeysplus-obsidian:toggle-block-quote": [],
-  "periodic-notes:next-weekly-note": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "8"
-    }
-  ],
-  "periodic-notes:prev-weekly-note": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "7"
-    }
-  ],
-  "periodic-notes:open-weekly-note": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "9"
-    }
-  ],
+  "periodic-notes:next-weekly-note": [],
+  "periodic-notes:prev-weekly-note": [],
+  "periodic-notes:open-weekly-note": [],
   "periodic-notes:prev-monthly-note": [],
   "obsidian-excalidraw-plugin:excalidraw-autocreate": [
     {
       "modifiers": [
-        "Ctrl",
-        "Shift"
+        "Alt",
+        "Mod"
       ],
       "key": "N"
     }
@@ -472,8 +422,8 @@
   "obsidian-excalidraw-plugin:insert-image": [
     {
       "modifiers": [
-        "Ctrl",
-        "Shift"
+        "Mod",
+        "Meta"
       ],
       "key": "I"
     }
@@ -555,12 +505,6 @@
   "periodic-notes:open-daily-note": [
     {
       "modifiers": [
-        "Ctrl"
-      ],
-      "key": "2"
-    },
-    {
-      "modifiers": [
         "Mod"
       ],
       "key": "9"
@@ -594,14 +538,6 @@
       "key": "7"
     }
   ],
-  "editor:toggle-comments": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "7"
-    }
-  ],
   "obsidian-tasks-plugin:edit-task": [
     {
       "modifiers": [
@@ -609,5 +545,87 @@
       ],
       "key": "T"
     }
-  ]
+  ],
+  "obsidian-prozen:zenmode": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Z"
+    }
+  ],
+  "workspace:close-window": [],
+  "obsidian-excalidraw-plugin:insert-link": [
+    {
+      "modifiers": [
+        "Mod",
+        "Meta"
+      ],
+      "key": "K"
+    }
+  ],
+  "obsidian-excalidraw-plugin:save": [
+    {
+      "modifiers": [
+        "Mod",
+        "Meta"
+      ],
+      "key": "S"
+    }
+  ],
+  "obsidian-excalidraw-plugin:toggle-lock": [
+    {
+      "modifiers": [
+        "Mod",
+        "Meta"
+      ],
+      "key": "E"
+    }
+  ],
+  "editor:toggle-checklist-status": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
+    }
+  ],
+  "workspace:new-tab": [
+    {
+      "modifiers": [
+        "Mod",
+        "Meta"
+      ],
+      "key": "T"
+    }
+  ],
+  "obsidian-icons-plugin:open-icons-plugin-modal": [
+    {
+      "modifiers": [
+        "Alt",
+        "Meta"
+      ],
+      "key": "I"
+    }
+  ],
+  "hotkeysplus-obsidian:toggle-bullet-number": [],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "workspace:previous-tab": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "workspace:goto-last-tab": [],
+  "editor:open-link-in-new-split": []
 }

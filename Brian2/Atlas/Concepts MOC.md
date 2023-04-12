@@ -1,6 +1,7 @@
 up:: [[Home]]
 tags:: #map
 X:: [[MOCs are Dialectics]]
+Library:: 100
 
 # Concepts MOC
 *A concept is a pattern, truth, or mechanism that has been given a name.*

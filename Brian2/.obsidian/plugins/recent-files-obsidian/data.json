@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-04-09",
-      "path": "Calendar/Daily Notes/2023-04-09.md"
+      "basename": "Library",
+      "path": "Atlas/Library.md"
     },
     {
-      "basename": "Compare differences versus average with Bland-Altman plots",
-      "path": "Cards/Compare differences versus average with Bland-Altman plots.md"
-    },
-    {
-      "basename": "2023-04-08",
-      "path": "Calendar/Daily Notes/2023-04-08.md"
-    },
-    {
-      "basename": "Introduction to Data Science",
-      "path": "Sources/Introduction to Data Science.md"
-    },
-    {
-      "basename": "Normal Distribution",
-      "path": "Cards/Normal Distribution.md"
-    },
-    {
-      "basename": "The 68-95-99.7",
-      "path": "Cards/The 68-95-99.7.md"
+      "basename": "Comparison of R and Python for Data Science",
+      "path": "Spaces/Comparison of R and Python for Data Science.md"
     },
     {
       "basename": "R",
       "path": "Atlas/R.md"
     },
     {
-      "basename": "Change the length of the whiskers in a box plot",
-      "path": "Cards/Change the length of the whiskers in a box plot.md"
+      "basename": "Programming",
+      "path": "+ Encounters/Programming.md"
     },
     {
-      "basename": "Advanced Slides",
-      "path": "Cards/Advanced Slides.md"
-    },
-    {
-      "basename": "Change slide background in Obsidian",
-      "path": "Cards/Change slide background in Obsidian.md"
-    },
-    {
-      "basename": "Slide Tutorial",
-      "path": "+ Encounters/Slide Tutorial.md"
-    },
-    {
-      "basename": "Fragmented list shortcut syntax in Obsidian",
-      "path": "+ Encounters/Fragmented list shortcut syntax in Obsidian.md"
-    },
-    {
-      "basename": "Obsidian slides sequentially reveal items",
-      "path": "+ Encounters/Obsidian slides sequentially reveal items.md"
-    },
-    {
-      "basename": "Declare a Stylesheet for Obsidian Slides",
-      "path": "+ Encounters/Declare a Stylesheet for Obsidian Slides.md"
-    },
-    {
-      "basename": "Obsidian Slide Transitions (Fragments) List",
-      "path": "+ Encounters/Obsidian Slide Transitions (Fragments) List.md"
-    },
-    {
-      "basename": "Pie Charts in R",
-      "path": "+ Encounters/Pie Charts in R.md"
-    },
-    {
-      "basename": "Create a factor column in a data frame",
-      "path": "+ Encounters/Create a factor column in a data frame.md"
-    },
-    {
-      "basename": "Reorder gotcha in R",
-      "path": "+ Encounters/Reorder gotcha in R.md"
-    },
-    {
-      "basename": "Overlay data on boxplots",
-      "path": "+ Encounters/Overlay data on boxplots.md"
-    },
-    {
-      "basename": "Slope charts to compare a small number of observations",
-      "path": "+ Encounters/Slope charts to compare a small number of observations.md"
-    },
-    {
-      "basename": "mermaid.js",
-      "path": "+ Encounters/mermaid.js.md"
-    },
-    {
-      "basename": "Nginx deep dive video",
-      "path": "+ Encounters/Nginx deep dive video.md"
-    },
-    {
-      "basename": "Writeup Syncthing experience",
-      "path": "+ Encounters/Writeup Syncthing experience.md"
-    },
-    {
-      "basename": "Piano Journal",
-      "path": "+ Encounters/Piano Journal.md"
-    },
-    {
-      "basename": "Obsidian Excalidraw",
-      "path": "+ Encounters/Obsidian Excalidraw.md"
-    },
-    {
-      "basename": "Obsidian Slides Plugin",
-      "path": "+ Encounters/Obsidian Slides Plugin.md"
-    },
-    {
-      "basename": "Solutions to Flow Stoppers",
-      "path": "Cards/Solutions to Flow Stoppers.md"
-    },
-    {
-      "basename": "Drawing 2023-03-29 22.55.51.excalidraw",
-      "path": "Extras/Excalidraw/Drawing 2023-03-29 22.55.51.excalidraw.md"
-    },
-    {
-      "basename": "In what ways can we form useful relationships between notes",
-      "path": "Cards/In what ways can we form useful relationships between notes.md"
-    },
-    {
-      "basename": "2023-04-07",
-      "path": "Calendar/Daily Notes/2023-04-07.md"
-    },
-    {
-      "basename": "Daily Note",
-      "path": "Extras/Templates/Daily Note.md"
-    },
-    {
-      "basename": "2023-04-06",
-      "path": "Calendar/Daily Notes/2023-04-06.md"
-    },
-    {
-      "basename": "Outbox",
-      "path": "Atlas/Outbox.md"
-    },
-    {
-      "basename": "Notebox",
-      "path": "Atlas/Notebox.md"
-    },
-    {
-      "basename": "Inbox",
-      "path": "Atlas/Inbox.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
-      "basename": "excalibrain",
-      "path": "excalibrain.md"
-    },
-    {
-      "basename": "Syncthing",
-      "path": "Atlas/Syncthing.md"
+      "basename": "Syntax",
+      "path": "+ Encounters/Syntax.md"
     },
     {
       "basename": "Obsidian and PKM Training Class",
       "path": "Spaces/Obsidian and PKM Class/Obsidian and PKM Training Class.md"
     },
     {
-      "basename": "Computed variables in R",
-      "path": "Cards/Computed variables in R.md"
+      "basename": "2023-04-11",
+      "path": "Calendar/Daily Notes/2023-04-11.md"
+    },
+    {
+      "basename": "PKM",
+      "path": "Atlas/PKM.md"
+    },
+    {
+      "basename": "Introduction to Data Science",
+      "path": "Sources/Introduction to Data Science.md"
+    },
+    {
+      "basename": "Python",
+      "path": "Atlas/Python.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "Atlas/Obsidian.md"
+    },
+    {
+      "basename": "Concepts MOC",
+      "path": "Atlas/Concepts MOC.md"
+    },
+    {
+      "basename": "Habits MOC",
+      "path": "Atlas/Habits MOC.md"
+    },
+    {
+      "basename": "Brian Carey",
+      "path": "Spaces/Brian Carey.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Stop word List",
+      "path": "Cards/Stop word List.md"
+    },
+    {
+      "basename": "Bar chart with counts",
+      "path": "Cards/Bar chart with counts.md"
     },
     {
       "basename": "Rotate labels in R",
       "path": "Cards/Rotate labels in R.md"
     },
     {
-      "basename": "Ridge Plots",
-      "path": "Cards/Ridge Plots.md"
+      "basename": "Select top n number of rows",
+      "path": "Cards/Select top n number of rows.md"
     },
     {
-      "basename": "Logistic or Logit Transformation",
-      "path": "Cards/Logistic or Logit Transformation.md"
+      "basename": "Histograms in R and Python",
+      "path": "Cards/Histograms in R and Python.md"
     },
     {
-      "basename": "2023-04-05",
-      "path": "Calendar/Daily Notes/2023-04-05.md"
+      "basename": "Replacement based on a substring",
+      "path": "Cards/Replacement based on a substring.md"
+    },
+    {
+      "basename": "Reorder gotcha in R",
+      "path": "Cards/Reorder gotcha in R.md"
+    },
+    {
+      "basename": "Conditionally filter or remove data",
+      "path": "Cards/Conditionally filter or remove data.md"
+    },
+    {
+      "basename": "Counting occurrences",
+      "path": "Cards/Counting occurrences.md"
+    },
+    {
+      "basename": "Syntax Note",
+      "path": "Extras/Templates/Syntax Note.md"
+    },
+    {
+      "basename": "Note",
+      "path": "Extras/Templates/Note.md"
+    },
+    {
+      "basename": "Daily Note",
+      "path": "Extras/Templates/Daily Note.md"
+    },
+    {
+      "basename": "Convert column to numeric",
+      "path": "+ Encounters/Convert column to numeric.md"
+    },
+    {
+      "basename": "Technology",
+      "path": "Atlas/Technology.md"
+    },
+    {
+      "basename": "2023-04-10",
+      "path": "Calendar/Daily Notes/2023-04-10.md"
+    },
+    {
+      "basename": "Obsidian Slides Plugin",
+      "path": "Atlas/Obsidian Slides Plugin.md"
+    },
+    {
+      "basename": "Obsidian Slide Transitions (Fragments) List",
+      "path": "Cards/Obsidian Slide Transitions (Fragments) List.md"
+    },
+    {
+      "basename": "Obsidian slides sequentially reveal items",
+      "path": "Cards/Obsidian slides sequentially reveal items.md"
+    },
+    {
+      "basename": "Obsidian Excalidraw",
+      "path": "+ Encounters/Obsidian Excalidraw.md"
+    },
+    {
+      "basename": "Graph Theory Algorithms",
+      "path": "+ Encounters/Graph Theory Algorithms.md"
+    },
+    {
+      "basename": "Investigate multi-user environment",
+      "path": "+ Encounters/Investigate multi-user environment.md"
+    },
+    {
+      "basename": "Nginx deep dive video",
+      "path": "+ Encounters/Nginx deep dive video.md"
+    },
+    {
+      "basename": "mermaid.js",
+      "path": "Cards/mermaid.js.md"
+    },
+    {
+      "basename": "Fragmented list shortcut syntax in Obsidian",
+      "path": "Cards/Fragmented list shortcut syntax in Obsidian.md"
+    },
+    {
+      "basename": "Find the number of unique rows in a dataframe",
+      "path": "+ Encounters/Find the number of unique rows in a dataframe.md"
     },
     {
       "basename": "Financial Data Visualization Widgets",
       "path": "+ Encounters/Financial Data Visualization Widgets.md"
     },
     {
-      "basename": "Data Science",
-      "path": "Atlas/Data Science.md"
+      "basename": "External Markdown",
+      "path": "Cards/External Markdown.md"
     },
     {
-      "basename": "SvelteKit from Scratch",
-      "path": "+ Encounters/SvelteKit from Scratch.md"
+      "basename": "Example of TSA workflow",
+      "path": "+ Encounters/Example of TSA workflow.md"
     },
     {
-      "basename": "Sveltekit Update Title",
-      "path": "+ Encounters/Sveltekit Update Title.md"
+      "basename": "Declare a Stylesheet for Obsidian Slides",
+      "path": "Cards/Declare a Stylesheet for Obsidian Slides.md"
     },
     {
-      "basename": "SvelteKit Course",
-      "path": "+ Encounters/SvelteKit Course.md"
+      "basename": "Dataframe structural details",
+      "path": "Cards/Dataframe structural details.md"
     },
     {
-      "basename": "Obsidian & PKM Course Introduction",
-      "path": "+ Encounters/Obsidian & PKM Course Introduction.md"
+      "basename": "Create a factor column in a data frame",
+      "path": "Cards/Create a factor column in a data frame.md"
+    },
+    {
+      "basename": "Basic statistical information on data frames",
+      "path": "Cards/Basic statistical information on data frames.md"
+    },
+    {
+      "basename": "Advanced Slides Attribute Reference",
+      "path": "Cards/Advanced Slides Attribute Reference.md"
+    },
+    {
+      "basename": "Inbox",
+      "path": "Atlas/Inbox.md"
+    },
+    {
+      "basename": "Pie Charts in R",
+      "path": "Cards/Pie Charts in R.md"
     }
   ],
   "omittedPaths": [],

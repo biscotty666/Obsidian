@@ -1,6 +1,7 @@
 up:: [[Technology]]
-tags:: #map
-X:: [[Introduction to Data Science]]
+tags:: #map #on/R
+X:: [[Introduction to Data Science]] [[Syntax]]
+Library:: 600
 
 # R
 

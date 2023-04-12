@@ -4,11 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "c61a2c48443dc1e4",
+        "id": "9f4597441c6061da",
         "type": "tabs",
         "children": [
           {
-            "id": "af8a7fc386136b68",
+            "id": "0f54c063b6592a46",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "2023-04-11",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Daily Notes/2023-04-11.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":40,\"ch\":0},\"to\":{\"line\":40,\"ch\":0}},\"scroll\":13.430338541666666}"
+                },
+                {
+                  "title": "Library",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Library.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "PKM",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/PKM.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Library",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Library.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":14},\"to\":{\"line\":26,\"ch\":14}},\"scroll\":17.312203791469194}"
+                },
+                {
+                  "title": "Introduction to Data Science",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Introduction to Data Science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":13},\"to\":{\"line\":3,\"ch\":13}},\"scroll\":0}"
+                },
+                {
+                  "title": "Library",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Library.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":65,\"ch\":0},\"to\":{\"line\":65,\"ch\":0}},\"scroll\":39.698297446169256}"
+                },
+                {
+                  "title": "Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":8.74609375}"
+                },
+                {
+                  "title": "Stop word List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Stop word List.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Obsidian and PKM Class/Obsidian and PKM Training Class.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0398c1de44c4df3a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,14 +92,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily Notes/2023-04-09.md",
+                "file": "Spaces/Comparison of R and Python for Data Science.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b6105b80524e0f6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Syntax",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Syntax.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":28},\"to\":{\"line\":1,\"ch\":28}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atlas/Library.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -76,7 +175,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#note/reference",
+                "query": "data summary",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -152,7 +251,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily Notes/2023-04-09.md",
+                "file": "Atlas/Library.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -196,7 +295,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily Notes/2023-04-09.md"
+                "file": "Atlas/Library.md"
               }
             }
           },
@@ -257,7 +356,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily Notes/2023-04-09.md",
+                "file": "Atlas/Library.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +382,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily Notes/2023-04-09.md",
+                "file": "Atlas/Library.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -312,41 +411,42 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "af8a7fc386136b68",
+  "active": "9b6105b80524e0f6",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "+ Encounters/Obsidian & PKM Course Introduction.md",
-    "Calendar/Daily Notes/2023-04-09.md",
-    "Cards/Compare differences versus average with Bland-Altman plots.md",
-    "Calendar/Daily Notes/2023-04-08.md",
-    "Sources/Introduction to Data Science.md",
-    "Cards/Normal Distribution.md",
-    "Cards/The 68-95-99.7.md",
-    "Cards/dnorm, pnorm, qnorm, rnorm.md",
-    "Cards/Show proportion for each category.md",
-    "Atlas/Data Visualization.md",
+    "Spaces/Comparison of R and Python for Data Science.md",
     "Atlas/R.md",
-    "Cards/Change the length of the whiskers in a box plot.md",
-    "Cards/Advanced Slides.md",
-    "Cards/Change slide background in Obsidian.md",
-    "+ Encounters/Slide Tutorial.md",
-    "+ Encounters/Fragmented list shortcut syntax in Obsidian.md",
-    "+ Encounters/Obsidian slides sequentially reveal items.md",
-    "+ Encounters/Declare a Stylesheet for Obsidian Slides.md",
-    "+ Encounters/Obsidian Slide Transitions (Fragments) List.md",
-    "+ Encounters/Pie Charts in R.md",
-    "+ Encounters/Create a factor column in a data frame.md",
-    "+ Encounters/Reorder gotcha in R.md",
-    "+ Encounters/Overlay data on boxplots.md",
-    "+ Encounters/Slope charts to compare a small number of observations.md",
+    "+ Encounters/Programming.md",
+    "Atlas/Library.md",
+    "+ Encounters/Syntax.md",
+    "Spaces/Obsidian and PKM Class/Obsidian and PKM Training Class.md",
+    "Calendar/Daily Notes/2023-04-11.md",
+    "Atlas/PKM.md",
+    "Sources/Introduction to Data Science.md",
+    "Atlas/Python.md",
+    "Atlas/Obsidian.md",
+    "Atlas/Language MOC.md",
+    "Atlas/Concepts MOC.md",
+    "Atlas/Habits MOC.md",
+    "Spaces/Brian Carey.md",
+    "Home.md",
+    "Cards/Stop word List.md",
+    "Cards/Bar chart with counts.md",
+    "Cards/Rotate labels in R.md",
+    "Cards/Select top n number of rows.md",
+    "Cards/Histograms in R and Python.md",
+    "Cards/Replacement based on a substring.md",
+    "Cards/Reorder gotcha in R.md",
+    "Cards/Conditionally filter or remove data.md",
+    "Cards/Counting occurrences.md",
+    "Extras/Templates/Syntax Note.md",
+    "Extras/css",
     "Extras/Images/Pasted image 20230408224611.png",
     "Extras/Images/Pasted image 20230408224110.png",
     "Extras/Images/Pasted image 20230408223134.png",
     "Extras/Images/Pasted image 20230408220311.png",
-    "+ Encounters/mermaid.js.md",
-    "+ Encounters/Nginx deep dive video.md",
     "Calendar/2022",
     "Calendar/Daily Notes",
     "Extras/Images/Pasted image 20230407220934.png",
@@ -365,7 +465,6 @@
     "Obsidian and PKM Class",
     "Untitled",
     "Untitled 1",
-    "Obsidian and PKM",
     "Obsidian/Test.canvas",
     "Obsidian/Brian2/Test.canvas",
     "Obsidian/Brian2/Brian2/Test.canvas",

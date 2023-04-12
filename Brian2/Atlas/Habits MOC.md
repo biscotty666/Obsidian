@@ -1,5 +1,6 @@
 up::  [[Thinking]]
 tags:: 
+Library:: 100
 
 # Habits MOC
 

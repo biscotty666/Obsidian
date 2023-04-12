@@ -21,5 +21,7 @@
   "obsidian-tasks-plugin",
   "obsidian-icons-plugin",
   "emoji-shortcodes",
-  "mermaid-tools"
+  "mermaid-tools",
+  "obsidian-prozen",
+  "obsidian-local-rest-api"
 ]

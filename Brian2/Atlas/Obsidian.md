@@ -1,10 +1,14 @@
 up::  [[Technology]]
 tags:: #map 
 X:: [[PKM]]
+Library:: 000
 
 # Obsidian
 
 [Obsidian](https://obsidian.md/)
+
+[[mermaid.js]]
+
 
 ### Reference
 
@@ -13,6 +17,7 @@ X:: [[PKM]]
 - [[Obsidian Zettelkasten Note Taking]]
 - [[Syncing Obsidian and Kindle]]
 - [[Obsidian Templater]]
+- [[Obsidian Slides Plugin]] 
 
 ### #on/Obsidian 
 ```dataview

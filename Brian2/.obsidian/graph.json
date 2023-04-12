@@ -1,30 +1,22 @@
 {
   "collapse-filter": false,
-  "search": "",
-  "showTags": false,
+  "search": "Python",
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#note/reference",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -1.8,
+  "textFadeMultiplier": -1.1,
   "nodeSizeMultiplier": 1.35738663675693,
-  "lineSizeMultiplier": 2.35859375,
+  "lineSizeMultiplier": 1.83541666666667,
   "collapse-forces": false,
   "centerStrength": 0.418727745164084,
   "repelStrength": 13.1770833333333,
   "linkStrength": 0.577087794432548,
   "linkDistance": 84,
-  "scale": 0.4271923246097423,
+  "scale": 0.42719232460974077,
   "close": false
 }

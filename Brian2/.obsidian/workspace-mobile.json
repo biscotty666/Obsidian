@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily Notes/2023-04-08.md",
+                "file": "+ Encounters/Example of TSA workflow.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Calendar/Daily Notes/2023-04-08.md",
+            "file": "+ Encounters/Example of TSA workflow.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Calendar/Daily Notes/2023-04-08.md",
+            "file": "+ Encounters/Example of TSA workflow.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Calendar/Daily Notes/2023-04-08.md"
+            "file": "+ Encounters/Example of TSA workflow.md"
           }
         }
       },
@@ -147,8 +147,9 @@
   },
   "active": "a44390eb6cbdf424",
   "lastOpenFiles": [
-    "Calendar/2022/2023-04-08.md",
     "Calendar/Daily Notes/2023-04-08.md",
+    "+ Encounters/Example of TSA workflow.md",
+    "Calendar/2022/2023-04-08.md",
     "Calendar/2022",
     "Calendar/2023-04-06.md",
     "Calendar/2022/2023-04-07.md",
@@ -174,7 +175,6 @@
     "Spaces/Brian Carey.md",
     "Sources/+ About Sources.md",
     "Atlas/Linux.md",
-    "Sources/Natural Language and Statistics Article.md",
     "Extras/Canvases/Obsidian and PKM Class Overview.canvas",
     "Untitled.canvas",
     "Spaces/Obsidian and PKM Class",
