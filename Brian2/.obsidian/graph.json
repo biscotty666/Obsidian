@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
-  "search": "Python",
-  "showTags": true,
+  "search": "line:(Monte)",
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
@@ -11,12 +11,12 @@
   "showArrow": true,
   "textFadeMultiplier": -1.1,
   "nodeSizeMultiplier": 1.35738663675693,
-  "lineSizeMultiplier": 1.83541666666667,
+  "lineSizeMultiplier": 0.967708333333333,
   "collapse-forces": false,
   "centerStrength": 0.418727745164084,
   "repelStrength": 13.1770833333333,
   "linkStrength": 0.577087794432548,
   "linkDistance": 84,
-  "scale": 0.42719232460974077,
+  "scale": 0.29859062116502355,
   "close": false
 }

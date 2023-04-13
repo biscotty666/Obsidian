@@ -1,8 +1,9 @@
 up:: [[Data Science]]
 tags:: #map #on/PnS 
 X:: [[Introduction to Data Science]]
+Library:: 600
 
-# Statistics
+# Probability and Statistics
 
 ## Reference notes
 ```dataview

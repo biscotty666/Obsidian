@@ -18,6 +18,42 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "The Birthday Problem",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/The Birthday Problem.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Monte Carlo Simulation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Monte Carlo Simulation.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Data Camp Module 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Data Camp Module 3.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "2023-04-12",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Daily Notes/2023-04-12.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Pie Charts in R",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Pie Charts in R.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":33},\"to\":{\"line\":30,\"ch\":33}}}"
+                },
+                {
+                  "title": "Obsidian and PKM Training Class",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/Obsidian and PKM Class/Obsidian and PKM Training Class.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "2023-04-11",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Daily Notes/2023-04-11.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -26,7 +62,7 @@
                 {
                   "title": "Library",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Library.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Library.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
                 },
                 {
@@ -38,7 +74,7 @@
                 {
                   "title": "Library",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Library.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Library.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":14},\"to\":{\"line\":26,\"ch\":14}},\"scroll\":17.312203791469194}"
                 },
                 {
@@ -50,7 +86,7 @@
                 {
                   "title": "Library",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Library.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Library.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":65,\"ch\":0},\"to\":{\"line\":65,\"ch\":0}},\"scroll\":39.698297446169256}"
                 },
                 {
@@ -70,7 +106,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Obsidian and PKM Class/Obsidian and PKM Training Class.md",
+                "file": "Cards/Monte Carlo Simulation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +114,7 @@
             }
           },
           {
-            "id": "0398c1de44c4df3a",
+            "id": "943653be223ecb89",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -92,7 +128,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Comparison of R and Python for Data Science.md",
+                "file": "+ Encounters/Combinations of multiple choices.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +136,7 @@
             }
           },
           {
-            "id": "9b6105b80524e0f6",
+            "id": "56a95ea895c363a6",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -110,17 +146,47 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Syntax",
+                  "title": "2023-04-12",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Syntax.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":28},\"to\":{\"line\":1,\"ch\":28}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Daily Notes/2023-04-12.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "2023-04-13",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Daily Notes/2023-04-13.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":26.612630208333332}"
+                },
+                {
+                  "title": "2023-04-12",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Daily Notes/2023-04-12.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":15.518880208333334}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "2023-04-12",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Daily Notes/2023-04-12.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":7.179036458333333}"
+                },
+                {
+                  "title": "Data Camp Module 4",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Data Camp Module 4.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/Library.md",
+                "file": "Calendar/Daily Notes/2023-04-13.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -175,7 +241,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "data summary",
+                "query": "monte carlo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -251,7 +317,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Atlas/Library.md",
+                "file": "Calendar/Daily Notes/2023-03-28.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -295,7 +361,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/Library.md"
+                "file": "Calendar/Daily Notes/2023-03-28.md"
               }
             }
           },
@@ -356,7 +422,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/Library.md",
+                "file": "Calendar/Daily Notes/2023-03-28.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -382,7 +448,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/Library.md",
+                "file": "Calendar/Daily Notes/2023-03-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -411,37 +477,37 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "9b6105b80524e0f6",
+  "active": "f7ed83391f20d9fb",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "Spaces/Comparison of R and Python for Data Science.md",
+    "Calendar/Daily Notes/2023-04-13.md",
+    "Calendar/Daily Notes/2023-04-12.md",
+    "Cards/Solutions to Flow Stoppers.md",
+    "Cards/Obtaining summary results in different columns instead of rows.md",
+    "+ Encounters/Combinations of multiple choices.md",
+    "+ Encounters/Untitled.md",
+    "Cards/Monte Carlo Simulation.md",
+    "Cards/The Birthday Problem.md",
+    "Sources/Data Camp Module 3.md",
+    "Cards/Probability of a value being within 1 SD of the Average.md",
+    "Cards/Library.md",
+    "Atlas/Probability and Statistics.md",
+    "+ Encounters/Let's Make a Deal.md",
+    "+ Encounters/Determine the value at a certain percentile.md",
+    "+ Encounters/Data Camp Module 4.md",
+    "+ Encounters/Create a list of possibilities in R.md",
+    "Cards/Generate an R script from an R Studio Notebook.md",
+    "Cards/Pie Charts in R.md",
+    "Spaces/Obsidian and PKM Class/Obsidian and PKM Training Class.md",
+    "Cards/Remove rows with NA values.md",
+    "Cards/Comparison of R and Python for Data Science.md",
+    "Cards/Numpy case statement where() gotchas.md",
+    "Atlas/Python.md",
+    "+ Encounters/Syntax.md",
     "Atlas/R.md",
     "+ Encounters/Programming.md",
-    "Atlas/Library.md",
-    "+ Encounters/Syntax.md",
-    "Spaces/Obsidian and PKM Class/Obsidian and PKM Training Class.md",
-    "Calendar/Daily Notes/2023-04-11.md",
-    "Atlas/PKM.md",
-    "Sources/Introduction to Data Science.md",
-    "Atlas/Python.md",
-    "Atlas/Obsidian.md",
-    "Atlas/Language MOC.md",
-    "Atlas/Concepts MOC.md",
-    "Atlas/Habits MOC.md",
-    "Spaces/Brian Carey.md",
-    "Home.md",
-    "Cards/Stop word List.md",
-    "Cards/Bar chart with counts.md",
-    "Cards/Rotate labels in R.md",
-    "Cards/Select top n number of rows.md",
-    "Cards/Histograms in R and Python.md",
-    "Cards/Replacement based on a substring.md",
-    "Cards/Reorder gotcha in R.md",
-    "Cards/Conditionally filter or remove data.md",
-    "Cards/Counting occurrences.md",
-    "Extras/Templates/Syntax Note.md",
     "Extras/css",
     "Extras/Images/Pasted image 20230408224611.png",
     "Extras/Images/Pasted image 20230408224110.png",

@@ -4,7 +4,7 @@ X::
 
 ## Obtaining summary results in different columns instead of rows
 
-Results of `summarize()` returns a row for each requested summary value. To return a column for each summary value instead define a function, eg:
+Results of `summarize()` in [[R]] returns a row for each requested summary value. To return a column for each summary value instead define a function, eg:
 
 ```
 median_min_max <- function(x) {

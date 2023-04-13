@@ -1,12 +1,96 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-04-13",
+      "path": "Calendar/Daily Notes/2023-04-13.md"
+    },
+    {
+      "basename": "2023-04-12",
+      "path": "Calendar/Daily Notes/2023-04-12.md"
+    },
+    {
+      "basename": "Solutions to Flow Stoppers",
+      "path": "Cards/Solutions to Flow Stoppers.md"
+    },
+    {
+      "basename": "Obtaining summary results in different columns instead of rows",
+      "path": "Cards/Obtaining summary results in different columns instead of rows.md"
+    },
+    {
+      "basename": "Combinations of multiple choices",
+      "path": "+ Encounters/Combinations of multiple choices.md"
+    },
+    {
+      "basename": "Monte Carlo Simulation",
+      "path": "Cards/Monte Carlo Simulation.md"
+    },
+    {
+      "basename": "The Birthday Problem",
+      "path": "Cards/The Birthday Problem.md"
+    },
+    {
+      "basename": "Data Camp Module 3",
+      "path": "Sources/Data Camp Module 3.md"
+    },
+    {
+      "basename": "Probability of a value being within 1 SD of the Average",
+      "path": "Cards/Probability of a value being within 1 SD of the Average.md"
+    },
+    {
       "basename": "Library",
-      "path": "Atlas/Library.md"
+      "path": "Cards/Library.md"
+    },
+    {
+      "basename": "Probability and Statistics",
+      "path": "Atlas/Probability and Statistics.md"
+    },
+    {
+      "basename": "Let's Make a Deal",
+      "path": "+ Encounters/Let's Make a Deal.md"
+    },
+    {
+      "basename": "Determine the value at a certain percentile",
+      "path": "+ Encounters/Determine the value at a certain percentile.md"
+    },
+    {
+      "basename": "Data Camp Module 4",
+      "path": "+ Encounters/Data Camp Module 4.md"
+    },
+    {
+      "basename": "Create a list of possibilities in R",
+      "path": "+ Encounters/Create a list of possibilities in R.md"
+    },
+    {
+      "basename": "Generate an R script from an R Studio Notebook",
+      "path": "Cards/Generate an R script from an R Studio Notebook.md"
+    },
+    {
+      "basename": "Pie Charts in R",
+      "path": "Cards/Pie Charts in R.md"
+    },
+    {
+      "basename": "Obsidian and PKM Training Class",
+      "path": "Spaces/Obsidian and PKM Class/Obsidian and PKM Training Class.md"
+    },
+    {
+      "basename": "Remove rows with NA values",
+      "path": "Cards/Remove rows with NA values.md"
     },
     {
       "basename": "Comparison of R and Python for Data Science",
-      "path": "Spaces/Comparison of R and Python for Data Science.md"
+      "path": "Cards/Comparison of R and Python for Data Science.md"
+    },
+    {
+      "basename": "Numpy case statement where() gotchas",
+      "path": "Cards/Numpy case statement where() gotchas.md"
+    },
+    {
+      "basename": "Python",
+      "path": "Atlas/Python.md"
+    },
+    {
+      "basename": "Syntax",
+      "path": "+ Encounters/Syntax.md"
     },
     {
       "basename": "R",
@@ -15,14 +99,6 @@
     {
       "basename": "Programming",
       "path": "+ Encounters/Programming.md"
-    },
-    {
-      "basename": "Syntax",
-      "path": "+ Encounters/Syntax.md"
-    },
-    {
-      "basename": "Obsidian and PKM Training Class",
-      "path": "Spaces/Obsidian and PKM Class/Obsidian and PKM Training Class.md"
     },
     {
       "basename": "2023-04-11",
@@ -35,10 +111,6 @@
     {
       "basename": "Introduction to Data Science",
       "path": "Sources/Introduction to Data Science.md"
-    },
-    {
-      "basename": "Python",
-      "path": "Atlas/Python.md"
     },
     {
       "basename": "Obsidian",
@@ -127,78 +199,6 @@
     {
       "basename": "Obsidian Slide Transitions (Fragments) List",
       "path": "Cards/Obsidian Slide Transitions (Fragments) List.md"
-    },
-    {
-      "basename": "Obsidian slides sequentially reveal items",
-      "path": "Cards/Obsidian slides sequentially reveal items.md"
-    },
-    {
-      "basename": "Obsidian Excalidraw",
-      "path": "+ Encounters/Obsidian Excalidraw.md"
-    },
-    {
-      "basename": "Graph Theory Algorithms",
-      "path": "+ Encounters/Graph Theory Algorithms.md"
-    },
-    {
-      "basename": "Investigate multi-user environment",
-      "path": "+ Encounters/Investigate multi-user environment.md"
-    },
-    {
-      "basename": "Nginx deep dive video",
-      "path": "+ Encounters/Nginx deep dive video.md"
-    },
-    {
-      "basename": "mermaid.js",
-      "path": "Cards/mermaid.js.md"
-    },
-    {
-      "basename": "Fragmented list shortcut syntax in Obsidian",
-      "path": "Cards/Fragmented list shortcut syntax in Obsidian.md"
-    },
-    {
-      "basename": "Find the number of unique rows in a dataframe",
-      "path": "+ Encounters/Find the number of unique rows in a dataframe.md"
-    },
-    {
-      "basename": "Financial Data Visualization Widgets",
-      "path": "+ Encounters/Financial Data Visualization Widgets.md"
-    },
-    {
-      "basename": "External Markdown",
-      "path": "Cards/External Markdown.md"
-    },
-    {
-      "basename": "Example of TSA workflow",
-      "path": "+ Encounters/Example of TSA workflow.md"
-    },
-    {
-      "basename": "Declare a Stylesheet for Obsidian Slides",
-      "path": "Cards/Declare a Stylesheet for Obsidian Slides.md"
-    },
-    {
-      "basename": "Dataframe structural details",
-      "path": "Cards/Dataframe structural details.md"
-    },
-    {
-      "basename": "Create a factor column in a data frame",
-      "path": "Cards/Create a factor column in a data frame.md"
-    },
-    {
-      "basename": "Basic statistical information on data frames",
-      "path": "Cards/Basic statistical information on data frames.md"
-    },
-    {
-      "basename": "Advanced Slides Attribute Reference",
-      "path": "Cards/Advanced Slides Attribute Reference.md"
-    },
-    {
-      "basename": "Inbox",
-      "path": "Atlas/Inbox.md"
-    },
-    {
-      "basename": "Pie Charts in R",
-      "path": "Cards/Pie Charts in R.md"
     }
   ],
   "omittedPaths": [],
