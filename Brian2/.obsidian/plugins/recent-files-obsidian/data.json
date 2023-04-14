@@ -1,12 +1,80 @@
 {
   "recentFiles": [
     {
+      "basename": "Dataview deep dive",
+      "path": "+ Encounters/Dataview deep dive.md"
+    },
+    {
+      "basename": "Obsidian Projects",
+      "path": "+ Encounters/Obsidian Projects.md"
+    },
+    {
+      "basename": "Quantile-quantile plots",
+      "path": "+ Encounters/Quantile-quantile plots.md"
+    },
+    {
+      "basename": "dnorm, pnorm, qnorm, rnorm",
+      "path": "Cards/dnorm, pnorm, qnorm, rnorm.md"
+    },
+    {
+      "basename": "Z-score or Standard Units",
+      "path": "Cards/Z-score or Standard Units.md"
+    },
+    {
+      "basename": "Normal Distribution",
+      "path": "Cards/Normal Distribution.md"
+    },
+    {
+      "basename": "Show a slice of a smooth density plot",
+      "path": "+ Encounters/Show a slice of a smooth density plot.md"
+    },
+    {
+      "basename": "Smooth Density",
+      "path": "+ Encounters/Smooth Density.md"
+    },
+    {
+      "basename": "Monte Carlo Simulation",
+      "path": "Cards/Monte Carlo Simulation.md"
+    },
+    {
+      "basename": "Difference between a histogram and a bar plot",
+      "path": "Cards/Difference between a histogram and a bar plot.md"
+    },
+    {
+      "basename": "Combinations of multiple choices",
+      "path": "+ Encounters/Combinations of multiple choices.md"
+    },
+    {
+      "basename": "Empirical Cumulative Distribution Function",
+      "path": "+ Encounters/Empirical Cumulative Distribution Function.md"
+    },
+    {
+      "basename": "Cumulative Distribution Function (CDF)",
+      "path": "+ Encounters/Cumulative Distribution Function (CDF).md"
+    },
+    {
+      "basename": "Show proportion for each category",
+      "path": "Cards/Show proportion for each category.md"
+    },
+    {
+      "basename": "Data Variable Types",
+      "path": "Cards/Data Variable Types.md"
+    },
+    {
       "basename": "2023-04-13",
       "path": "Calendar/Daily Notes/2023-04-13.md"
     },
     {
+      "basename": "2023-04-11",
+      "path": "Calendar/Daily Notes/2023-04-11.md"
+    },
+    {
       "basename": "2023-04-12",
       "path": "Calendar/Daily Notes/2023-04-12.md"
+    },
+    {
+      "basename": "2023-03-25",
+      "path": "Calendar/Daily Notes/2023-03-25.md"
     },
     {
       "basename": "Solutions to Flow Stoppers",
@@ -15,14 +83,6 @@
     {
       "basename": "Obtaining summary results in different columns instead of rows",
       "path": "Cards/Obtaining summary results in different columns instead of rows.md"
-    },
-    {
-      "basename": "Combinations of multiple choices",
-      "path": "+ Encounters/Combinations of multiple choices.md"
-    },
-    {
-      "basename": "Monte Carlo Simulation",
-      "path": "Cards/Monte Carlo Simulation.md"
     },
     {
       "basename": "The Birthday Problem",
@@ -101,10 +161,6 @@
       "path": "+ Encounters/Programming.md"
     },
     {
-      "basename": "2023-04-11",
-      "path": "Calendar/Daily Notes/2023-04-11.md"
-    },
-    {
       "basename": "PKM",
       "path": "Atlas/PKM.md"
     },
@@ -143,62 +199,6 @@
     {
       "basename": "Rotate labels in R",
       "path": "Cards/Rotate labels in R.md"
-    },
-    {
-      "basename": "Select top n number of rows",
-      "path": "Cards/Select top n number of rows.md"
-    },
-    {
-      "basename": "Histograms in R and Python",
-      "path": "Cards/Histograms in R and Python.md"
-    },
-    {
-      "basename": "Replacement based on a substring",
-      "path": "Cards/Replacement based on a substring.md"
-    },
-    {
-      "basename": "Reorder gotcha in R",
-      "path": "Cards/Reorder gotcha in R.md"
-    },
-    {
-      "basename": "Conditionally filter or remove data",
-      "path": "Cards/Conditionally filter or remove data.md"
-    },
-    {
-      "basename": "Counting occurrences",
-      "path": "Cards/Counting occurrences.md"
-    },
-    {
-      "basename": "Syntax Note",
-      "path": "Extras/Templates/Syntax Note.md"
-    },
-    {
-      "basename": "Note",
-      "path": "Extras/Templates/Note.md"
-    },
-    {
-      "basename": "Daily Note",
-      "path": "Extras/Templates/Daily Note.md"
-    },
-    {
-      "basename": "Convert column to numeric",
-      "path": "+ Encounters/Convert column to numeric.md"
-    },
-    {
-      "basename": "Technology",
-      "path": "Atlas/Technology.md"
-    },
-    {
-      "basename": "2023-04-10",
-      "path": "Calendar/Daily Notes/2023-04-10.md"
-    },
-    {
-      "basename": "Obsidian Slides Plugin",
-      "path": "Atlas/Obsidian Slides Plugin.md"
-    },
-    {
-      "basename": "Obsidian Slide Transitions (Fragments) List",
-      "path": "Cards/Obsidian Slide Transitions (Fragments) List.md"
     }
   ],
   "omittedPaths": [],

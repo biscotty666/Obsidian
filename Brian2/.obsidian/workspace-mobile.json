@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Encounters/Example of TSA workflow.md",
+                "file": "+ Encounters/Obsidian Projects.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -74,7 +74,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "e906ea1dae891a8c",
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "+ Encounters/Example of TSA workflow.md",
+            "file": "+ Encounters/Obsidian Projects.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "+ Encounters/Example of TSA workflow.md",
+            "file": "+ Encounters/Obsidian Projects.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "+ Encounters/Example of TSA workflow.md"
+            "file": "+ Encounters/Obsidian Projects.md"
           }
         }
       },
@@ -147,8 +147,13 @@
   },
   "active": "a44390eb6cbdf424",
   "lastOpenFiles": [
-    "Calendar/Daily Notes/2023-04-08.md",
+    "+ Encounters/Dataview deep dive.md",
+    "+ Encounters/Obsidian Projects.md",
+    "+ Encounters/Dataview deep dive.sync-conflict-20230413-172000-BBO7X7A.md",
+    "+ Encounters/Http course.md",
+    "Calendar/Daily Notes/2023-04-13.md",
     "+ Encounters/Example of TSA workflow.md",
+    "Calendar/Daily Notes/2023-04-08.md",
     "Calendar/2022/2023-04-08.md",
     "Calendar/2022",
     "Calendar/2023-04-06.md",
@@ -170,11 +175,6 @@
     "Excalidraw/Drawing 2023-04-01 12.43.07.excalidraw.md",
     "Cards/Information that crosses our attentional filter becomes knowledge.md",
     "+ Encounters/Another computer vision project.md",
-    "+ Encounters/BC Skill Areas.md",
-    "+ Encounters/SQL.md",
-    "Spaces/Brian Carey.md",
-    "Sources/+ About Sources.md",
-    "Atlas/Linux.md",
     "Extras/Canvases/Obsidian and PKM Class Overview.canvas",
     "Untitled.canvas",
     "Spaces/Obsidian and PKM Class",

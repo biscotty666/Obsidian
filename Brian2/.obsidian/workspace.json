@@ -114,7 +114,7 @@
             }
           },
           {
-            "id": "943653be223ecb89",
+            "id": "28cbd36dd8312dce",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -128,7 +128,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Encounters/Combinations of multiple choices.md",
+                "file": "+ Encounters/Smooth Density.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -136,7 +136,7 @@
             }
           },
           {
-            "id": "56a95ea895c363a6",
+            "id": "089a28dc4028e040",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -146,47 +146,85 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "2023-04-12",
+                  "title": "Show a slice of a smooth density plot",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Daily Notes/2023-04-12.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "2023-04-13",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Daily Notes/2023-04-13.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":26.612630208333332}"
-                },
-                {
-                  "title": "2023-04-12",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Daily Notes/2023-04-12.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":15.518880208333334}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "2023-04-12",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Daily Notes/2023-04-12.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":7.179036458333333}"
-                },
-                {
-                  "title": "Data Camp Module 4",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Data Camp Module 4.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Show a slice of a smooth density plot.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily Notes/2023-04-13.md",
+                "file": "Cards/Normal Distribution.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bffa82900836f4bc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cards/Z-score or Standard Units.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d718616a8f7fafd1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Obsidian Projects",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Obsidian Projects.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Quantile-quantile plots",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Quantile-quantile plots.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "dnorm, pnorm, qnorm, rnorm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/dnorm, pnorm, qnorm, rnorm.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":84},\"to\":{\"line\":18,\"ch\":84}}}"
+                },
+                {
+                  "title": "Quantile-quantile plots",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Quantile-quantile plots.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":77},\"to\":{\"line\":6,\"ch\":77}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+ Encounters/Dataview deep dive.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -194,7 +232,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -241,7 +279,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "monte carlo",
+                "query": "dnorm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -317,7 +355,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily Notes/2023-03-28.md",
+                "file": "+ Encounters/Dataview deep dive.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -361,7 +399,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily Notes/2023-03-28.md"
+                "file": "+ Encounters/Dataview deep dive.md"
               }
             }
           },
@@ -422,7 +460,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily Notes/2023-03-28.md",
+                "file": "+ Encounters/Dataview deep dive.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -448,7 +486,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily Notes/2023-03-28.md",
+                "file": "+ Encounters/Dataview deep dive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -459,7 +497,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 337.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -477,37 +516,43 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f7ed83391f20d9fb",
+  "active": "d718616a8f7fafd1",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "+ Encounters/Obsidian Projects.md",
+    "+ Encounters/Quantile-quantile plots.md",
+    "+ Encounters/Dataview deep dive.sync-conflict-20230413-172000-BBO7X7A.md",
+    "+ Encounters/Dataview deep dive.md",
+    "Cards/dnorm, pnorm, qnorm, rnorm.md",
+    "Cards/Z-score or Standard Units.md",
+    "Cards/Normal Distribution.md",
+    "+ Encounters/Http course.md",
+    "+ Encounters/Show a slice of a smooth density plot.md",
+    "Extras/Images/Pasted image 20230413090523.png",
+    "+ Encounters/Smooth Density.md",
+    "Extras/Images/Pasted image 20230413090302.png",
+    "Extras/Images/Pasted image 20230413085718.png",
+    "Cards/Monte Carlo Simulation.md",
+    "Cards/Difference between a histogram and a bar plot.md",
+    "+ Encounters/Combinations of multiple choices.md",
+    "+ Encounters/Empirical Cumulative Distribution Function.md",
+    "+ Encounters/Cumulative Distribution Function (CDF).md",
+    "Extras/Images/Pasted image 20230413084116.png",
+    "Extras/Images/Pasted image 20230413084101.png",
+    "Extras/Images/f81c05aba576a12b4e05ee3f4cba709dd16139c7.svg",
+    "Cards/Show proportion for each category.md",
+    "Cards/Data Variable Types.md",
     "Calendar/Daily Notes/2023-04-13.md",
+    "Calendar/Daily Notes/2023-04-11.md",
     "Calendar/Daily Notes/2023-04-12.md",
+    "Calendar/Daily Notes/2023-03-25.md",
+    "Calendar/Daily Notes/2023-03-28.md",
     "Cards/Solutions to Flow Stoppers.md",
     "Cards/Obtaining summary results in different columns instead of rows.md",
-    "+ Encounters/Combinations of multiple choices.md",
-    "+ Encounters/Untitled.md",
-    "Cards/Monte Carlo Simulation.md",
     "Cards/The Birthday Problem.md",
     "Sources/Data Camp Module 3.md",
-    "Cards/Probability of a value being within 1 SD of the Average.md",
-    "Cards/Library.md",
-    "Atlas/Probability and Statistics.md",
-    "+ Encounters/Let's Make a Deal.md",
-    "+ Encounters/Determine the value at a certain percentile.md",
-    "+ Encounters/Data Camp Module 4.md",
-    "+ Encounters/Create a list of possibilities in R.md",
-    "Cards/Generate an R script from an R Studio Notebook.md",
-    "Cards/Pie Charts in R.md",
-    "Spaces/Obsidian and PKM Class/Obsidian and PKM Training Class.md",
-    "Cards/Remove rows with NA values.md",
-    "Cards/Comparison of R and Python for Data Science.md",
-    "Cards/Numpy case statement where() gotchas.md",
-    "Atlas/Python.md",
-    "+ Encounters/Syntax.md",
-    "Atlas/R.md",
-    "+ Encounters/Programming.md",
     "Extras/css",
     "Extras/Images/Pasted image 20230408224611.png",
     "Extras/Images/Pasted image 20230408224110.png",
@@ -515,13 +560,7 @@
     "Extras/Images/Pasted image 20230408220311.png",
     "Calendar/2022",
     "Calendar/Daily Notes",
-    "Extras/Images/Pasted image 20230407220934.png",
-    "Extras/Images/Pasted image 20230406211446.png",
-    "Extras/Images/Pasted image 20230404123436.png",
-    "Extras/Images/00cb9b2c9b866378626bcfa45c86a6de2f2b2e40.svg",
     "Extras/Excalidraw/Scripts",
-    "Extras/Images/Pasted image 20230403135519.png",
-    "Extras/Images/Pasted image 20230403134633.png",
     "Extras/Canvases/OPCourseIntro.canvas",
     "Extras/Canvases/Obsidian and PKM Class Overview.canvas",
     "Extras/Slides",
