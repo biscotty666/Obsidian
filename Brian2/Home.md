@@ -20,11 +20,10 @@ These are maps to launch your `efforts`. Where would you like to go?
 	- [[Linguistics and Languages]]
 - Sources
 	- [[Library]]
-	- [[Sources MOC]]
-	- [[Concepts MOC]]
+	- [[Sources MOC | Sources]]
+	- [[Concepts MOC | Concepts]]
 - Action and Reflection
 	- [[Efforts]]
-	- [[Plan and Review]]
 - Personal
 	- [[Studies]]
 	- [[Brian Carey]]

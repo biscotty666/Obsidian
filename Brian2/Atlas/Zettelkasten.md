@@ -1,5 +1,6 @@
 up:: [[PKM]]
 tags:: #map #concept 
+Library:: 000
 
 # Zettelkasten
 

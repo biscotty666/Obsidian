@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cae23f3089d69077",
+            "id": "62cb28252ad8826c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,95 +18,17 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Quantile-quantile plots",
+                  "title": "Proverbs",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Quantile-quantile plots.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "A load of Python related cheat sheets",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/A load of Python related cheat sheets.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Syntax",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Syntax.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Show a slice of a smooth density plot",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Show a slice of a smooth density plot.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Quantile-quantile plots",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Quantile-quantile plots.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Let's Make a Deal",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Let's Make a Deal.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Create a list of possible outcomes in R",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Create a list of possible outcomes in R.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
-                },
-                {
-                  "title": "Another computer vision project",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Another computer vision project.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "Advanced Slides Doc Walkthrough",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Advanced Slides Doc Walkthrough.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Investigate multi-user environment",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Investigate multi-user environment.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Http course",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Http course.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Find the number of unique rows in a dataframe",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Find the number of unique rows in a dataframe.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
-                },
-                {
-                  "title": "Financial Data Visualization Widgets",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Financial Data Visualization Widgets.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":4},\"to\":{\"line\":2,\"ch\":4}}}"
-                },
-                {
-                  "title": "Data Science",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Data Science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Proverbs.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Quantiles, Quartiles, Percentiles.md",
+                "file": "Calendar/Daily Notes/2023-04-15.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +36,7 @@
             }
           },
           {
-            "id": "b1ff2a9260c99256",
+            "id": "8e8be9bf68373b18",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -122,25 +44,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Outliers",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Outliers.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":71},\"to\":{\"line\":2,\"ch\":71}}}"
-                },
-                {
-                  "title": "Standard Error",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Standard Error.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":4},\"to\":{\"line\":2,\"ch\":4}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Case study self-reporte student heights.md",
+                "file": "Atlas/Proverbs.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -148,7 +58,7 @@
             }
           },
           {
-            "id": "ef685ab4faab06b0",
+            "id": "7f4923f016a82b47",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -156,102 +66,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Introduction to Data Science",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources/Introduction to Data Science.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "2023-04-15",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Daily Notes/2023-04-15.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":20.193932411674346}"
-                },
-                {
-                  "title": "Box and Whiskers Plot",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Box and Whiskers Plot.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
-                },
-                {
-                  "title": "Distribution of IQ scores",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Distribution of IQ scores.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":30},\"to\":{\"line\":6,\"ch\":30}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "6234e5b16e051b66",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "BC Skill Areas",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/BC Skill Areas.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Advanced Slides Doc Walkthrough",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Advanced Slides Doc Walkthrough.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "A load of Python related cheat sheets",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/A load of Python related cheat sheets.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "2023-04-14",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Daily Notes/2023-04-14.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":3.0833333333333335}"
-                },
-                {
-                  "title": "Case study self-reporte student heights",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Case study self-reporte student heights.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":0},\"to\":{\"line\":37,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Outliers",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Outliers.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":62},\"to\":{\"line\":2,\"ch\":62}},\"scroll\":0}"
-                },
-                {
-                  "title": "Inter Quartile Range (IQR)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Inter Quartile Range (IQR).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":64},\"to\":{\"line\":10,\"ch\":64}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/Box and Whiskers Plot.md",
+                "file": "+ Encounters/Sun Tsu Proverbs.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -259,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -306,7 +127,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "discrete",
+                "query": "fine words",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -336,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5,
-    "collapsed": true
+    "width": 259.5
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -383,6 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Atlas/Proverbs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -425,7 +246,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Atlas/Proverbs.md"
+              }
             }
           },
           {
@@ -485,6 +308,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Atlas/Proverbs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -510,6 +334,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Atlas/Proverbs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -540,37 +365,37 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "ef685ab4faab06b0",
+  "active": "8e8be9bf68373b18",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "Sources/Introduction to Data Science.md",
-    "Cards/Determine proportion of data below a certain value.md",
+    "Cards/Wise Warrior.md",
+    "Atlas/Proverbs.md",
+    "Cards/Skillful Strategist.md",
+    "Extras/Templates/Proverb Note.md",
+    "+ Encounters/Sun Tsu Proverbs.md",
+    "+ Encounters/How tall the mountain is.md",
+    "+ Encounters/Wasting time.md",
+    "Cards/Respond intelligently.md",
+    "Cards/Improving the world.md",
+    "+ Encounters/If you want your children.md",
+    "+ Encounters/A bird does not sing.md",
+    "Cards/Sincere words.md",
+    "Cards/Good traveling.md",
+    "Cards/Moment of patience.md",
+    "+ Encounters/The best cosmetic.md",
+    "+ Encounters/What other people think.md",
+    "+ Encounters/Planning for a year.md",
+    "+ Encounters/The heart is at ease.md",
+    "Cards/One beam.md",
+    "Cards/If you are patient.md",
     "Calendar/Daily Notes/2023-04-15.md",
-    "Atlas/Box and Whiskers Plot.md",
-    "Cards/Distribution of IQ scores.md",
-    "Cards/Monte Carlo Simulation.md",
-    "Cards/Case study self-reporte student heights.md",
-    "Cards/Outliers.md",
-    "Cards/Standard Error.md",
-    "Cards/Quantile-quantile plots.md",
-    "Cards/Inter Quartile Range (IQR).md",
-    "+ Encounters/Example of TSA workflow.md",
-    "Cards/Expected Value.md",
-    "Cards/Change the length of the whiskers in a box plot.md",
-    "+ Encounters/BC Skill Areas.md",
-    "+ Encounters/Advanced Slides Doc Walkthrough.md",
-    "Cards/A load of Python related cheat sheets.md",
-    "Calendar/Daily Notes/2023-04-14.md",
-    "Calendar/Daily Notes/2023-04-10.md",
-    "Sources/Obsidian Zettelkasten Youtube video Kirsanov.md",
-    "Cards/Stratification.md",
-    "Cards/Standard Deviation.md",
-    "Cards/dnorm, pnorm, qnorm, rnorm.md",
-    "Cards/Let's Make a Deal.md",
-    "Cards/Central Limit Theorem.md",
-    "Cards/The Birthday Problem.md",
+    "Extras/Excalidraw/Drawing 2023-04-15 11.20.17.excalidraw.md",
+    "+ Encounters/Chinese Proverbs.md",
+    "Cards/Library.md",
+    "Atlas/Zettelkasten.md",
+    "Atlas/Thinking.md",
     "Extras/Images/probability_cheatsheet.pdf",
     "Extras/Images/Scikit-Learn_Cheat_Sheet.pdf",
     "Extras/Images/Python_Seaborn_Cheat_Sheet.pdf",

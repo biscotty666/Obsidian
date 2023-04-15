@@ -1,7 +1,7 @@
 up::  [[Technology]]
 tags:: #map 
 X:: [[PKM]]
-Library:: 000
+Library:: 600
 
 # Obsidian
 

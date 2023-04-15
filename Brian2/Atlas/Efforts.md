@@ -1,5 +1,6 @@
 up:: [[Home]]
 tags:: #map
+Library:: 000
 
 # Efforts 🏋️
 > Efforts allow ideas to breath. Projects smother them.

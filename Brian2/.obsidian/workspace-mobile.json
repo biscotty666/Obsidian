@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Encounters/Obsidian Canvas Video.md",
+                "file": "Atlas/Proverbs.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "+ Encounters/Obsidian Canvas Video.md",
+            "file": "Atlas/Proverbs.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "+ Encounters/Obsidian Canvas Video.md",
+            "file": "Atlas/Proverbs.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "+ Encounters/Obsidian Canvas Video.md"
+            "file": "Atlas/Proverbs.md"
           }
         }
       },
@@ -147,8 +147,10 @@
   },
   "active": "a44390eb6cbdf424",
   "lastOpenFiles": [
-    "+ Encounters/Purrr video.md",
+    "+ Encounters/Sun Tsu Proverbs.md",
+    "+ Encounters/Chinese Proverbs.md",
     "+ Encounters/Obsidian Canvas Video.md",
+    "+ Encounters/Purrr video.md",
     "+ Encounters/A load of cheat sheets.sync-conflict-20230413-214507-HSJIBKW.md",
     "+ Encounters/Obsidian Projects.md",
     "+ Encounters/A load of cheat sheets.md",
@@ -172,8 +174,6 @@
     "Calendar/2022/2023-04-04.md",
     "+ Encounters/Graph Theory Algorithms.md",
     "+ Encounters/I talked to eric.md",
-    "+ Encounters/Trim bushes.md",
-    "Calendar/Weekly Notes/2023-W14.md",
     "Extras/Images/Pasted image 20230401103803.jpg",
     "Extras/Canvases/Obsidian and PKM Class Overview.canvas",
     "Untitled.canvas",

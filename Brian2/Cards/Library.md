@@ -22,7 +22,7 @@ where Library = 100
 ## 200 - Philosophy, Psychology ; Spirituality, Religion
 
 ```dataview
-list where Library = 200
+table file.etags where Library = 200
 ```
 
 ## 300 - Social Sciences 👥

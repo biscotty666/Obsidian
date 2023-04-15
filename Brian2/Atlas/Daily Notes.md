@@ -1,5 +1,6 @@
 up:: [[Home]]
 tags:: #map/view 
+Library:: 000
 
 # Daily Notes
 A daily note practice is great for many people. Try it out. Just never feel obligated to make a daily note every day. But do use them. They are great for a mixture of uses, such as: 
