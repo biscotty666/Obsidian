@@ -8,7 +8,6 @@ In a room with 50 people, what is the chance that at least two people have the s
 
 ```
 n <- 50
-bdays <- sample(1:365, n, replace = TRUE)
 B <- 10000
 
 same_birthday <- function(n) {

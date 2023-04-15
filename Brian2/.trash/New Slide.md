@@ -1,8 +1,0 @@
----
-bg: darkblue
----
-
-# A Slide
-
----
-

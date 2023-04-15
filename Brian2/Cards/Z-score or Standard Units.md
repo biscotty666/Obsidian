@@ -20,6 +20,8 @@ mean(abs(z) < 2)
 ## [1] 0.95
 ```
 
+Also used to create [[Quantile-quantile plots]].
+
 ---
 ### References
 

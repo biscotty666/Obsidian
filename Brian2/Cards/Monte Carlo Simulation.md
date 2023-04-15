@@ -10,7 +10,7 @@ In [[R]] we use `sample()` together with `replicate()`
 
 ```
 B <- 10000
-events <- replicate(B, sample(beads, 1))](<runners %3C- c("Jamaica", "Jamaica", "Jamaica", 
+events <- replicate(B, sample(beads, 1))](<runners <- c("Jamaica", "Jamaica", "Jamaica", 
              "USA", "Ecuador", "Netherlands", 
              "France", "South Africa")
 

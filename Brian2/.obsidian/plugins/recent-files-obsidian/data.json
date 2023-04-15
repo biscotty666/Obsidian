@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Dataview deep dive",
-      "path": "+ Encounters/Dataview deep dive.md"
+      "basename": "Introduction to Data Science",
+      "path": "Sources/Introduction to Data Science.md"
     },
     {
-      "basename": "Obsidian Projects",
-      "path": "+ Encounters/Obsidian Projects.md"
+      "basename": "2023-04-15",
+      "path": "Calendar/Daily Notes/2023-04-15.md"
     },
     {
-      "basename": "Quantile-quantile plots",
-      "path": "+ Encounters/Quantile-quantile plots.md"
+      "basename": "Box and Whiskers Plot",
+      "path": "Atlas/Box and Whiskers Plot.md"
     },
     {
-      "basename": "dnorm, pnorm, qnorm, rnorm",
-      "path": "Cards/dnorm, pnorm, qnorm, rnorm.md"
-    },
-    {
-      "basename": "Z-score or Standard Units",
-      "path": "Cards/Z-score or Standard Units.md"
-    },
-    {
-      "basename": "Normal Distribution",
-      "path": "Cards/Normal Distribution.md"
-    },
-    {
-      "basename": "Show a slice of a smooth density plot",
-      "path": "+ Encounters/Show a slice of a smooth density plot.md"
-    },
-    {
-      "basename": "Smooth Density",
-      "path": "+ Encounters/Smooth Density.md"
+      "basename": "Distribution of IQ scores",
+      "path": "Cards/Distribution of IQ scores.md"
     },
     {
       "basename": "Monte Carlo Simulation",
       "path": "Cards/Monte Carlo Simulation.md"
     },
     {
-      "basename": "Difference between a histogram and a bar plot",
-      "path": "Cards/Difference between a histogram and a bar plot.md"
+      "basename": "Case study self-reporte student heights",
+      "path": "Cards/Case study self-reporte student heights.md"
     },
     {
-      "basename": "Combinations of multiple choices",
-      "path": "+ Encounters/Combinations of multiple choices.md"
+      "basename": "Outliers",
+      "path": "Cards/Outliers.md"
     },
     {
-      "basename": "Empirical Cumulative Distribution Function",
-      "path": "+ Encounters/Empirical Cumulative Distribution Function.md"
+      "basename": "Standard Error",
+      "path": "Cards/Standard Error.md"
     },
     {
-      "basename": "Cumulative Distribution Function (CDF)",
-      "path": "+ Encounters/Cumulative Distribution Function (CDF).md"
+      "basename": "Quantile-quantile plots",
+      "path": "Cards/Quantile-quantile plots.md"
     },
     {
-      "basename": "Show proportion for each category",
-      "path": "Cards/Show proportion for each category.md"
+      "basename": "Inter Quartile Range (IQR)",
+      "path": "Cards/Inter Quartile Range (IQR).md"
     },
     {
-      "basename": "Data Variable Types",
-      "path": "Cards/Data Variable Types.md"
+      "basename": "Example of TSA workflow",
+      "path": "+ Encounters/Example of TSA workflow.md"
     },
     {
-      "basename": "2023-04-13",
-      "path": "Calendar/Daily Notes/2023-04-13.md"
+      "basename": "Expected Value",
+      "path": "Cards/Expected Value.md"
     },
     {
-      "basename": "2023-04-11",
-      "path": "Calendar/Daily Notes/2023-04-11.md"
+      "basename": "Change the length of the whiskers in a box plot",
+      "path": "Cards/Change the length of the whiskers in a box plot.md"
     },
     {
-      "basename": "2023-04-12",
-      "path": "Calendar/Daily Notes/2023-04-12.md"
+      "basename": "BC Skill Areas",
+      "path": "+ Encounters/BC Skill Areas.md"
     },
     {
-      "basename": "2023-03-25",
-      "path": "Calendar/Daily Notes/2023-03-25.md"
+      "basename": "Advanced Slides Doc Walkthrough",
+      "path": "+ Encounters/Advanced Slides Doc Walkthrough.md"
     },
     {
-      "basename": "Solutions to Flow Stoppers",
-      "path": "Cards/Solutions to Flow Stoppers.md"
+      "basename": "A load of Python related cheat sheets",
+      "path": "Cards/A load of Python related cheat sheets.md"
     },
     {
-      "basename": "Obtaining summary results in different columns instead of rows",
-      "path": "Cards/Obtaining summary results in different columns instead of rows.md"
+      "basename": "2023-04-14",
+      "path": "Calendar/Daily Notes/2023-04-14.md"
+    },
+    {
+      "basename": "Obsidian Zettelkasten Youtube video Kirsanov",
+      "path": "Sources/Obsidian Zettelkasten Youtube video Kirsanov.md"
+    },
+    {
+      "basename": "Stratification",
+      "path": "Cards/Stratification.md"
+    },
+    {
+      "basename": "Standard Deviation",
+      "path": "Cards/Standard Deviation.md"
+    },
+    {
+      "basename": "dnorm, pnorm, qnorm, rnorm",
+      "path": "Cards/dnorm, pnorm, qnorm, rnorm.md"
+    },
+    {
+      "basename": "Let's Make a Deal",
+      "path": "Cards/Let's Make a Deal.md"
+    },
+    {
+      "basename": "Central Limit Theorem",
+      "path": "Cards/Central Limit Theorem.md"
     },
     {
       "basename": "The Birthday Problem",
       "path": "Cards/The Birthday Problem.md"
     },
     {
-      "basename": "Data Camp Module 3",
-      "path": "Sources/Data Camp Module 3.md"
-    },
-    {
-      "basename": "Probability of a value being within 1 SD of the Average",
-      "path": "Cards/Probability of a value being within 1 SD of the Average.md"
-    },
-    {
-      "basename": "Library",
-      "path": "Cards/Library.md"
-    },
-    {
-      "basename": "Probability and Statistics",
-      "path": "Atlas/Probability and Statistics.md"
-    },
-    {
-      "basename": "Let's Make a Deal",
-      "path": "+ Encounters/Let's Make a Deal.md"
-    },
-    {
-      "basename": "Determine the value at a certain percentile",
-      "path": "+ Encounters/Determine the value at a certain percentile.md"
-    },
-    {
-      "basename": "Data Camp Module 4",
-      "path": "+ Encounters/Data Camp Module 4.md"
-    },
-    {
-      "basename": "Create a list of possibilities in R",
-      "path": "+ Encounters/Create a list of possibilities in R.md"
+      "basename": "Piano Journal",
+      "path": "+ Encounters/Piano Journal.md"
     },
     {
       "basename": "Generate an R script from an R Studio Notebook",
       "path": "Cards/Generate an R script from an R Studio Notebook.md"
     },
     {
-      "basename": "Pie Charts in R",
-      "path": "Cards/Pie Charts in R.md"
+      "basename": "2023-04-13",
+      "path": "Calendar/Daily Notes/2023-04-13.md"
     },
     {
-      "basename": "Obsidian and PKM Training Class",
-      "path": "Spaces/Obsidian and PKM Class/Obsidian and PKM Training Class.md"
+      "basename": "Quantiles, Quartiles, Percentiles",
+      "path": "Cards/Quantiles, Quartiles, Percentiles.md"
     },
     {
-      "basename": "Remove rows with NA values",
-      "path": "Cards/Remove rows with NA values.md"
+      "basename": "Z-score or Standard Units",
+      "path": "Cards/Z-score or Standard Units.md"
     },
     {
-      "basename": "Comparison of R and Python for Data Science",
-      "path": "Cards/Comparison of R and Python for Data Science.md"
+      "basename": "Pandas Cheatsheet",
+      "path": "Cards/Pandas Cheatsheet.md"
     },
     {
-      "basename": "Numpy case statement where() gotchas",
-      "path": "Cards/Numpy case statement where() gotchas.md"
+      "basename": "Numpy Cheatsheet",
+      "path": "Cards/Numpy Cheatsheet.md"
     },
     {
-      "basename": "Python",
-      "path": "Atlas/Python.md"
+      "basename": "Python Cheatsheet",
+      "path": "Cards/Python Cheatsheet.md"
+    },
+    {
+      "basename": "Scikit-Learn Cheat Sheet",
+      "path": "Cards/Scikit-Learn Cheat Sheet.md"
+    },
+    {
+      "basename": "Probability Cheatsheet",
+      "path": "Cards/Probability Cheatsheet.md"
+    },
+    {
+      "basename": "Seaborn Cheatsheet",
+      "path": "Cards/Seaborn Cheatsheet.md"
+    },
+    {
+      "basename": "Matplotlib Cheatsheet",
+      "path": "Cards/Matplotlib Cheatsheet.md"
     },
     {
       "basename": "Syntax",
-      "path": "+ Encounters/Syntax.md"
+      "path": "Atlas/Syntax.md"
     },
     {
-      "basename": "R",
-      "path": "Atlas/R.md"
+      "basename": "Show a slice of a smooth density plot",
+      "path": "Cards/Show a slice of a smooth density plot.md"
     },
     {
-      "basename": "Programming",
-      "path": "+ Encounters/Programming.md"
+      "basename": "Http course",
+      "path": "+ Encounters/Http course.md"
     },
     {
-      "basename": "PKM",
-      "path": "Atlas/PKM.md"
+      "basename": "Graph Theory Algorithms",
+      "path": "+ Encounters/Graph Theory Algorithms.md"
     },
     {
-      "basename": "Introduction to Data Science",
-      "path": "Sources/Introduction to Data Science.md"
+      "basename": "Cumulative Distribution Function (CDF)",
+      "path": "Cards/Cumulative Distribution Function (CDF).md"
     },
     {
-      "basename": "Obsidian",
-      "path": "Atlas/Obsidian.md"
+      "basename": "Data Camp Module 3",
+      "path": "Sources/Data Camp Module 3.md"
     },
     {
-      "basename": "Concepts MOC",
-      "path": "Atlas/Concepts MOC.md"
+      "basename": "Create a list of possible outcomes in R",
+      "path": "Cards/Create a list of possible outcomes in R.md"
     },
     {
-      "basename": "Habits MOC",
-      "path": "Atlas/Habits MOC.md"
+      "basename": "Another computer vision project",
+      "path": "Cards/Another computer vision project.md"
     },
     {
-      "basename": "Brian Carey",
-      "path": "Spaces/Brian Carey.md"
+      "basename": "Find the number of unique rows in a dataframe",
+      "path": "Cards/Find the number of unique rows in a dataframe.md"
     },
     {
-      "basename": "Home",
-      "path": "Home.md"
+      "basename": "Financial Data Visualization Widgets",
+      "path": "Cards/Financial Data Visualization Widgets.md"
     },
     {
-      "basename": "Stop word List",
-      "path": "Cards/Stop word List.md"
+      "basename": "Data Science",
+      "path": "Atlas/Data Science.md"
     },
     {
-      "basename": "Bar chart with counts",
-      "path": "Cards/Bar chart with counts.md"
+      "basename": "Empirical Cumulative Distribution Function",
+      "path": "Cards/Empirical Cumulative Distribution Function.md"
     },
     {
-      "basename": "Rotate labels in R",
-      "path": "Cards/Rotate labels in R.md"
+      "basename": "Convert column to numeric",
+      "path": "Cards/Convert column to numeric.md"
+    },
+    {
+      "basename": "Determine the value at a certain percentile",
+      "path": "Cards/Determine the value at a certain percentile.md"
     }
   ],
   "omittedPaths": [],

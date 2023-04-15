@@ -1,4 +1,4 @@
-up:: [[R]] 
+up:: [[Box and Whiskers Plot]] 
 tags:: #note/reference #on/R 
 X:: 
 
@@ -12,8 +12,7 @@ The whiskers in [[R]] are by default 1.5 times the Inter-quartile range (IQR). T
   ggplot(aes(sex, height)) +
   geom_boxplot(coef = 3) +
   geom_jitter(width = 0.1, alpha = 0.2) +
-  ylab("Height in inches") -> p3
-p3
+  ylab("Height in inches")
 ```
 
 
