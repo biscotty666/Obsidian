@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "List of Proverbs",
+      "path": "+ Encounters/List of Proverbs.md"
+    },
+    {
       "basename": "Proverbs",
       "path": "Atlas/Proverbs.md"
+    },
+    {
+      "basename": "Warfare and Deception",
+      "path": "Cards/Warfare and Deception.md"
     },
     {
       "basename": "Wise Warrior",
@@ -191,14 +199,6 @@
     {
       "basename": "Data Science",
       "path": "Atlas/Data Science.md"
-    },
-    {
-      "basename": "Box and Whiskers Plot",
-      "path": "Atlas/Box and Whiskers Plot.md"
-    },
-    {
-      "basename": "Daily Notes",
-      "path": "Atlas/Daily Notes.md"
     }
   ],
   "omittedPaths": [],

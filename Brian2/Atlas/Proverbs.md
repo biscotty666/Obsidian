@@ -5,9 +5,17 @@ Library:: 200
 
 ## Proverbs
 
-#### Chinese
+### My Favorites
 
-##### Sun Tzu  孫子
+```dataview
+table without id
+Quote, Tradition, Source from #ideas/proverbs 
+where Stars = 5
+```
+
+### Chinese
+
+#### Sun Tzu  孫子
 
 ```dataview
 table without id
@@ -16,7 +24,7 @@ where Tradition = "Chinese" AND file.name != "Proverb Note" AND Source = "Sun Tz
 sort Stars desc
 ```
 
-##### Source unknown
+#### Source unknown
 
 ```dataview
 table without id
