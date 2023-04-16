@@ -11,6 +11,7 @@ Library:: 200
 table without id
 Quote, Tradition, Source from #ideas/proverbs 
 where Stars = 5
+sort Quote
 ```
 
 ### Chinese

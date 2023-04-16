@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ Encounters/List of Proverbs.md",
+                "file": "Atlas/Proverbs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -269,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ Encounters/List of Proverbs.md"
+                "file": "Atlas/Proverbs.md"
               }
             }
           },
@@ -330,7 +330,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ Encounters/List of Proverbs.md",
+                "file": "Atlas/Proverbs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -356,7 +356,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ Encounters/List of Proverbs.md",
+                "file": "Atlas/Proverbs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -387,20 +387,25 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "3281d306c36a563b",
+  "active": "8e8be9bf68373b18",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
+    "+ Encounters/Planning Horizon.md",
     "Atlas/Proverbs.md",
+    "+ Encounters/Wasting time.md",
+    "+ Encounters/What other people think.md",
+    "+ Encounters/The heart is at ease.md",
     "+ Encounters/List of Proverbs.md",
+    "Cards/Multiplicative Carpe Diem.md",
+    "Cards/Hide the Plans.md",
     "Cards/Warfare and Deception.md",
     "Cards/Wise Warrior.md",
     "Cards/Skillful Strategist.md",
     "Extras/Templates/Proverb Note.md",
     "+ Encounters/Sun Tsu Proverbs.md",
     "+ Encounters/How tall the mountain is.md",
-    "+ Encounters/Wasting time.md",
     "Cards/Respond intelligently.md",
     "Cards/Improving the world.md",
     "+ Encounters/If you want your children.md",
@@ -409,15 +414,10 @@
     "Cards/Good traveling.md",
     "Cards/Moment of patience.md",
     "+ Encounters/The best cosmetic.md",
-    "+ Encounters/What other people think.md",
-    "+ Encounters/Planning for a year.md",
-    "+ Encounters/The heart is at ease.md",
     "Cards/One beam.md",
     "Cards/If you are patient.md",
     "Calendar/Daily Notes/2023-04-15.md",
     "Extras/Excalidraw/Drawing 2023-04-15 11.20.17.excalidraw.md",
-    "+ Encounters/Chinese Proverbs.md",
-    "Cards/Library.md",
     "Extras/Images/probability_cheatsheet.pdf",
     "Extras/Images/Scikit-Learn_Cheat_Sheet.pdf",
     "Extras/Images/Python_Seaborn_Cheat_Sheet.pdf",

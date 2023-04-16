@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Proverbs",
+      "path": "Atlas/Proverbs.md"
+    },
+    {
+      "basename": "Planning Horizon",
+      "path": "+ Encounters/Planning Horizon.md"
+    },
+    {
+      "basename": "Wasting time",
+      "path": "+ Encounters/Wasting time.md"
+    },
+    {
+      "basename": "What other people think",
+      "path": "+ Encounters/What other people think.md"
+    },
+    {
+      "basename": "The heart is at ease",
+      "path": "+ Encounters/The heart is at ease.md"
+    },
+    {
       "basename": "List of Proverbs",
       "path": "+ Encounters/List of Proverbs.md"
     },
     {
-      "basename": "Proverbs",
-      "path": "Atlas/Proverbs.md"
+      "basename": "Multiplicative Carpe Diem",
+      "path": "Cards/Multiplicative Carpe Diem.md"
+    },
+    {
+      "basename": "Hide the Plans",
+      "path": "Cards/Hide the Plans.md"
     },
     {
       "basename": "Warfare and Deception",
@@ -31,10 +55,6 @@
     {
       "basename": "How tall the mountain is",
       "path": "+ Encounters/How tall the mountain is.md"
-    },
-    {
-      "basename": "Wasting time",
-      "path": "+ Encounters/Wasting time.md"
     },
     {
       "basename": "Respond intelligently",
@@ -67,18 +87,6 @@
     {
       "basename": "The best cosmetic",
       "path": "+ Encounters/The best cosmetic.md"
-    },
-    {
-      "basename": "What other people think",
-      "path": "+ Encounters/What other people think.md"
-    },
-    {
-      "basename": "Planning for a year",
-      "path": "+ Encounters/Planning for a year.md"
-    },
-    {
-      "basename": "The heart is at ease",
-      "path": "+ Encounters/The heart is at ease.md"
     },
     {
       "basename": "One beam",
@@ -191,14 +199,6 @@
     {
       "basename": "Efforts",
       "path": "Atlas/Efforts.md"
-    },
-    {
-      "basename": "Data Visualization",
-      "path": "Atlas/Data Visualization.md"
-    },
-    {
-      "basename": "Data Science",
-      "path": "Atlas/Data Science.md"
     }
   ],
   "omittedPaths": [],

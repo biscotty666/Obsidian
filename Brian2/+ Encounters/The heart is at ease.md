@@ -2,10 +2,10 @@ up:: [[Proverbs]]
 tags:: #ideas/proverbs
 Tradition:: Chinese
 Source:: Unknown
-Quote:: When the heart is at east, the body is healthy
+Quote:: When the heart is at ease, the body is healthy
 Stars:: 3
 
-><big>“When the heart is at east, the body is healthy”</big>
+><big>“When the heart is at ease, the body is healthy”</big>
 >
 >  – Unknown
 

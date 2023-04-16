@@ -3,7 +3,7 @@ tags:: #ideas/proverbs
 Tradition:: Chinese
 Source:: Unknown
 Quote:: Time you enjoy wasting is not wasted time.
-Stars:: 😄
+Stars:: 5
 
 ><big>“Time you enjoy wasting is not wasted time.”</big>
 >  
