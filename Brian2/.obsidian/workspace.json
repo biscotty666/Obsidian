@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9f4597441c6061da",
+        "id": "e64a982313651d96",
         "type": "tabs",
         "children": [
           {
-            "id": "62cb28252ad8826c",
+            "id": "96a6d7f89087f5d3",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,17 +18,17 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Proverbs",
+                  "title": "2023-04-17",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Proverbs.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Daily Notes/2023-04-17.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":46},\"to\":{\"line\":19,\"ch\":46}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily Notes/2023-04-15.md",
+                "file": "Calendar/Daily Notes/2023-04-18.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,7 +36,47 @@
             }
           },
           {
-            "id": "8e8be9bf68373b18",
+            "id": "9b667a9e0b3a54fa",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Logs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Logs.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Piano Log",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Piano Log.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":12},\"to\":{\"line\":1,\"ch\":12}}}"
+                },
+                {
+                  "title": "Logs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Logs.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Logs/Piano Log.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0d3068dbba638dd",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -50,7 +90,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/Proverbs.md",
+                "file": "Calendar/Logs/Exercise Log.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -58,7 +98,26 @@
             }
           },
           {
-            "id": "3281d306c36a563b",
+            "id": "b68a62099ce062c0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Calendar/Daily Notes/Drawings/2023-04-18.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "ac10c933e5d36053",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -72,7 +131,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Encounters/List of Proverbs.md",
+                "file": "Calendar/Daily Notes/2023-04-18.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,7 +139,7 @@
             }
           },
           {
-            "id": "7f4923f016a82b47",
+            "id": "e5efcd833bb180f6",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -94,7 +153,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Encounters/Sun Tsu Proverbs.md",
+                "file": "Calendar/Daily Notes/2023-04-18.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +161,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -149,7 +208,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fine words",
+                "query": "piano log",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -174,12 +233,30 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "134402620aa203a5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 489.5,
+    "collapsed": true
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -225,7 +302,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Atlas/Proverbs.md",
+                "file": "Calendar/Daily Notes/Drawings/2023-04-18.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -269,7 +346,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/Proverbs.md"
+                "file": "Calendar/Daily Notes/Drawings/2023-04-18.excalidraw.md"
               }
             }
           },
@@ -291,7 +368,7 @@
             }
           },
           {
-            "id": "35dc597a1abd6835",
+            "id": "2e70e60a0419bb09",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -303,7 +380,41 @@
               ]
             },
             "state": {
-              "type": "mermaid-toolbar-view",
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "85258f9f6505c276",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "d9d2e6a1c770753b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -330,7 +441,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/Proverbs.md",
+                "file": "Calendar/Daily Notes/Drawings/2023-04-18.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -356,7 +467,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/Proverbs.md",
+                "file": "Calendar/Daily Notes/Drawings/2023-04-18.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -372,6 +483,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -379,72 +491,75 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "periodic-notes:Open today's daily note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-projects:Open projects": false
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "8e8be9bf68373b18",
+  "active": "b68a62099ce062c0",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "+ Encounters/Planning Horizon.md",
-    "Atlas/Proverbs.md",
-    "+ Encounters/Wasting time.md",
-    "+ Encounters/What other people think.md",
-    "+ Encounters/The heart is at ease.md",
-    "+ Encounters/List of Proverbs.md",
-    "Cards/Multiplicative Carpe Diem.md",
-    "Cards/Hide the Plans.md",
-    "Cards/Warfare and Deception.md",
-    "Cards/Wise Warrior.md",
-    "Cards/Skillful Strategist.md",
-    "Extras/Templates/Proverb Note.md",
-    "+ Encounters/Sun Tsu Proverbs.md",
-    "+ Encounters/How tall the mountain is.md",
-    "Cards/Respond intelligently.md",
-    "Cards/Improving the world.md",
-    "+ Encounters/If you want your children.md",
-    "+ Encounters/A bird does not sing.md",
-    "Cards/Sincere words.md",
-    "Cards/Good traveling.md",
-    "Cards/Moment of patience.md",
-    "+ Encounters/The best cosmetic.md",
-    "Cards/One beam.md",
-    "Cards/If you are patient.md",
-    "Calendar/Daily Notes/2023-04-15.md",
-    "Extras/Excalidraw/Drawing 2023-04-15 11.20.17.excalidraw.md",
-    "Extras/Images/probability_cheatsheet.pdf",
-    "Extras/Images/Scikit-Learn_Cheat_Sheet.pdf",
-    "Extras/Images/Python_Seaborn_Cheat_Sheet.pdf",
-    "Extras/Images/Python_Matplotlib_Cheat_Sheet.pdf",
-    "Extras/Images/Numpy_Python_Cheat_Sheet.pdf",
-    "Projects - Demo Project",
-    "Extras/Images/Pandas_Cheat_Sheet.pdf",
-    "Extras/Images/Python_Cheat_Sheet_for_Beginners.pdf",
-    "Extras/Images/Pasted image 20230413090523.png",
-    "Extras/Images/Pasted image 20230413090302.png",
-    "Extras/Images/Pasted image 20230413085718.png",
-    "Extras/Images/Pasted image 20230413084116.png",
-    "Extras/Images/Pasted image 20230413084101.png",
-    "Extras/Images/f81c05aba576a12b4e05ee3f4cba709dd16139c7.svg",
-    "Extras/css",
-    "Extras/Images/Pasted image 20230408224611.png",
-    "Extras/Images/Pasted image 20230408224110.png",
-    "Extras/Images/Pasted image 20230408223134.png",
-    "Extras/Images/Pasted image 20230408220311.png",
-    "Calendar/2022",
+    "Calendar/Daily Notes/2023-04-18.md",
+    "Calendar/Daily Notes/Drawings/2023-04-18.excalidraw.md",
+    "+ Encounters/Visual Daily Note.md",
+    "Calendar/Daily Notes/2023-04-17.md",
+    "Calendar/Logs/Exercise Log.md",
+    "Calendar/Logs/Piano Log.md",
+    "Calendar/Daily Notes/Drawings/2023-04-18.excalidraw.png",
+    "Calendar/Daily Notes/Drawings/2023-04-18.excalidraw.svg",
+    "Extras/Excalidraw/Daily.excalidraw.md",
+    "Extras/Images/feynman-triangulation-1.png",
+    "Calendar/Daily Notes/Drawings/2023-04-17.excalidraw.md",
+    "Extras/Excalidraw/Machine Learning.md",
+    "Atlas/Data Visualization.md",
+    "Extras/Excalidraw/Forecasting.md",
+    "Atlas/Probability and Statistics.md",
+    "Extras/Excalidraw/Saraswati.md",
+    "Extras/Excalidraw/Hestia.md",
+    "Extras/Excalidraw/Ptah.md",
+    "Extras/Excalidraw/Thoth.md",
+    "Atlas/Health.md",
+    "Spaces/Brian Carey.md",
+    "Extras/Images/Pasted Image 20230418081706_087.png",
+    "Extras/Images/philosophy.png",
+    "Extras/Images/Pasted Image 20230418081517_079.png",
+    "Extras/Images/languages.png",
+    "Extras/Images/Pasted Image 20230418081232_069.png",
+    "Extras/Images/lyre.png",
+    "+ Encounters/Untitled 4.md",
+    "Extras/Images/Pasted Image 20230417213506_442.png",
+    "Calendar/Daily Notes/Drawings",
+    "Extras/Excalidraw/2023-04-17 2023-04-17 08.56.11.excalidraw.md",
+    "Extras/Templates/Daily Note.md",
+    "Extras/Canvases/Untitled 1.canvas",
+    "Calendar/Logs/Drawing 2023-04-17 22.13.31.excalidraw.md",
+    "Extras/Canvases/Untitled 1.excalidraw.canvas",
+    "Extras/Canvases/Untitled.canvas",
+    "+ Encounters/Logs.md",
+    "Extras/Templates/Piano Log Entry.md",
+    "Calendar/Logs/Piano/230417.md",
+    "+ Encounters/Untitled 3.md",
+    "Calendar/Logs/Piano",
+    "Calendar/Logs",
+    "Extras/Excalidraw/Libraries/emojis.excalidrawlib",
+    "emojis.excalidrawlib",
+    "Extras/Excalidraw/Scripts/Downloaded",
+    "Extras/Canvases/Obsidian Proverbs.canvas",
+    "Extras/Excalidraw/Libraries/algorithms-and-data-structures-arrays-matrices-trees.excalidrawlib",
+    "Extras/Excalidraw/Libraries/awesome-icons.excalidrawlib",
+    "Extras/Excalidraw/Libraries/data-viz.excalidrawlib",
+    "Extras/Excalidraw/Libraries/stick-figures.excalidrawlib",
     "Extras/Canvases/OPCourseIntro.canvas",
     "Extras/Canvases/Obsidian and PKM Class Overview.canvas",
     "Extras/Canvases/What is Obsidian?.canvas",
     "Obsidian/Test.canvas",
     "Obsidian/Brian2/Test.canvas",
-    "Obsidian/Brian2/Brian2/Test.canvas",
-    "Test.canvas",
-    "test.canvas"
+    "Obsidian/Brian2/Brian2/Test.canvas"
   ]
 }

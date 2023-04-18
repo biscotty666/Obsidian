@@ -17594,7 +17594,7 @@ function getTaskValidation(SE) {
 
 // src/main.ts
 var import_function14 = __toESM(require_function());
-var import_obsidian56 = require("obsidian");
+var import_obsidian55 = require("obsidian");
 var import_obsidian_dataview3 = __toESM(require_lib());
 
 // src/lib/data-api.ts
@@ -25184,7 +25184,6 @@ function stringify4(value, replacer, options) {
 }
 
 // src/lib/metadata/decode.ts
-var import_obsidian3 = require("obsidian");
 function decodeFrontMatter(data) {
   const delim = "---";
   const startPosition = data.indexOf(delim) + delim.length;
@@ -25194,7 +25193,11 @@ function decodeFrontMatter(data) {
   return hasFrontMatter ? parseYaml(data.slice(startPosition, endPosition)) : Either_exports.right({});
 }
 function parseYaml(data) {
-  return function_exports.pipe(data, preprocessYaml, Either_exports.chain(parseRawYaml));
+  return function_exports.pipe(
+    data,
+    (data2) => Either_exports.right(preprocessYaml(data2)),
+    Either_exports.chain(parseRawYaml)
+  );
 }
 function parseRawYaml(data) {
   return Either_exports.tryCatch(
@@ -25208,24 +25211,14 @@ function parseRawYaml(data) {
   );
 }
 function preprocessYaml(data) {
-  const nonQuotedInternalLinks = new RegExp('(?<!\\")(\\[\\[.*\\]\\])(?!\\")$', "g");
-  const quoteInternalLinks = (line) => line.replace(nonQuotedInternalLinks, (_match, p1) => '"' + p1 + '"');
-  return function_exports.pipe(
-    data,
-    Either_exports.fromPredicate(
-      () => !import_obsidian3.Platform.isSafari,
-      () => new Error(
-        "Negative lookbehind in regular expressions isn't supported on iOS"
-      )
-    ),
-    Either_exports.map(
-      (data2) => function_exports.pipe(
-        data2.split("\n"),
-        (lines) => lines.map(quoteInternalLinks),
-        (lines) => lines.join("\n")
-      )
-    )
-  );
+  const nonQuotedInternalLinks = /(\"?\[\[.*\]\]\"?)/g;
+  const quoteInternalLinks = (line) => line.replace(nonQuotedInternalLinks, (_match, p1) => {
+    if (p1.startsWith('"') && p1.endsWith('"')) {
+      return p1;
+    }
+    return '"' + p1 + '"';
+  });
+  return data.split("\n").map(quoteInternalLinks).join("\n");
 }
 function unquoteInternalLinks(value) {
   return value.replace(/\"(\[\[.*\]\])\"/g, (_match, p1) => p1);
@@ -29023,7 +29016,7 @@ function interpolateTemplate(template, data) {
 }
 
 // src/lib/data-api.ts
-var import_obsidian4 = require("obsidian");
+var import_obsidian3 = require("obsidian");
 var DataApi = class {
   constructor(fileSystem2) {
     this.fileSystem = fileSystem2;
@@ -29171,7 +29164,7 @@ function createDataRecord(name, project, values) {
     path = project.newNotesFolder;
   }
   return {
-    id: (0, import_obsidian4.normalizePath)(path + "/" + name + ".md"),
+    id: (0, import_obsidian3.normalizePath)(path + "/" + name + ".md"),
     values: values != null ? values : {}
   };
 }
@@ -29181,7 +29174,7 @@ function getDefaultStringType() {
 }
 
 // src/lib/filesystem/obsidian/obsidian.ts
-var import_obsidian5 = require("obsidian");
+var import_obsidian4 = require("obsidian");
 
 // src/lib/filesystem/filesystem.ts
 var IFile = class {
@@ -29226,8 +29219,8 @@ var ObsidianFile = class extends IFile {
     this.app = app3;
   }
   static of(path, app3) {
-    const file = app3.vault.getAbstractFileByPath((0, import_obsidian5.normalizePath)(path));
-    if (file instanceof import_obsidian5.TFile) {
+    const file = app3.vault.getAbstractFileByPath((0, import_obsidian4.normalizePath)(path));
+    if (file instanceof import_obsidian4.TFile) {
       return new ObsidianFile(file, app3);
     }
     throw new Error("Not a file");
@@ -29261,14 +29254,14 @@ var ObsidianFileSystem = class {
   }
   create(path, content) {
     return __async(this, null, function* () {
-      const file = yield this.app.vault.create((0, import_obsidian5.normalizePath)(path), content);
+      const file = yield this.app.vault.create((0, import_obsidian4.normalizePath)(path), content);
       return new ObsidianFile(file, this.app);
     });
   }
   read(path) {
     return __async(this, null, function* () {
-      const file = this.app.vault.getAbstractFileByPath((0, import_obsidian5.normalizePath)(path));
-      if (file instanceof import_obsidian5.TFile) {
+      const file = this.app.vault.getAbstractFileByPath((0, import_obsidian4.normalizePath)(path));
+      if (file instanceof import_obsidian4.TFile) {
         return this.app.vault.cachedRead(file);
       }
       return "";
@@ -29276,16 +29269,16 @@ var ObsidianFileSystem = class {
   }
   write(path, content) {
     return __async(this, null, function* () {
-      const file = this.app.vault.getAbstractFileByPath((0, import_obsidian5.normalizePath)(path));
-      if (file instanceof import_obsidian5.TFile) {
+      const file = this.app.vault.getAbstractFileByPath((0, import_obsidian4.normalizePath)(path));
+      if (file instanceof import_obsidian4.TFile) {
         return this.app.vault.modify(file, content);
       }
     });
   }
   delete(path) {
     return __async(this, null, function* () {
-      const file = this.app.vault.getAbstractFileByPath((0, import_obsidian5.normalizePath)(path));
-      if (file instanceof import_obsidian5.TFile) {
+      const file = this.app.vault.getAbstractFileByPath((0, import_obsidian4.normalizePath)(path));
+      if (file instanceof import_obsidian4.TFile) {
         return this.app.vault.trash(file, true);
       }
     });
@@ -29304,7 +29297,7 @@ var ObsidianFileSystemWatcher = class {
   onCreate(callback) {
     this.plugin.registerEvent(
       this.plugin.app.vault.on("create", (file) => {
-        if (file instanceof import_obsidian5.TFile) {
+        if (file instanceof import_obsidian4.TFile) {
           callback(new ObsidianFile(file, app));
         }
       })
@@ -29313,7 +29306,7 @@ var ObsidianFileSystemWatcher = class {
   onChange(callback) {
     this.plugin.registerEvent(
       this.plugin.app.metadataCache.on("changed", (file) => {
-        if (file instanceof import_obsidian5.TFile) {
+        if (file instanceof import_obsidian4.TFile) {
           callback(new ObsidianFile(file, app));
         }
       })
@@ -29322,7 +29315,7 @@ var ObsidianFileSystemWatcher = class {
   onDelete(callback) {
     this.plugin.registerEvent(
       this.plugin.app.vault.on("delete", (file) => {
-        if (file instanceof import_obsidian5.TFile) {
+        if (file instanceof import_obsidian4.TFile) {
           callback(new ObsidianFile(file, app));
         }
       })
@@ -29331,7 +29324,7 @@ var ObsidianFileSystemWatcher = class {
   onRename(callback) {
     this.plugin.registerEvent(
       this.plugin.app.vault.on("rename", (file, oldPath) => {
-        if (file instanceof import_obsidian5.TFile) {
+        if (file instanceof import_obsidian4.TFile) {
           callback(new ObsidianFile(file, app), oldPath);
         }
       })
@@ -29372,10 +29365,10 @@ var api = derived(
 
 // src/modals/create-note-modal.ts
 var import_moment2 = __toESM(require_moment());
-var import_obsidian13 = require("obsidian");
+var import_obsidian12 = require("obsidian");
 
 // src/modals/components/CreateNote.svelte
-var import_obsidian10 = require("obsidian");
+var import_obsidian9 = require("obsidian");
 
 // node_modules/@popperjs/core/lib/enums.js
 var top = "top";
@@ -31807,12 +31800,12 @@ var IconButton = class extends SvelteComponent {
 var IconButton_default = IconButton;
 
 // node_modules/obsidian-svelte/Icon/useIcon.js
-var import_obsidian8 = require("obsidian");
+var import_obsidian7 = require("obsidian");
 function useIcon(node, name) {
-  (0, import_obsidian8.setIcon)(node, name);
+  (0, import_obsidian7.setIcon)(node, name);
   return {
     update(name2) {
-      (0, import_obsidian8.setIcon)(node, name2);
+      (0, import_obsidian7.setIcon)(node, name2);
     }
   };
 }
@@ -35313,11 +35306,11 @@ function useClickOutside2(element2, callbackFunction) {
 }
 
 // src/lib/obsidian.ts
-var import_obsidian9 = require("obsidian");
+var import_obsidian8 = require("obsidian");
 function getFilesInFolder(folder) {
   const result = [];
-  import_obsidian9.Vault.recurseChildren(folder, (file) => {
-    if (file instanceof import_obsidian9.TFile) {
+  import_obsidian8.Vault.recurseChildren(folder, (file) => {
+    if (file instanceof import_obsidian8.TFile) {
       result.push(file);
     }
   });
@@ -35325,8 +35318,8 @@ function getFilesInFolder(folder) {
 }
 function getFoldersInFolder(folder) {
   const result = [];
-  import_obsidian9.Vault.recurseChildren(folder, (file) => {
-    if (file instanceof import_obsidian9.TFolder) {
+  import_obsidian8.Vault.recurseChildren(folder, (file) => {
+    if (file instanceof import_obsidian8.TFolder) {
       result.push(file);
     }
   });
@@ -35340,9 +35333,9 @@ function isValidPath(path) {
   return !expr.test(path);
 }
 function getIllegalCharacterSet() {
-  if (import_obsidian9.Platform.isMacOS) {
+  if (import_obsidian8.Platform.isMacOS) {
     return /[\\\/\|\#\^\[\]]/;
-  } else if (import_obsidian9.Platform.isDesktopApp) {
+  } else if (import_obsidian8.Platform.isDesktopApp) {
     return /[\\\/\|\:\<\>\*\"\?]/;
   }
   return void 0;
@@ -35836,8 +35829,8 @@ function instance31($$self, $$props, $$invalidate) {
     if (name2.trim() === "") {
       return $i18n.t("modals.note.create.empty-name-error");
     }
-    const existingFile = $app.vault.getAbstractFileByPath((0, import_obsidian10.normalizePath)(getNewNotesFolder(project) + "/" + name2 + ".md"));
-    if (existingFile instanceof import_obsidian10.TFile) {
+    const existingFile = $app.vault.getAbstractFileByPath((0, import_obsidian9.normalizePath)(getNewNotesFolder(project) + "/" + name2 + ".md"));
+    if (existingFile instanceof import_obsidian9.TFile) {
       return $i18n.t("modals.note.create.name-taken-error");
     }
     if (!isValidPath(name2)) {
@@ -35896,7 +35889,7 @@ var CreateNote = class extends SvelteComponent {
 var CreateNote_default = CreateNote;
 
 // src/modals/create-note-modal.ts
-var CreateNoteModal = class extends import_obsidian13.Modal {
+var CreateNoteModal = class extends import_obsidian12.Modal {
   constructor(app3, project, onSave) {
     super(app3);
     this.project = project;
@@ -35938,7 +35931,7 @@ var CreateNoteModal = class extends import_obsidian13.Modal {
 };
 
 // src/modals/create-project-modal.ts
-var import_obsidian19 = require("obsidian");
+var import_obsidian18 = require("obsidian");
 
 // src/modals/components/CreateProject.svelte
 var import_moment3 = __toESM(require_moment());
@@ -38062,7 +38055,7 @@ var CreateProject = class extends SvelteComponent {
 var CreateProject_default = CreateProject;
 
 // src/modals/create-project-modal.ts
-var CreateProjectModal = class extends import_obsidian19.Modal {
+var CreateProjectModal = class extends import_obsidian18.Modal {
   constructor(app3, title, cta, onSave, defaults2) {
     super(app3);
     this.title = title;
@@ -38493,8 +38486,8 @@ function registerFileEvents(watcher) {
 }
 
 // src/settings.ts
-var import_obsidian20 = require("obsidian");
-var ProjectsSettingTab = class extends import_obsidian20.PluginSettingTab {
+var import_obsidian19 = require("obsidian");
+var ProjectsSettingTab = class extends import_obsidian19.PluginSettingTab {
   constructor(app3, plugin2) {
     super(app3, plugin2);
     this.plugin = plugin2;
@@ -38508,15 +38501,15 @@ var ProjectsSettingTab = class extends import_obsidian20.PluginSettingTab {
     };
     const { containerEl } = this;
     containerEl.empty();
-    new import_obsidian20.Setting(containerEl).setName("Project size limit").setDesc("Avoid accidentally loading too many notes. Increasing ").addText(
+    new import_obsidian19.Setting(containerEl).setName("Project size limit").setDesc("Avoid accidentally loading too many notes. Increasing ").addText(
       (text2) => text2.setValue(preferences.projectSizeLimit.toString()).setPlaceholder("1000").onChange((value) => {
         save2(__spreadProps(__spreadValues({}, preferences), {
           projectSizeLimit: parseInt(value) || 1e3
         }));
       })
     );
-    new import_obsidian20.Setting(containerEl).setName("Front matter").setHeading();
-    new import_obsidian20.Setting(containerEl).setName("Quote strings").addDropdown(
+    new import_obsidian19.Setting(containerEl).setName("Front matter").setHeading();
+    new import_obsidian19.Setting(containerEl).setName("Quote strings").addDropdown(
       (dropdown) => dropdown.addOption("PLAIN", "If needed").addOption("QUOTE_DOUBLE", "Always").setValue(preferences.frontmatter.quoteStrings).onChange((value) => {
         if (value === "PLAIN" || value === "QUOTE_DOUBLE") {
           save2(__spreadProps(__spreadValues({}, preferences), {
@@ -38527,9 +38520,9 @@ var ProjectsSettingTab = class extends import_obsidian20.PluginSettingTab {
         }
       })
     );
-    new import_obsidian20.Setting(containerEl).setName("Commands").setDesc("Add commands for your favorite projects and views.").setHeading();
+    new import_obsidian19.Setting(containerEl).setName("Commands").setDesc("Add commands for your favorite projects and views.").setHeading();
     projects.forEach((project) => {
-      new import_obsidian20.Setting(containerEl).setName(project.name).setDesc("Project").addToggle(
+      new import_obsidian19.Setting(containerEl).setName(project.name).setDesc("Project").addToggle(
         (toggle) => toggle.setValue(
           !!preferences.commands.find(
             (command) => command.project == project.id && !command.view
@@ -38551,7 +38544,7 @@ var ProjectsSettingTab = class extends import_obsidian20.PluginSettingTab {
         })
       );
       project.views.forEach((view2) => {
-        new import_obsidian20.Setting(containerEl).setName(`${project.name}: ${view2.name}`).setDesc("View").addToggle(
+        new import_obsidian19.Setting(containerEl).setName(`${project.name}: ${view2.name}`).setDesc("View").addToggle(
           (toggle) => toggle.setValue(
             !!preferences.commands.find(
               (command) => command.project == project.id && command.view === view2.id
@@ -38579,7 +38572,7 @@ var ProjectsSettingTab = class extends import_obsidian20.PluginSettingTab {
 };
 
 // src/view.ts
-var import_obsidian54 = require("obsidian");
+var import_obsidian53 = require("obsidian");
 
 // src/lib/view-api.ts
 var ViewApi = class {
@@ -40239,7 +40232,7 @@ var ColorFilterSettings = class extends SvelteComponent {
 var ColorFilterSettings_default = ColorFilterSettings;
 
 // src/modals/add-view-modal.ts
-var import_obsidian21 = require("obsidian");
+var import_obsidian20 = require("obsidian");
 
 // src/lib/stores/custom-views.ts
 var customViews = writable({});
@@ -40726,7 +40719,7 @@ var AddView = class extends SvelteComponent {
 var AddView_default = AddView;
 
 // src/modals/add-view-modal.ts
-var AddViewModal = class extends import_obsidian21.Modal {
+var AddViewModal = class extends import_obsidian20.Modal {
   constructor(app3, project, onSave) {
     super(app3);
     this.project = project;
@@ -40752,7 +40745,7 @@ var AddViewModal = class extends import_obsidian21.Modal {
 };
 
 // src/modals/confirm-dialog.ts
-var import_obsidian22 = require("obsidian");
+var import_obsidian21 = require("obsidian");
 
 // src/modals/components/ConfirmDialog.svelte
 function create_default_slot_54(ctx) {
@@ -41074,7 +41067,7 @@ var ConfirmDialog = class extends SvelteComponent {
 var ConfirmDialog_default = ConfirmDialog;
 
 // src/modals/confirm-dialog.ts
-var ConfirmDialogModal = class extends import_obsidian22.Modal {
+var ConfirmDialogModal = class extends import_obsidian21.Modal {
   constructor(app3, title, message, cta, onConfirm) {
     super(app3);
     this.title = title;
@@ -41206,7 +41199,7 @@ var Flair = class extends SvelteComponent {
 var Flair_default = Flair;
 
 // src/app/toolbar/ProjectSelect.svelte
-var import_obsidian23 = require("obsidian");
+var import_obsidian22 = require("obsidian");
 function add_css20(target) {
   append_styles(target, "svelte-h4e1e6", "span.svelte-h4e1e6{display:flex;align-items:center;gap:4px}");
 }
@@ -41327,7 +41320,7 @@ function instance43($$self, $$props, $$invalidate) {
   let { onProjectAdd } = $$props;
   const change_handler = ({ detail: value }) => onProjectChange(value);
   const func_2 = (event) => {
-    const menu = new import_obsidian23.Menu();
+    const menu = new import_obsidian22.Menu();
     menu.addItem((item) => {
       item.setTitle($i18n.t("modals.project.edit.short-title")).setIcon("edit").onClick(() => {
         if (project) {
@@ -41413,7 +41406,7 @@ var ProjectSelect = class extends SvelteComponent {
 var ProjectSelect_default = ProjectSelect;
 
 // src/app/toolbar/ViewItem.svelte
-var import_obsidian25 = require("obsidian");
+var import_obsidian24 = require("obsidian");
 function add_css21(target) {
   append_styles(target, "svelte-3t9vh7", "div.svelte-3t9vh7{display:inline-flex;align-items:center;gap:4px;height:1.8rem;padding:0 8px;min-width:min-content;font-size:var(--font-ui-small);border-radius:var(--radius-s);overflow:hidden;white-space:nowrap;text-overflow:ellipsis;border:1px solid transparent}div.svelte-3t9vh7:hover{background-color:var(--background-modifier-hover)}.active.svelte-3t9vh7{background-color:var(--background-modifier-hover)}.error.svelte-3t9vh7{border:1px solid var(--background-modifier-error)}");
 }
@@ -41762,7 +41755,7 @@ function instance44($$self, $$props, $$invalidate) {
     }
   };
   const func8 = (event) => {
-    const menu = new import_obsidian25.Menu();
+    const menu = new import_obsidian24.Menu();
     menu.addItem((item) => {
       item.setTitle("Duplicate view");
       item.setIcon("copy");
@@ -44649,7 +44642,7 @@ var ViewSelect = class extends SvelteComponent {
 var ViewSelect_default = ViewSelect;
 
 // src/modals/inspector.ts
-var import_obsidian27 = require("obsidian");
+var import_obsidian26 = require("obsidian");
 
 // src/views/Board/components/Board/board-helpers.ts
 function getPrioritizedRecords(records, groupByPriority) {
@@ -45228,7 +45221,7 @@ var Inspector = class extends SvelteComponent {
 var Inspector_default = Inspector;
 
 // src/modals/inspector.ts
-var InspectorModal = class extends import_obsidian27.Modal {
+var InspectorModal = class extends import_obsidian26.Modal {
   constructor(app3, title, errors) {
     super(app3);
     this.title = title;
@@ -46296,7 +46289,7 @@ var Toolbar_default = Toolbar;
 
 // src/app/onboarding/demo-project.ts
 var import_dayjs5 = __toESM(require_dayjs_min());
-var import_obsidian29 = require("obsidian");
+var import_obsidian28 = require("obsidian");
 function createDemoProject(vault) {
   return __async(this, null, function* () {
     const demoFolder = "Projects - Demo Project";
@@ -46344,9 +46337,9 @@ function createDemoProject(vault) {
       }
     };
     for (const [linkText, data] of Object.entries(files)) {
-      const content = "---\n" + (0, import_obsidian29.stringifyYaml)(data) + "---\n\n# " + linkText;
+      const content = "---\n" + (0, import_obsidian28.stringifyYaml)(data) + "---\n\n# " + linkText;
       yield vault.create(
-        (0, import_obsidian29.normalizePath)(demoFolder + "/" + linkText + ".md"),
+        (0, import_obsidian28.normalizePath)(demoFolder + "/" + linkText + ".md"),
         content
       );
     }
@@ -46416,7 +46409,7 @@ function createDemoProject(vault) {
 }
 
 // src/app/onboarding/onboarding-modal.ts
-var import_obsidian30 = require("obsidian");
+var import_obsidian29 = require("obsidian");
 
 // src/app/onboarding/TabContainer.svelte
 function add_css25(target) {
@@ -47026,7 +47019,7 @@ var Onboarding = class extends SvelteComponent {
 var Onboarding_default = Onboarding;
 
 // src/app/onboarding/onboarding-modal.ts
-var OnboardingModal = class extends import_obsidian30.Modal {
+var OnboardingModal = class extends import_obsidian29.Modal {
   constructor(app3, onCreate, onTry) {
     super(app3);
     this.app = app3;
@@ -47354,7 +47347,7 @@ function __awaiter2(thisArg, _arguments, P2, generator) {
 var import_obsidian_dataview2 = __toESM(require_lib());
 
 // src/lib/datasources/folder/folder.ts
-var import_obsidian31 = require("obsidian");
+var import_obsidian30 = require("obsidian");
 
 // src/lib/datasources/frontmatter/frontmatter-helpers.ts
 function standardizeRecord(id, values) {
@@ -47486,11 +47479,11 @@ var FolderDataSource = class extends FrontMatterDataSource {
     if ((_a = this.project.excludedNotes) == null ? void 0 : _a.includes(path)) {
       return false;
     }
-    let projectPath = (0, import_obsidian31.normalizePath)(this.project.dataSource.config.path);
+    let projectPath = (0, import_obsidian30.normalizePath)(this.project.dataSource.config.path);
     if (projectPath === "/") {
       projectPath = "";
     }
-    const normalizedPath = (0, import_obsidian31.normalizePath)(path);
+    const normalizedPath = (0, import_obsidian30.normalizePath)(path);
     if (!normalizedPath.startsWith(projectPath)) {
       return false;
     }
@@ -48660,10 +48653,10 @@ var ViewLayout = class extends SvelteComponent {
 var ViewLayout_default = ViewLayout;
 
 // src/modals/edit-note-modal.ts
-var import_obsidian36 = require("obsidian");
+var import_obsidian35 = require("obsidian");
 
 // src/modals/input-dialog.ts
-var import_obsidian34 = require("obsidian");
+var import_obsidian33 = require("obsidian");
 
 // src/modals/components/InputDialog.svelte
 function add_css32(target) {
@@ -48987,7 +48980,7 @@ var InputDialog = class extends SvelteComponent {
 var InputDialog_default = InputDialog;
 
 // src/modals/input-dialog.ts
-var InputDialogModal = class extends import_obsidian34.Modal {
+var InputDialogModal = class extends import_obsidian33.Modal {
   constructor(app3, message, cta, onSubmit, value) {
     super(app3);
     this.message = message;
@@ -50383,7 +50376,7 @@ var EditNote = class extends SvelteComponent {
 var EditNote_default = EditNote;
 
 // src/modals/edit-note-modal.ts
-var EditNoteModal = class extends import_obsidian36.Modal {
+var EditNoteModal = class extends import_obsidian35.Modal {
   constructor(app3, fields, onSave, defaults2) {
     super(app3);
     this.fields = fields;
@@ -52880,7 +52873,7 @@ var Tags = class extends SvelteComponent {
 var Tags_default = Tags;
 
 // src/components/CardMetadata/Text.svelte
-var import_obsidian37 = require("obsidian");
+var import_obsidian36 = require("obsidian");
 function add_css35(target) {
   append_styles(target, "svelte-1myw14o", "div.svelte-1myw14o{overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:4;line-clamp:4;-webkit-box-orient:vertical}div.svelte-1myw14o p:first-child{margin-top:0}div.svelte-1myw14o p:last-child{margin-bottom:0}");
 }
@@ -52993,7 +52986,7 @@ function instance65($$self, $$props, $$invalidate) {
   let { sourcePath = "" } = $$props;
   function useMarkdown(node) {
     if (typeof value === "string") {
-      import_obsidian37.MarkdownRenderer.renderMarkdown(value, node, sourcePath, $view);
+      import_obsidian36.MarkdownRenderer.renderMarkdown(value, node, sourcePath, $view);
     }
   }
   function handleClick(event) {
@@ -55019,7 +55012,7 @@ var Board = class extends SvelteComponent {
 var Board_default = Board;
 
 // src/views/Board/settings/settings-modal.ts
-var import_obsidian40 = require("obsidian");
+var import_obsidian39 = require("obsidian");
 
 // src/views/Board/settings/BoardSettings.svelte
 function create_default_slot_212(ctx) {
@@ -55221,7 +55214,7 @@ var BoardSettings = class extends SvelteComponent {
 var BoardSettings_default = BoardSettings;
 
 // src/views/Board/settings/settings-modal.ts
-var BoardSettingsModal = class extends import_obsidian40.Modal {
+var BoardSettingsModal = class extends import_obsidian39.Modal {
   constructor(app3, config, onSave) {
     super(app3);
     this.config = config;
@@ -56263,7 +56256,7 @@ var Calendar_default = Calendar;
 
 // src/views/Calendar/components/Calendar/Day.svelte
 var import_dayjs7 = __toESM(require_dayjs_min());
-var import_obsidian43 = require("obsidian");
+var import_obsidian42 = require("obsidian");
 
 // src/views/Calendar/components/Calendar/Date.svelte
 function add_css44(target) {
@@ -57325,7 +57318,7 @@ function instance82($$self, $$props, $$invalidate) {
   }
   function handleMouseDown(event) {
     if (event.button === 2) {
-      new import_obsidian43.Menu().addItem((item) => {
+      new import_obsidian42.Menu().addItem((item) => {
         item.setTitle($i18n.t("views.calendar.new-note")).setIcon("file-plus").onClick(() => onRecordAdd());
       }).showAtMouseEvent(event);
     }
@@ -59348,7 +59341,7 @@ function parseObsidianLink(link) {
 }
 
 // src/views/Gallery/settings/settings-modal.ts
-var import_obsidian45 = require("obsidian");
+var import_obsidian44 = require("obsidian");
 
 // src/views/Gallery/settings/GallerySettings.svelte
 function create_default_slot_215(ctx) {
@@ -59550,7 +59543,7 @@ var GallerySettings = class extends SvelteComponent {
 var GallerySettings_default = GallerySettings;
 
 // src/views/Gallery/settings/settings-modal.ts
-var GallerySettingsModal = class extends import_obsidian45.Modal {
+var GallerySettingsModal = class extends import_obsidian44.Modal {
   constructor(app3, config, onSave) {
     super(app3);
     this.config = config;
@@ -60810,10 +60803,10 @@ var GalleryView2 = class extends ProjectView {
 };
 
 // src/views/Table/components/DataGrid/DataGrid.svelte
-var import_obsidian51 = require("obsidian");
+var import_obsidian50 = require("obsidian");
 
 // src/views/Table/components/DataGrid/GridRow.svelte
-var import_obsidian49 = require("obsidian");
+var import_obsidian48 = require("obsidian");
 
 // src/views/Table/components/DataGrid/GridCell/Resizer.svelte
 function add_css59(target) {
@@ -62915,7 +62908,7 @@ var GridNumberCell = class extends SvelteComponent {
 var GridNumberCell_default = GridNumberCell;
 
 // src/views/Table/components/DataGrid/GridCell/GridTextCell/TextLabel.svelte
-var import_obsidian47 = require("obsidian");
+var import_obsidian46 = require("obsidian");
 function add_css63(target) {
   append_styles(target, "svelte-6n2r4e", "div.svelte-6n2r4e{padding:6px;width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}div.svelte-6n2r4e p:first-child{margin-top:0}div.svelte-6n2r4e p:last-child{margin-bottom:0}");
 }
@@ -63024,11 +63017,11 @@ function instance102($$self, $$props, $$invalidate) {
   let { richText = false } = $$props;
   const sourcePath = (_a = getContext("sourcePath")) !== null && _a !== void 0 ? _a : "";
   function useMarkdown(node, value2) {
-    import_obsidian47.MarkdownRenderer.renderMarkdown(value2, node, sourcePath, $view);
+    import_obsidian46.MarkdownRenderer.renderMarkdown(value2, node, sourcePath, $view);
     return {
       update(newValue) {
         node.empty();
-        import_obsidian47.MarkdownRenderer.renderMarkdown(newValue, node, sourcePath, $view);
+        import_obsidian46.MarkdownRenderer.renderMarkdown(newValue, node, sourcePath, $view);
       }
     };
   }
@@ -64604,7 +64597,7 @@ function instance107($$self, $$props, $$invalidate) {
     const targetEl = event.target;
     if (targetEl instanceof HTMLDivElement) {
       const file = $app.vault.getAbstractFileByPath(rowId);
-      if (file instanceof import_obsidian49.TFile) {
+      if (file instanceof import_obsidian48.TFile) {
         $app.workspace.trigger("hover-link", {
           event,
           source: "obsidian-projects-table-view",
@@ -65551,7 +65544,7 @@ function instance110($$self, $$props, $$invalidate) {
   let activeCell = [3, 3];
   function createColumnMenu(column) {
     const editable = !!column.editable && !readonly;
-    const menu = new import_obsidian51.Menu();
+    const menu = new import_obsidian50.Menu();
     menu.addItem((item) => {
       item.setTitle(t3("components.data-grid.column.configure")).setIcon("settings").onClick(() => onColumnConfigure(column, editable));
     });
@@ -65577,7 +65570,7 @@ function instance110($$self, $$props, $$invalidate) {
     return menu;
   }
   function createRowMenu(rowId, row) {
-    const menu = new import_obsidian51.Menu();
+    const menu = new import_obsidian50.Menu();
     menu.addItem((item) => {
       item.setTitle(t3("components.data-grid.row.edit")).setIcon("edit").onClick(() => onRowEdit(rowId, row));
     });
@@ -65590,7 +65583,7 @@ function instance110($$self, $$props, $$invalidate) {
     return menu;
   }
   function createCellMenu(rowId, row, column) {
-    const menu = new import_obsidian51.Menu();
+    const menu = new import_obsidian50.Menu();
     if (column.editable) {
       menu.addItem((item) => {
         item.setTitle(t3("components.data-grid.cell.clear")).setIcon("x").onClick(() => {
@@ -65747,7 +65740,7 @@ var DataGrid = class extends SvelteComponent {
 var DataGrid_default = DataGrid;
 
 // src/modals/configure-field.ts
-var import_obsidian52 = require("obsidian");
+var import_obsidian51 = require("obsidian");
 
 // src/components/MultiTextInput/MultiTextInput.svelte
 function add_css68(target) {
@@ -66557,7 +66550,7 @@ var ConfigureField = class extends SvelteComponent {
 var ConfigureField_default = ConfigureField;
 
 // src/modals/configure-field.ts
-var ConfigureFieldModal = class extends import_obsidian52.Modal {
+var ConfigureFieldModal = class extends import_obsidian51.Modal {
   constructor(app3, title, field, editable, onSave) {
     super(app3);
     this.title = title;
@@ -67126,7 +67119,7 @@ var TableView2 = class extends ProjectView {
 
 // src/view.ts
 var VIEW_TYPE_PROJECTS = "obsidian-projects";
-var ProjectsView = class extends import_obsidian54.ItemView {
+var ProjectsView = class extends import_obsidian53.ItemView {
   constructor(leaf, plugin2) {
     super(leaf);
     this.plugin = plugin2;
@@ -67205,7 +67198,7 @@ var ProjectsView = class extends import_obsidian54.ItemView {
 import_dayjs9.default.extend(import_isoWeek.default);
 import_dayjs9.default.extend(import_localizedFormat.default);
 var PROJECTS_PLUGIN_ID = "obsidian-projects";
-var ProjectsPlugin = class extends import_obsidian56.Plugin {
+var ProjectsPlugin = class extends import_obsidian55.Plugin {
   onload() {
     return __async(this, null, function* () {
       const t3 = get_store_value(i18n).t;
@@ -67216,7 +67209,7 @@ var ProjectsPlugin = class extends import_obsidian56.Plugin {
       );
       this.registerEvent(
         this.app.workspace.on("file-menu", (menu, file) => {
-          if (file instanceof import_obsidian56.TFolder) {
+          if (file instanceof import_obsidian55.TFolder) {
             menu.addItem((item) => {
               item.setTitle(t3("menus.project.create.title")).setIcon("folder-plus").onClick(() => __async(this, null, function* () {
                 const project = createProject();
@@ -67275,7 +67268,7 @@ var ProjectsPlugin = class extends import_obsidian56.Plugin {
                   const record = createDataRecord(name, project2);
                   yield get_store_value(api).createNote(record, templatePath);
                   const file = this.app.vault.getAbstractFileByPath(record.id);
-                  if (file instanceof import_obsidian56.TFile) {
+                  if (file instanceof import_obsidian55.TFile) {
                     this.app.workspace.getLeaf(true).openFile(file);
                   }
                 })
@@ -67289,7 +67282,7 @@ var ProjectsPlugin = class extends import_obsidian56.Plugin {
       this.addRibbonIcon("layout", "Open projects", () => {
         this.activateView();
       });
-      (0, import_obsidian56.addIcon)(
+      (0, import_obsidian55.addIcon)(
         "text",
         `<g transform="matrix(1,0,0,1,2,2)"><path d="M20,32L28,32L28,24L41.008,24L30.72,72L20,72L20,80L52,80L52,72L42.992,72L53.28,24L68,24L68,32L76,32L76,16L20,16L20,32Z" /></g>`
       );

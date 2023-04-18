@@ -231,7 +231,6 @@
       "key": "Q"
     }
   ],
-  "nldates-obsidian:nlp-today": [],
   "workspaces-plus:open-workspaces-plus": [
     {
       "modifiers": [
@@ -627,5 +626,14 @@
     }
   ],
   "workspace:goto-last-tab": [],
-  "editor:open-link-in-new-split": []
+  "editor:open-link-in-new-split": [],
+  "nldates-obsidian:nlp-today": [
+    {
+      "modifiers": [
+        "Alt",
+        "Meta"
+      ],
+      "key": "D"
+    }
+  ]
 }

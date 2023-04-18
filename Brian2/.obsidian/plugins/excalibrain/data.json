@@ -1,4 +1,5 @@
 {
+  "compactView": false,
   "excalibrainFilepath": "excalibrain.md",
   "indexUpdateInterval": 5000,
   "hierarchy": {
@@ -155,7 +156,12 @@
     "+ Encounters/Obsidian Training Class.md",
     "Extras/Canvases/Obsidian and PKM Class Overview.canvas",
     "Extras/Canvases/OPCourseIntro.canvas",
-    "Atlas/PKM.md"
+    "Atlas/PKM.md",
+    "Atlas/Probability and Statistics.md",
+    "Extras/Excalidraw/ExcaliBrain Snapshot - Probability and Statistics.excalidraw.md",
+    "Calendar/Daily Notes/2023-04-16.md",
+    "Calendar/Daily Notes/2023-04-17.md",
+    "Extras/Excalidraw/2023-04-17 2023-04-17 08.56.11.excalidraw.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",

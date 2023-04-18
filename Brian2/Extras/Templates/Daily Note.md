@@ -4,12 +4,23 @@ tags:: #log/journal #note/daily
 ---
 ## <% tp.file.title %>
 
+### Quote
+
 <% tp.web.daily_quote() %>
 
 ### Progress
 
+### Today's Priorities
 
-### Goals 
+### Logs
+
+#### Piano Log
+
+#### Excercise Log
+
+### Reflections
+
+### Tasks
 
 ##### New
 

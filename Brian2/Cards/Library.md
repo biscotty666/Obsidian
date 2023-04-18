@@ -46,7 +46,7 @@ list where Library = 500
 ## 600 - Applied Sciences
 
 ```dataview
-table file.etags
+table file.etags as Tags
 where Library = 600
 ```
 

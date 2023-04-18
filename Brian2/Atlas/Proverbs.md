@@ -25,6 +25,14 @@ where Tradition = "Chinese" AND file.name != "Proverb Note" AND Source = "Sun Tz
 sort Stars desc
 ```
 
+```dataview
+table without id
+Quote, Stars as ⭐, file.link as Link from #ideas/proverbs 
+where Tradition = "Chinese" AND file.name != "Proverb Note" AND Source = "Sun Tzu"
+sort Stars desc
+```
+
+
 #### Source unknown
 
 ```dataview

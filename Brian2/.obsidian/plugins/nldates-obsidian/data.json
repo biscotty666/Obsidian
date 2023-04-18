@@ -1,5 +1,5 @@
 {
-  "autosuggestToggleLink": false,
+  "autosuggestToggleLink": true,
   "autocompleteTriggerPhrase": "",
   "isAutosuggestEnabled": false,
   "format": "YYYY-MM-DD",

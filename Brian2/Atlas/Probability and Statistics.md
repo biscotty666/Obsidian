@@ -1,7 +1,17 @@
-up:: [[Data Science]]
-tags:: #map #on/PnS 
-X:: [[Introduction to Data Science]]
-Library:: 600
+---
+up: [[Data Science]]
+same: [[Introduction to Data Science]]
+Library: 600
+Reference: More things
+Tag: #map #on/PnS
+Type: moc
+On: PnS, Data Science
+---
+Relations:: [[Data Science]]
+
+
+Introduction to Data Science
+
 
 # Probability and Statistics
 
