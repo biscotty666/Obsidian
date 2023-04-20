@@ -9,9 +9,9 @@ X:: [[Health]]
 
 ```dataview
 table without id
-file.name as Date, exercise-log as Notes
+file.name as Date, exercise-type as Type, exercise-time as Time, exercise-note as Note
 from #log/journal 
-where file.ctime > date("2023-04-17")
+where exercise-type
 sort file.name desc
 ```
 

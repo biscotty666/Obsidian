@@ -15,14 +15,12 @@
                 "id": "a44390eb6cbdf424",
                 "type": "leaf",
                 "state": {
-                  "type": "canvas",
+                  "type": "markdown",
                   "state": {
-                    "file": "Extras/Canvases/Obsidian Proverbs.canvas",
-                    "viewState": {
-                      "x": -4.29261307256553,
-                      "y": 666.2609718697993,
-                      "zoom": -2.108196505942037
-                    }
+                    "file": "+ Encounters/Linear algebra course.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
                   }
                 }
               }
@@ -122,7 +120,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "+ Encounters/Excalidraw tutorial.md",
+            "file": "+ Encounters/Linear algebra course.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +137,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "+ Encounters/Excalidraw tutorial.md",
+            "file": "+ Encounters/Linear algebra course.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +149,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "+ Encounters/Excalidraw tutorial.md"
+            "file": "+ Encounters/Linear algebra course.md"
           }
         }
       },
@@ -192,10 +190,12 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "24654a0891009537",
+  "active": "a44390eb6cbdf424",
   "lastOpenFiles": [
-    "+ Encounters/Notes 2 article video.md",
+    "+ Encounters/ChatGPT course.md",
+    "+ Encounters/Linear algebra course.md",
     "Extras/Canvases/Obsidian Proverbs.canvas",
+    "+ Encounters/Notes 2 article video.md",
     "+ Encounters/Chinese Proverbs.md",
     "+ Encounters/IBM data analytics video.md",
     "+ Encounters/Excalidraw tutorial.md",
@@ -220,7 +220,6 @@
     "Cards/Data Science Projects Youssef Hosni.sync-conflict-20230406-231508-HSJIBKW.md",
     "Cards/Data Science 10 Guided Projects.md",
     "Cards/Data Science Projects Youssef Hosni.md",
-    "+ Encounters/Nginx deep dive video.md",
     "Extras/Images/Pasted image 20230401103803.jpg",
     "Extras/Canvases/Obsidian and PKM Class Overview.canvas",
     "Untitled.canvas",

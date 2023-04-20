@@ -4,3 +4,7 @@ type: moc
 ---
 
 [[Piano Log]]
+[[Exercise Log]]
+[[Cooking Log]]
+[[Study Log]]
+[[Output Log]]

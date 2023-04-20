@@ -9,9 +9,9 @@ X:: [[Music]]
 
 ```dataview
 table without id
-file.name as Date, piano-log as Notes
+file.name as Date, piano-log as Notes, piano-time as Time
 from #log/journal 
-where file.ctime > date("2023-04-17")
+where piano-log
 sort file.name desc
 ```
 

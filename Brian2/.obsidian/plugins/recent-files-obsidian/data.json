@@ -1,32 +1,140 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-04-18.excalidraw",
-      "path": "Calendar/Daily Notes/Drawings/2023-04-18.excalidraw.md"
+      "basename": "Linear algebra course",
+      "path": "+ Encounters/Linear algebra course.md"
     },
     {
-      "basename": "2023-04-18",
-      "path": "Calendar/Daily Notes/2023-04-18.md"
+      "basename": "ChatGPT course",
+      "path": "+ Encounters/ChatGPT course.md"
     },
     {
-      "basename": "Visual Daily Note",
-      "path": "+ Encounters/Visual Daily Note.md"
+      "basename": "2023-04-19.excalidraw",
+      "path": "Calendar/Daily Notes/Drawings/2023-04-19.excalidraw.md"
     },
     {
-      "basename": "2023-04-17",
-      "path": "Calendar/Daily Notes/2023-04-17.md"
+      "basename": "2023-04-19",
+      "path": "Calendar/Daily Notes/2023-04-19.md"
+    },
+    {
+      "basename": "Study Log",
+      "path": "Calendar/Logs/Study Log.md"
+    },
+    {
+      "basename": "Probability and Statistics",
+      "path": "Atlas/Probability and Statistics.md"
+    },
+    {
+      "basename": "Library",
+      "path": "Cards/Library.md"
+    },
+    {
+      "basename": "The Birthday Problem",
+      "path": "Cards/The Birthday Problem.md"
+    },
+    {
+      "basename": "Continuous probability",
+      "path": "+ Encounters/Continuous probability.md"
+    },
+    {
+      "basename": "Celtics and Cavs",
+      "path": "+ Encounters/Celtics and Cavs.md"
+    },
+    {
+      "basename": "How many simulations do we need?",
+      "path": "+ Encounters/How many simulations do we need?.md"
+    },
+    {
+      "basename": "Monty Hall Problem",
+      "path": "+ Encounters/Monty Hall Problem.md"
+    },
+    {
+      "basename": "Conditional Probabilities",
+      "path": "+ Encounters/Conditional Probabilities.md"
+    },
+    {
+      "basename": "Calculate the probability of a natural 21 with a Monte Carlo simulation",
+      "path": "+ Encounters/Calculate the probability of a natural 21 with a Monte Carlo simulation.md"
+    },
+    {
+      "basename": "Monte Carlo Simulation",
+      "path": "Cards/Monte Carlo Simulation.md"
+    },
+    {
+      "basename": "Combinations and Permutations",
+      "path": "+ Encounters/Combinations and Permutations.md"
+    },
+    {
+      "basename": "Joining strings in R",
+      "path": "+ Encounters/Joining strings in R.md"
+    },
+    {
+      "basename": "Construct a deck of cards in R",
+      "path": "+ Encounters/Construct a deck of cards in R.md"
+    },
+    {
+      "basename": "Syntax Note",
+      "path": "Extras/Templates/Syntax Note.md"
+    },
+    {
+      "basename": "R Note",
+      "path": "Extras/Templates/R Note.md"
+    },
+    {
+      "basename": "Built-in Constants in R",
+      "path": "+ Encounters/Built-in Constants in R.md"
+    },
+    {
+      "basename": "Multiplication Rule",
+      "path": "+ Encounters/Multiplication Rule.md"
+    },
+    {
+      "basename": "Addition Rule",
+      "path": "+ Encounters/Addition Rule.md"
     },
     {
       "basename": "Exercise Log",
       "path": "Calendar/Logs/Exercise Log.md"
     },
     {
+      "basename": "2023-04-18",
+      "path": "Calendar/Daily Notes/2023-04-18.md"
+    },
+    {
+      "basename": "2023-04-18.excalidraw",
+      "path": "Calendar/Daily Notes/Drawings/2023-04-18.excalidraw.md"
+    },
+    {
+      "basename": "Visual Daily Note",
+      "path": "+ Encounters/Visual Daily Note.md"
+    },
+    {
+      "basename": "Central Limit Theorem",
+      "path": "Cards/Central Limit Theorem.md"
+    },
+    {
+      "basename": "Cooking Log",
+      "path": "Calendar/Logs/Cooking Log.md"
+    },
+    {
+      "basename": "Output Log",
+      "path": "Calendar/Logs/Output Log.md"
+    },
+    {
       "basename": "Piano Log",
       "path": "Calendar/Logs/Piano Log.md"
     },
     {
+      "basename": "Logs",
+      "path": "+ Encounters/Logs.md"
+    },
+    {
       "basename": "Daily.excalidraw",
       "path": "Extras/Excalidraw/Daily.excalidraw.md"
+    },
+    {
+      "basename": "2023-04-17",
+      "path": "Calendar/Daily Notes/2023-04-17.md"
     },
     {
       "basename": "feynman-triangulation-1",
@@ -47,10 +155,6 @@
     {
       "basename": "Forecasting",
       "path": "Extras/Excalidraw/Forecasting.md"
-    },
-    {
-      "basename": "Probability and Statistics",
-      "path": "Atlas/Probability and Statistics.md"
     },
     {
       "basename": "Saraswati",
@@ -89,116 +193,12 @@
       "path": "Extras/Canvases/Untitled 1.canvas"
     },
     {
-      "basename": "Drawing 2023-04-17 22.13.31.excalidraw",
-      "path": "Calendar/Logs/Drawing 2023-04-17 22.13.31.excalidraw.md"
-    },
-    {
       "basename": "Untitled 1.excalidraw",
       "path": "Extras/Canvases/Untitled 1.excalidraw.canvas"
     },
     {
       "basename": "Untitled",
       "path": "Extras/Canvases/Untitled.canvas"
-    },
-    {
-      "basename": "Pasted Image 20230417091618_289",
-      "path": "Extras/Images/Pasted Image 20230417091618_289.png"
-    },
-    {
-      "basename": "Logs",
-      "path": "+ Encounters/Logs.md"
-    },
-    {
-      "basename": "230417",
-      "path": "Calendar/Logs/Piano/230417.md"
-    },
-    {
-      "basename": "Untitled 3",
-      "path": "+ Encounters/Untitled 3.md"
-    },
-    {
-      "basename": "Untitled 2",
-      "path": "+ Encounters/Untitled 2.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "+ Encounters/Untitled 1.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "+ Encounters/Untitled.md"
-    },
-    {
-      "basename": "Library",
-      "path": "Cards/Library.md"
-    },
-    {
-      "basename": "test 1",
-      "path": "+ Encounters/test 1.md"
-    },
-    {
-      "basename": "Data Science",
-      "path": "Atlas/Data Science.md"
-    },
-    {
-      "basename": "test 2",
-      "path": "+ Encounters/test 2.md"
-    },
-    {
-      "basename": "Notes 2 article video",
-      "path": "+ Encounters/Notes 2 article video.md"
-    },
-    {
-      "basename": "The truest habit metaphors are additive - v1",
-      "path": "Cards/The truest habit metaphors are additive - v1.md"
-    },
-    {
-      "basename": "excalibrain",
-      "path": "excalibrain.md"
-    },
-    {
-      "basename": "2023-04-16",
-      "path": "Calendar/Daily Notes/2023-04-16.md"
-    },
-    {
-      "basename": "ExcaliBrain Snapshot - Probability and Statistics.excalidraw",
-      "path": "Extras/Excalidraw/ExcaliBrain Snapshot - Probability and Statistics.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-04-16 00.41.12.excalidraw",
-      "path": "Extras/Excalidraw/Drawing 2023-04-16 00.41.12.excalidraw.md"
-    },
-    {
-      "basename": "Obsidian Excalidraw",
-      "path": "+ Encounters/Obsidian Excalidraw.md"
-    },
-    {
-      "basename": "Excalidraw tutorial",
-      "path": "+ Encounters/Excalidraw tutorial.md"
-    },
-    {
-      "basename": "2023-04-15",
-      "path": "Calendar/Daily Notes/2023-04-15.md"
-    },
-    {
-      "basename": "Obsidian Proverbs",
-      "path": "Extras/Canvases/Obsidian Proverbs.canvas"
-    },
-    {
-      "basename": "What other people think",
-      "path": "+ Encounters/What other people think.md"
-    },
-    {
-      "basename": "Demo.md",
-      "path": "+ Encounters/Demo.md.md"
-    },
-    {
-      "basename": "Chinese Proverbs",
-      "path": "+ Encounters/Chinese Proverbs.md"
-    },
-    {
-      "basename": "IBM data analytics video",
-      "path": "+ Encounters/IBM data analytics video.md"
     }
   ],
   "omittedPaths": [],

@@ -30,7 +30,7 @@
   "hierarchyNoteIsParent": false,
   "HNUpField": "",
   "indexNotes": [
-    ""
+    "Home"
   ],
   "namingSystemField": "",
   "namingSystemRegex": "",
@@ -47,7 +47,7 @@
   "regexNoteField": "",
   "relSuggestorTrigger": "\\",
   "rlLeaf": true,
-  "showAllPathsIfNoneToIndexNote": false,
+  "showAllPathsIfNoneToIndexNote": true,
   "showAllAliases": true,
   "showBCs": true,
   "showBCsInEditLPMode": true,
@@ -66,11 +66,7 @@
     4
   ],
   "limitTrailCheckboxes": [
-    "up",
-    "same",
-    "down",
-    "next",
-    "prev"
+    "up"
   ],
   "limitJumpToFirstFields": [],
   "showAll": "All",

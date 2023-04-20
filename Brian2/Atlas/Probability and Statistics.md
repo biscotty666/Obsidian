@@ -3,11 +3,10 @@ up: [[Data Science]]
 same: [[Introduction to Data Science]]
 Library: 600
 Reference: More things
-Tag: #map #on/PnS
 Type: moc
 On: PnS, Data Science
 ---
-Relations:: [[Data Science]]
+#on/PnS #map 
 
 
 Introduction to Data Science
@@ -17,7 +16,9 @@ Introduction to Data Science
 
 ## Reference notes
 ```dataview
-list from #on/PnS   & #note/reference 
+list
+from #on/PnS   & #note/reference 
+sort file.name asc
 ```
 
 
