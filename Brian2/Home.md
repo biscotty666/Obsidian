@@ -22,6 +22,7 @@ These are maps to launch your `efforts`. Where would you like to go?
 	- [[Library]]
 	- [[Sources MOC | Sources]]
 	- [[Concepts MOC | Concepts]]
+	- [[Reading and video list]]
 - Action and Reflection
 	- [[Efforts]]
 - Personal

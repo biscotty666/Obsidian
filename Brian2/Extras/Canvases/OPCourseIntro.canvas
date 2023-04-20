@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"29c7f672de30c880","x":-540,"y":-400,"width":250,"height":300,"type":"file","file":"+ Encounters/BC Skill Areas.md"},
+		{"id":"29c7f672de30c880","x":-540,"y":-400,"width":250,"height":300,"type":"file","file":"Atlas/BC Skill Areas.md"},
 		{"type":"file","file":"+ Encounters/Obsidian & PKM Course Introduction.md","id":"b25b8ef9796c619d","x":-220,"y":-440,"width":400,"height":280},
 		{"type":"text","text":"[[Benefits of Personal Knowledge Management]]","id":"e3db1c250efd65a8","x":-145,"y":-100,"width":250,"height":60},
 		{"type":"file","file":"Cards/Guiding Values of PKM.md","id":"a5b00fc321610cca","x":-600,"y":-70,"width":320,"height":290},

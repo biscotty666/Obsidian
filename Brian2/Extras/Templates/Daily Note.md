@@ -8,17 +8,40 @@ tags:: #log/journal #note/daily
 
 <% tp.web.daily_quote() %>
 
+
 ### Progress
 
-### Today's Priorities
+- Work towards something
+
+### Today
+
 
 ### Logs
 
+#### Study Log
+
+- Study something
+
+#### Output Log
+
+- Create something
+
 #### Piano Log
 
-#### Excercise Log
+- Play some piano
+
+#### Exercise Log
+
+- Go outside
+
+#### Cooking Log
+
+- What's cookin'
+
 
 ### Reflections
+
+- Any thoughts or insights
 
 ### Tasks
 

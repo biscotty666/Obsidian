@@ -4,7 +4,7 @@
 		{"id":"dc7bae66ce5199a1","x":-175,"y":-1100,"width":250,"height":60,"color":"1","type":"text","text":"Proverbs in Obsidian\nDataview Example"},
 		{"id":"ab2407b1fda400fa","x":-133,"y":-960,"width":166,"height":180,"color":"5","type":"file","file":"+ Encounters/Youtube suggests something interesting.md"},
 		{"id":"cd2f272a0cc33fc7","x":-330,"y":-700,"width":560,"height":140,"color":"2","type":"text","text":"- Click on the share button\n- Share to Obsidian\n- Paste into a new note with a good name\n- Add a basic template and tag it as a video to watch later"},
-		{"id":"3f0214a9ef96b957","x":-250,"y":-480,"width":400,"height":220,"color":"4","type":"file","file":"+ Encounters/Chinese Proverbs.md"},
+		{"id":"3f0214a9ef96b957","x":-250,"y":-480,"width":400,"height":220,"color":"4","type":"file","file":"Cards/Chinese Proverbs.md"},
 		{"id":"6aff17d4f9a2900e","x":-355,"y":300,"width":610,"height":120,"color":"5","type":"text","text":"Consider what information you are interested in and make a basic template for the Proverbs. You can always add new fields later if you decide to capture other information later."},
 		{"id":"9789b6b48f326bc8","x":-250,"y":500,"width":400,"height":180,"color":"4","type":"file","file":"Extras/Templates/Proverb Note.md"},
 		{"id":"1f267c293434ff59","x":-250,"y":720,"width":400,"height":60,"color":"2","type":"text","text":"Start making notes from your list."},
@@ -17,7 +17,7 @@
 		{"type":"file","file":"Calendar/Daily Notes/2023-04-15.md","id":"064550d5d52e7e73","x":-255,"y":2980,"width":420,"height":280},
 		{"id":"805b4018c3758bf8","x":-680,"y":980,"width":400,"height":320,"color":"4","type":"file","file":"Cards/Warfare and Deception.md"},
 		{"id":"19691634c0a373c3","x":-210,"y":980,"width":330,"height":460,"color":"4","type":"file","file":"Cards/Moment of patience.md"},
-		{"id":"4cedbc3511495897","x":230,"y":980,"width":360,"height":320,"color":"4","type":"file","file":"+ Encounters/The best cosmetic.md"}
+		{"id":"4cedbc3511495897","x":230,"y":980,"width":360,"height":320,"color":"4","type":"file","file":"Cards/The best cosmetic.md"}
 	],
 	"edges":[
 		{"id":"8114696f1bc43831","fromNode":"ab2407b1fda400fa","fromSide":"bottom","toNode":"cd2f272a0cc33fc7","toSide":"top"},
