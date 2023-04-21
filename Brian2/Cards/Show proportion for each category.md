@@ -1,6 +1,6 @@
-up:: [[Introduction to Data Science]]
-tags:: #source/book #note/reference
-X:: [[R]] [[Data Science]]
+up:: [[Probability and Statistics]]
+tags:: #source/book #note/reference #on/R #on/PnS 
+X:: 
 
 ## Show proportion for each category
 

@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "2023-04-19.excalidraw",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Calendar/Daily Notes/Drawings/2023-04-19.excalidraw.md\"}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "2023-04-20",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Daily Notes/2023-04-20.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
@@ -119,7 +125,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Calendar/Daily Notes/Drawings/2023-04-19.excalidraw.md"
+                "file": "Calendar/Daily Notes/Drawings/2023-04-20.excalidraw.md"
               },
               "pinned": true
             }
@@ -154,8 +160,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,7 +207,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag: #on/PnS",
+                "query": "how many do",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -259,7 +264,7 @@
       {
         "id": "ea89fdbc5439f479",
         "type": "tabs",
-        "dimension": 74.18738049713194,
+        "dimension": 66.92160611854685,
         "children": [
           {
             "id": "4f6e4ddebde66a86",
@@ -296,7 +301,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily Notes/2023-04-20.md",
+                "file": "Calendar/Daily Notes/Drawings/2023-04-20.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -319,7 +324,7 @@
                   "repelStrength": 15.1041666666667,
                   "linkStrength": 0.786458333333333,
                   "linkDistance": 30,
-                  "scale": 1.0579525634198401,
+                  "scale": 0.516858469855939,
                   "close": true
                 }
               }
@@ -340,7 +345,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily Notes/2023-04-20.md"
+                "file": "Calendar/Daily Notes/Drawings/2023-04-20.excalidraw.md"
               }
             }
           },
@@ -413,12 +418,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "cc261747cbab30f2",
         "type": "tabs",
-        "dimension": 25.812619502868063,
+        "dimension": 33.07839388145315,
         "children": [
           {
             "id": "d535bd36dbc98e0b",
@@ -435,7 +440,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily Notes/2023-04-20.md",
+                "file": "Calendar/Daily Notes/Drawings/2023-04-20.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -461,7 +466,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily Notes/2023-04-20.md",
+                "file": "Calendar/Daily Notes/Drawings/2023-04-20.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -471,7 +476,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 591.5,
+    "width": 363.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -489,42 +494,44 @@
       "templater-obsidian:Templater": false,
       "obsidian-projects:Open projects": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "e6798d5e82a0a44e",
+  "active": "03df399dbf9c2127",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": false
   },
   "lastOpenFiles": [
-    "Calendar/Daily Notes/Drawings/2023-04-19.excalidraw.md",
+    "Calendar/Daily Notes/2023-04-20.md",
     "Calendar/Daily Notes/Drawings/2023-04-20.excalidraw.md",
+    "Atlas/Data Visualization.md",
+    "Calendar/Logs/Study Log.md",
+    "+ Encounters/Random variables and the binomial distribution.md",
+    "Cards/Random variables.md",
+    "Cards/Sampling models - Casino roulette winnings.md",
+    "Cards/Probability distribution of random variables.md",
+    "Cards/Expected Value and Standard Error.md",
+    "Cards/Expected Value.md",
+    "+ Encounters/Distributions vs Probability Distributions.md",
+    "+ Encounters/Visualize the probability density of a random variable.md",
+    "Extras/Images/Pasted image 20230420220607.png",
+    "Calendar/Logs/Piano Log.md",
+    "+ Encounters/Probability density of a random variable.md",
+    "Cards/Probability Density.md",
+    "Extras/Templates/PnS Note.md",
+    "Extras/Templates/PnS Note 1.md",
+    "Extras/Excalidraw/Ptah.md",
+    "Cards/Flow Map.md",
+    "Atlas/R.md",
+    "Cards/Remove rows with NA values.md",
+    "Cards/Tibbles are a special kind of data frame.md",
+    "Extras/Excalidraw/Thoth.md",
+    "Atlas/Python.md",
+    "Cards/How many simulations do we need.md",
+    "+ Encounters/Dataview query for backlinks.md",
     "Calendar/Daily Notes/Drawings/2023-04-20.excalidraw.png",
     "Calendar/Daily Notes/Drawings/2023-04-20.excalidraw.svg",
-    "Calendar/Daily Notes/2023-04-20.md",
-    "Extras/Templates/Daily Note.md",
-    "Calendar/Daily Notes/2023-04-18.md",
-    "Calendar/Daily Notes/2023-04-19.md",
-    "+ Encounters/TSA coffee prices.md",
-    "Cards/Obsidian Excalidraw.md",
-    "+ Encounters/Visual Daily Note.md",
-    "+ Encounters/Sveltekit Update Title.md",
-    "+ Encounters/SvelteKit from Scratch.md",
-    "+ Encounters/SvelteKit Course.md",
-    "Atlas/Reading and video list.md",
-    "+ Encounters/Sun Tsu Proverbs.md",
-    "+ Encounters/Purrr video.md",
-    "+ Encounters/Nginx deep dive video.md",
-    "Cards/IBM data analytics video.md",
-    "Cards/Obsidian Projects.md",
-    "Cards/Chinese Proverbs.md",
-    "Cards/Linear algebra course.md",
-    "+ Encounters/List of Proverbs.md",
-    "Cards/Http course.md",
-    "Cards/Graph Theory Algorithms.md",
-    "+ Encounters/Continuous probability.md",
-    "Cards/Dataview deep dive.md",
     "Extras/Images/Pasted image 20230419214311.png",
     "Extras/Images/Pasted image 20230419213710.png",
     "Extras/Images/Pasted image 20230419213703.png",
@@ -532,7 +539,6 @@
     "Extras/Images/Pasted image 20230419210956.png",
     "Extras/Images/Pasted image 20230419164234.png",
     "Extras/Images/Pasted image 20230419163814.png",
-    "Extras/Images/Pasted image 20230419163232.png",
     "Calendar/Daily Notes/Drawings",
     "Extras/Canvases/Untitled 1.canvas",
     "Extras/Canvases/Untitled 1.excalidraw.canvas",

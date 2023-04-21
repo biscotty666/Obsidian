@@ -1,10 +1,10 @@
-up:: [[Introduction to Data Science]]
+up:: [[Probability and Statistics]]
 tags:: #source/book #note/reference
-X:: [[R]] [[Data Science]]
+X:: [[Introduction to Data Science]]
 
 ## Central Limit Theorem
 
-Recognizes that in many real-life situations, random independent samples taken from common data, eg heights, tends to match the normal distribution.
+Recognizes that in many real-life situations, random independent samples taken from common data, eg heights, tends to match the [[Normal Distribution]].
 
 ---
 #### Reference

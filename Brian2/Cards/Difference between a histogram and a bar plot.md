@@ -1,6 +1,6 @@
 up:: [[Data Visualization]]
 tags:: #source/book #note/reference #on/DataVisualization #on/PnS 
-X:: [[Data Science]] [[Data Visualization]]
+X:: 
 
 ## Difference between a histogram and a bar plot
 

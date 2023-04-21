@@ -1,6 +1,6 @@
-up:: [[Introduction to Data Science]]
+up:: [[Probability and Statistics]] 
 tags:: #source/book #note/reference #on/PnS 
-X::  [[Data Science]] [[Probability and Statistics]]
+X::  [[Introduction to Data Science]]
 
 ## Let's Make a Deal
 

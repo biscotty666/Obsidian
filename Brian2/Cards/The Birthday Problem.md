@@ -1,6 +1,6 @@
 up:: [[Probability and Statistics]]
 tags:: #source/book #note/reference #on/PnS 
-X::  [[Data Science]] [[Introduction to Data Science]]
+X::  [[Introduction to Data Science]]
 
 ## The Birthday Problem
 

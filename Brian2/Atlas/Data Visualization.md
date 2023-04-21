@@ -1,4 +1,4 @@
-up:: [[R]]
+up:: [[Data Science]]
 tags:: #map
 X:: [[Introduction to Data Science]]
 Library:: 600

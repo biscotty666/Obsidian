@@ -1,4 +1,4 @@
-up:: [[Data Science]] 
+up:: [[Forecasting]]
 tags:: #source/article #source/article/toread
 X:: 
 

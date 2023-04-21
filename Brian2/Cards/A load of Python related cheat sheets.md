@@ -1,6 +1,6 @@
 up:: [[Python]] 
 tags:: #note/reference #map #note/cheatsheet 
-X:: [[Data Science]] [[Data Visualization]]
+X:: 
 
 ## A load of Python related cheat sheets
 

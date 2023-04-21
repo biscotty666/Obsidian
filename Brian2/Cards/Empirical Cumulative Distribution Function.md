@@ -1,6 +1,6 @@
-up:: [[Introduction to Data Science]]
+up::  [[Probability and Statistics]]
 tags:: #source/book #note/reference #on/PnS #on/R 
-X:: [[Data Science]] [[Probability and Statistics]]
+X:: [[Introduction to Data Science]]
 
 ## Empirical Cumulative Distribution Function eCDF
 

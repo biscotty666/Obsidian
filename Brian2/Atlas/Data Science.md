@@ -5,7 +5,10 @@ Library:: 600
 
 # Data Science
 
-[[Probability and Statistics]]
+```dataview
+table file.inlinks
+where file.name = this.file.name
+```
 
 ### Resources
 - [[Introduction to Data Science]]
@@ -15,12 +18,6 @@ Library:: 600
 - [[Data Science Projects Youssef Hosni]]
 - [[Time Series Forecasting Wind Power]]
 
-### on/DataScience 
-
-```dataview
-LIST
-FROM #on/DataScience 
-```
 
 
 <iframe width=100% height=500vh src="https://en.wikipedia.org/wiki/Data_science"></iframe>

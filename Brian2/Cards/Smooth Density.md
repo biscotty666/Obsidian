@@ -1,6 +1,6 @@
-up:: [[Introduction to Data Science]]
-tags:: #source/book #note/reference
-X:: [[R]] [[Data Science]]
+up:: [[Data Visualization]]
+tags:: #source/book #note/reference #on/PnS  #on/DataVisualization 
+X:: [[Introduction to Data Science]] [[Probability and Statistics]]
 
 ## Smooth Density
 

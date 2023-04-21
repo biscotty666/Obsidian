@@ -1,6 +1,6 @@
-up:: [[Introduction to Data Science]]
+up:: [[Probability and Statistics]]
 tags:: #source/book #note/reference
-X:: [[R]] [[Data Science]]
+X:: 
 
 ## Combinations of multiple choices
 

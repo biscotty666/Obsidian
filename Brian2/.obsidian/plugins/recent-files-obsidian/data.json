@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-04-20",
-      "path": "Calendar/Daily Notes/2023-04-20.md"
-    },
-    {
-      "basename": "2023-04-19.excalidraw",
-      "path": "Calendar/Daily Notes/Drawings/2023-04-19.excalidraw.md"
-    },
-    {
       "basename": "2023-04-20.excalidraw",
       "path": "Calendar/Daily Notes/Drawings/2023-04-20.excalidraw.md"
     },
     {
-      "basename": "Daily Note",
-      "path": "Extras/Templates/Daily Note.md"
+      "basename": "2023-04-20",
+      "path": "Calendar/Daily Notes/2023-04-20.md"
     },
     {
-      "basename": "2023-04-19",
-      "path": "Calendar/Daily Notes/2023-04-19.md"
+      "basename": "Study Log",
+      "path": "Calendar/Logs/Study Log.md"
     },
     {
-      "basename": "Obsidian Excalidraw",
-      "path": "Cards/Obsidian Excalidraw.md"
+      "basename": "Random variables and the binomial distribution",
+      "path": "+ Encounters/Random variables and the binomial distribution.md"
     },
     {
-      "basename": "Sveltekit Update Title",
-      "path": "+ Encounters/Sveltekit Update Title.md"
+      "basename": "Random variables",
+      "path": "Cards/Random variables.md"
     },
     {
-      "basename": "SvelteKit from Scratch",
-      "path": "+ Encounters/SvelteKit from Scratch.md"
+      "basename": "Sampling models - Casino roulette winnings",
+      "path": "Cards/Sampling models - Casino roulette winnings.md"
     },
     {
-      "basename": "SvelteKit Course",
-      "path": "+ Encounters/SvelteKit Course.md"
+      "basename": "Probability distribution of random variables",
+      "path": "Cards/Probability distribution of random variables.md"
     },
     {
-      "basename": "Reading and video list",
-      "path": "Atlas/Reading and video list.md"
+      "basename": "Expected Value and Standard Error",
+      "path": "Cards/Expected Value and Standard Error.md"
     },
     {
-      "basename": "Sun Tsu Proverbs",
-      "path": "+ Encounters/Sun Tsu Proverbs.md"
+      "basename": "Expected Value",
+      "path": "Cards/Expected Value.md"
     },
     {
-      "basename": "Purrr video",
-      "path": "+ Encounters/Purrr video.md"
+      "basename": "Distributions vs Probability Distributions",
+      "path": "+ Encounters/Distributions vs Probability Distributions.md"
     },
     {
-      "basename": "Nginx deep dive video",
-      "path": "+ Encounters/Nginx deep dive video.md"
+      "basename": "Visualize the probability density of a random variable",
+      "path": "+ Encounters/Visualize the probability density of a random variable.md"
     },
     {
-      "basename": "IBM data analytics video",
-      "path": "Cards/IBM data analytics video.md"
-    },
-    {
-      "basename": "Obsidian Projects",
-      "path": "Cards/Obsidian Projects.md"
-    },
-    {
-      "basename": "Chinese Proverbs",
-      "path": "Cards/Chinese Proverbs.md"
-    },
-    {
-      "basename": "Linear algebra course",
-      "path": "Cards/Linear algebra course.md"
-    },
-    {
-      "basename": "Http course",
-      "path": "Cards/Http course.md"
-    },
-    {
-      "basename": "Graph Theory Algorithms",
-      "path": "Cards/Graph Theory Algorithms.md"
-    },
-    {
-      "basename": "Dataview deep dive",
-      "path": "Cards/Dataview deep dive.md"
-    },
-    {
-      "basename": "ChatGPT course",
-      "path": "Cards/ChatGPT course.md"
-    },
-    {
-      "basename": "Advanced Slides Doc Walkthrough",
-      "path": "+ Encounters/Advanced Slides Doc Walkthrough.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
-      "basename": "BC Skill Areas",
-      "path": "Atlas/BC Skill Areas.md"
-    },
-    {
-      "basename": "Brian Carey",
-      "path": "Spaces/Brian Carey.md"
-    },
-    {
-      "basename": "Addition Rule",
-      "path": "Cards/Addition Rule.md"
-    },
-    {
-      "basename": "Writeup Syncthing experience",
-      "path": "+ Encounters/Writeup Syncthing experience.md"
-    },
-    {
-      "basename": "What other people think",
-      "path": "Cards/What other people think.md"
-    },
-    {
-      "basename": "Wasting time",
-      "path": "Cards/Wasting time.md"
-    },
-    {
-      "basename": "The heart is at ease",
-      "path": "Cards/The heart is at ease.md"
-    },
-    {
-      "basename": "The best cosmetic",
-      "path": "Cards/The best cosmetic.md"
-    },
-    {
-      "basename": "Programming",
-      "path": "Atlas/Programming.md"
-    },
-    {
-      "basename": "Probability density function",
-      "path": "Cards/Probability density function.md"
+      "basename": "Piano Log",
+      "path": "Calendar/Logs/Piano Log.md"
     },
     {
       "basename": "Probability Density",
       "path": "Cards/Probability Density.md"
     },
     {
-      "basename": "Planning Horizon",
-      "path": "Cards/Planning Horizon.md"
+      "basename": "PnS Note",
+      "path": "Extras/Templates/PnS Note.md"
     },
     {
-      "basename": "Obsidian Canvas Video",
-      "path": "+ Encounters/Obsidian Canvas Video.md"
+      "basename": "PnS Note 1",
+      "path": "Extras/Templates/PnS Note 1.md"
     },
     {
-      "basename": "Obsidian & PKM Course Introduction",
-      "path": "+ Encounters/Obsidian & PKM Course Introduction.md"
+      "basename": "Flow Map",
+      "path": "Cards/Flow Map.md"
     },
     {
-      "basename": "Notes 2 article video",
-      "path": "+ Encounters/Notes 2 article video.md"
+      "basename": "R",
+      "path": "Atlas/R.md"
+    },
+    {
+      "basename": "How many simulations do we need",
+      "path": "Cards/How many simulations do we need.md"
+    },
+    {
+      "basename": "Dataview query for backlinks",
+      "path": "+ Encounters/Dataview query for backlinks.md"
+    },
+    {
+      "basename": "Data Science",
+      "path": "Atlas/Data Science.md"
+    },
+    {
+      "basename": "Probability and Statistics",
+      "path": "Atlas/Probability and Statistics.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "+ Encounters/Untitled.md"
+    },
+    {
+      "basename": "Box and Whiskers Plot",
+      "path": "Atlas/Box and Whiskers Plot.md"
+    },
+    {
+      "basename": "Exercise Log",
+      "path": "Calendar/Logs/Exercise Log.md"
+    },
+    {
+      "basename": "Technology",
+      "path": "Atlas/Technology.md"
+    },
+    {
+      "basename": "Monte Carlo Simulation",
+      "path": "Cards/Monte Carlo Simulation.md"
+    },
+    {
+      "basename": "Let's Make a Deal",
+      "path": "Cards/Let's Make a Deal.md"
+    },
+    {
+      "basename": "A load of Python related cheat sheets",
+      "path": "Cards/A load of Python related cheat sheets.md"
+    },
+    {
+      "basename": "Time Series Forecasting Wind Power",
+      "path": "Sources/Time Series Forecasting Wind Power.md"
+    },
+    {
+      "basename": "The Birthday Problem",
+      "path": "Cards/The Birthday Problem.md"
+    },
+    {
+      "basename": "Mastering the Fundamentals of Statistics for Data Science -Basic to Advance Level- Part 1",
+      "path": "Sources/Mastering the Fundamentals of Statistics for Data Science -Basic to Advance Level- Part 1.md"
     },
     {
       "basename": "Multiplication Rule",
       "path": "Cards/Multiplication Rule.md"
     },
     {
-      "basename": "Monty Hall Problem",
-      "path": "Cards/Monty Hall Problem.md"
+      "basename": "Difference between a histogram and a bar plot",
+      "path": "Cards/Difference between a histogram and a bar plot.md"
     },
     {
-      "basename": "Monte Carlo Simulation for continuous variables",
-      "path": "Cards/Monte Carlo Simulation for continuous variables.md"
+      "basename": "Central Limit Theorem",
+      "path": "Cards/Central Limit Theorem.md"
     },
     {
-      "basename": "Logs",
-      "path": "Cards/Logs.md"
+      "basename": "Case study self-reported student heights",
+      "path": "Cards/Case study self-reported student heights.md"
     },
     {
-      "basename": "Joining strings in R",
-      "path": "Cards/Joining strings in R.md"
+      "basename": "Outliers",
+      "path": "Cards/Outliers.md"
     },
     {
-      "basename": "If you want your children",
-      "path": "Cards/If you want your children.md"
+      "basename": "Distribution of IQ scores",
+      "path": "Cards/Distribution of IQ scores.md"
     },
     {
-      "basename": "How tall the mountain is",
-      "path": "Cards/How tall the mountain is.md"
+      "basename": "Show a slice of a smooth density plot",
+      "path": "Cards/Show a slice of a smooth density plot.md"
     },
     {
-      "basename": "How many simulations do we need?",
-      "path": "Cards/How many simulations do we need?.md"
+      "basename": "Show proportion for each category",
+      "path": "Cards/Show proportion for each category.md"
     },
     {
-      "basename": "Highest IQ",
-      "path": "Cards/Highest IQ.md"
+      "basename": "Smooth Density",
+      "path": "Cards/Smooth Density.md"
     },
     {
-      "basename": "Gamma distribution",
-      "path": "Cards/Gamma distribution.md"
+      "basename": "Combinations of multiple choices",
+      "path": "Cards/Combinations of multiple choices.md"
     },
     {
-      "basename": "Excalidraw tutorial",
-      "path": "Cards/Excalidraw tutorial.md"
+      "basename": "Addition Rule",
+      "path": "Cards/Addition Rule.md"
     },
     {
-      "basename": "Demo.md",
-      "path": "+ Encounters/Demo.md.md"
+      "basename": "Inter Quartile Range (IQR)",
+      "path": "Cards/Inter Quartile Range (IQR).md"
+    },
+    {
+      "basename": "Data Visualization",
+      "path": "Atlas/Data Visualization.md"
+    },
+    {
+      "basename": "Forecasting",
+      "path": "Extras/Excalidraw/Forecasting.md"
+    },
+    {
+      "basename": "2023-04-19.excalidraw",
+      "path": "Calendar/Daily Notes/Drawings/2023-04-19.excalidraw.md"
+    },
+    {
+      "basename": "Sampling models",
+      "path": "Cards/Sampling models.md"
+    },
+    {
+      "basename": "Empirical Cumulative Distribution Function",
+      "path": "Cards/Empirical Cumulative Distribution Function.md"
+    },
+    {
+      "basename": "dnorm, pnorm, qnorm, rnorm",
+      "path": "Cards/dnorm, pnorm, qnorm, rnorm.md"
+    },
+    {
+      "basename": "Determine proportion of data below a certain value",
+      "path": "Cards/Determine proportion of data below a certain value.md"
     }
   ],
   "omittedPaths": [],

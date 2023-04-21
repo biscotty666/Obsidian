@@ -1,5 +1,5 @@
 up:: [[Data Science]]
-tags:: #note/boat🚤 
+tags:: #map
 X:: 
 
 ## Forecasting

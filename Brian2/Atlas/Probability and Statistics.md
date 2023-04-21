@@ -6,6 +6,7 @@ Reference: More things
 Type: moc
 On: PnS, Data Science
 ---
+up:: [[Data Science]]
 #on/PnS #map 
 
 
