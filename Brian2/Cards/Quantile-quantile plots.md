@@ -1,5 +1,5 @@
 up:: [[Probability and Statistics]]
-tags:: #source/book #note/reference #on/R #on/PnS #on/DataVisualization 
+tags:: #source/book #note/reference #on/R #on/Visualization 
 X:: [[Introduction to Data Science]]
 
 ## Quantile-quantile plots

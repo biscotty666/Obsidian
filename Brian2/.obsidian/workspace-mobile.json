@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "+ Encounters/TSA coffee prices.md",
+                    "file": "+ Encounters/Pyscript tutorial.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -115,7 +115,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "+ Encounters/TSA coffee prices.md",
+            "file": "+ Encounters/Pyscript tutorial.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "+ Encounters/TSA coffee prices.md",
+            "file": "+ Encounters/Pyscript tutorial.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -144,7 +144,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "+ Encounters/TSA coffee prices.md"
+            "file": "+ Encounters/Pyscript tutorial.md"
           }
         }
       },
@@ -188,6 +188,7 @@
   "active": "a44390eb6cbdf424",
   "lastOpenFiles": [
     "+ Encounters/TSA coffee prices.md",
+    "+ Encounters/Pyscript tutorial.md",
     "+ Encounters/ChatGPT course.md",
     "+ Encounters/Linear algebra course.md",
     "Extras/Canvases/Obsidian Proverbs.canvas",
@@ -214,7 +215,6 @@
     "Calendar/2022/2023-04-07.md",
     "+ Encounters/Investigate multi-user environment.md",
     "Cards/Data Science Projects Youssef Hosni.sync-conflict-20230406-231508-HSJIBKW.md",
-    "Cards/Data Science 10 Guided Projects.md",
     "Extras/Images/Pasted image 20230401103803.jpg",
     "Extras/Canvases/Obsidian and PKM Class Overview.canvas",
     "Untitled.canvas",

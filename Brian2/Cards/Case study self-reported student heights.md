@@ -1,5 +1,5 @@
 up:: [[Outliers]]
-tags:: #source/book #note/reference #on/PnS 
+tags:: #source/book #note/reference #on/Visualization #on/Statistics 
 X:: [[R]] 
 
 ## Case study self-reported student heights

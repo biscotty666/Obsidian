@@ -1,5 +1,5 @@
 up:: [[Probability and Statistics]]
-tags:: #note/reference #note/cheatsheet #on/PnS 
+tags:: #note/reference #note/cheatsheet #on/Probability 
 X:: 
 
 ## Probability Cheatsheet

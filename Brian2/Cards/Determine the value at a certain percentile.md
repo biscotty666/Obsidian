@@ -1,5 +1,5 @@
 up:: [[R]]
-tags:: #note/reference #on/R #on/PnS 
+tags:: #note/reference #on/R 
 X:: [[Probability and Statistics]]
 
 ## Determine the value at a certain percentile

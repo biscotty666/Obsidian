@@ -1,5 +1,5 @@
 up:: [[Probability and Statistics]]
-tags:: #source/book #note/reference #on/R #on/PnS 
+tags:: #source/book #note/reference #on/R #on/Statistics 
 X:: 
 
 ## Show proportion for each category

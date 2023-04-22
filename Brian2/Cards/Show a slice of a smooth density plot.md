@@ -1,5 +1,5 @@
 up:: [[Data Visualization]]
-tags:: #source/book #note/reference
+tags:: #source/book #note/reference #on/Visualization 
 X:: [[R]] [[Introduction to Data Science]] [[Probability and Statistics]]
 
 ## Show a slice of a smooth density plot

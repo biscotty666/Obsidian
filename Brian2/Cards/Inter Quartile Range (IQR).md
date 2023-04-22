@@ -1,6 +1,6 @@
 up::  [[Probability and Statistics]]
-tags:: #source/book #note/reference #on/R #on/PnS 
-X:: [[Syntax]] [[Introduction to Data Science]]
+tags:: #source/book #note/reference #on/R #on/Statistics 
+X:: [[Syntax]] [[R]]
 
 ## Inter Quartile Range (IQR)
 

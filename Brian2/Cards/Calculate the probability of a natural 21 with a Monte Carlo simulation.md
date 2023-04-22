@@ -1,5 +1,5 @@
 up:: [[Probability and Statistics]]
-tags:: #source/book #note/reference
+tags:: #source/book #note/reference #on/Probability 
 X:: [[R]] [[Introduction to Data Science]] [[Conditional Probabilities]]
 
 ## Calculate the probability of a natural 21 with a Monte Carlo simulation

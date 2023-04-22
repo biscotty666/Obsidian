@@ -1,5 +1,5 @@
 up:: [[Probability and Statistics]]
-tags:: #source/book #note/reference #on/PnS 
+tags:: #source/book #note/reference #on/Statistics 
 X:: [[Introduction to Data Science]] [[dnorm, pnorm, qnorm, rnorm]]
 
 ## Cumulative Distribution Function (CDF)

@@ -1,5 +1,5 @@
 up:: [[Probability and Statistics]]
-tags:: #note/reference  #on/PnS 
+tags:: #note/reference  #on/Probability 
 X:: [[Introduction to Data Science]]
 
 ## Probability that data lies within a given range

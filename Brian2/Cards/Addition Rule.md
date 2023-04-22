@@ -1,5 +1,5 @@
 up:: [[Probability and Statistics]]
-tags:: #source/book #note/reference #on/PnS 
+tags:: #source/book #note/reference #on/Probability
 X:: [[Introduction to Data Science]]
 
 ## Addition Rule

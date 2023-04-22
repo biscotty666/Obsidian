@@ -1,5 +1,5 @@
 up::  [[Random variables]]
-tags:: #source/book #note/reference #on/PnS 
+tags:: #source/book #note/reference #on/Probability 
 X:: 
 
 ## Random variables and the binomial distribution

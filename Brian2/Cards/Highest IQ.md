@@ -1,5 +1,5 @@
 up:: [[Probability and Statistics]]
-tags:: #source/book #note/reference
+tags:: #source/book #note/reference #on/Visualization 
 X::  [[Introduction to Data Science]]
 
 ## Highest IQ

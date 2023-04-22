@@ -1,6 +1,6 @@
 up::  [[Probability and Statistics]]
-tags:: #source/book #note/reference #on/PnS #on/R 
-X:: [[Introduction to Data Science]]
+tags:: #source/book #note/reference #on/Statistics #on/Visualization 
+X:: [[R]]
 
 ## Empirical Cumulative Distribution Function eCDF
 
@@ -21,6 +21,8 @@ heights |>
 ---
 
 ### Reference
+
+[[Introduction to Data Science]]
 
 [12 Summary Statistics](https://biscotty666.github.io/Data-Science-R-PH125x/docs/Pt12.html#empirical-cumulative-distribution-functions)
 

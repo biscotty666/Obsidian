@@ -1,6 +1,6 @@
 up:: [[Probability and Statistics]]
-tags:: #note/reference #on/PnS 
-X:: [[Introduction to Data Science]]
+tags:: #note/reference #on/Statistics 
+X:: [[Introduction to Data Science]] 
 
 ## Quantiles, Quartiles, Percentiles
 

@@ -1,5 +1,5 @@
 up::  [[Data Visualization]]
-tags:: #source/book #note/reference #on/PnS 
+tags:: #source/book #note/reference #on/Visualization 
 X:: [[Random variables]] [[dnorm, pnorm, qnorm, rnorm]]
 
 ## Visualize the probability density of a random variable

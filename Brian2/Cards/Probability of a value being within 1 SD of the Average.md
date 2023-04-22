@@ -1,5 +1,5 @@
 up:: [[Probability and Statistics]]
-tags:: #note/reference #on/PnS 
+tags:: #note/reference #on/Probability 
 X:: 
 
 ## Probability of a value being within 1 SD of the Average

@@ -1,5 +1,5 @@
 up:: [[Probability and Statistics]]
-tags:: #source/book #note/reference
+tags:: #source/book #note/reference #on/Statistics 
 X:: [[Case study self-reported student heights]] [[Introduction to Data Science]]
 
 ## Outliers

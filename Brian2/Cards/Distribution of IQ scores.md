@@ -1,5 +1,5 @@
 up:: [[Probability and Statistics]]
-tags:: #source/book #note/reference
+tags:: #source/book #note/reference #on/Statistics 
 X:: [[R]] [[Introduction to Data Science]]
 
 ## Distribution of IQ scores

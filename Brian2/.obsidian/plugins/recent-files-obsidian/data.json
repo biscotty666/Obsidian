@@ -1,104 +1,140 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-04-20.excalidraw",
-      "path": "Calendar/Daily Notes/Drawings/2023-04-20.excalidraw.md"
-    },
-    {
-      "basename": "2023-04-20",
-      "path": "Calendar/Daily Notes/2023-04-20.md"
-    },
-    {
-      "basename": "Study Log",
-      "path": "Calendar/Logs/Study Log.md"
-    },
-    {
-      "basename": "Random variables and the binomial distribution",
-      "path": "+ Encounters/Random variables and the binomial distribution.md"
-    },
-    {
-      "basename": "Random variables",
-      "path": "Cards/Random variables.md"
-    },
-    {
-      "basename": "Sampling models - Casino roulette winnings",
-      "path": "Cards/Sampling models - Casino roulette winnings.md"
-    },
-    {
-      "basename": "Probability distribution of random variables",
-      "path": "Cards/Probability distribution of random variables.md"
-    },
-    {
-      "basename": "Expected Value and Standard Error",
-      "path": "Cards/Expected Value and Standard Error.md"
-    },
-    {
-      "basename": "Expected Value",
-      "path": "Cards/Expected Value.md"
-    },
-    {
-      "basename": "Distributions vs Probability Distributions",
-      "path": "+ Encounters/Distributions vs Probability Distributions.md"
-    },
-    {
-      "basename": "Visualize the probability density of a random variable",
-      "path": "+ Encounters/Visualize the probability density of a random variable.md"
-    },
-    {
-      "basename": "Piano Log",
-      "path": "Calendar/Logs/Piano Log.md"
-    },
-    {
-      "basename": "Probability Density",
-      "path": "Cards/Probability Density.md"
+      "basename": "Probability and Statistics",
+      "path": "Atlas/Probability and Statistics.md"
     },
     {
       "basename": "PnS Note",
       "path": "Extras/Templates/PnS Note.md"
     },
     {
-      "basename": "PnS Note 1",
-      "path": "Extras/Templates/PnS Note 1.md"
+      "basename": "Central Limit Theorem",
+      "path": "Cards/Central Limit Theorem.md"
     },
     {
-      "basename": "Flow Map",
-      "path": "Cards/Flow Map.md"
+      "basename": "Calculated SD vs sd function",
+      "path": "Cards/Calculated SD vs sd function.md"
     },
     {
-      "basename": "R",
-      "path": "Atlas/R.md"
+      "basename": "2023-04-21.excalidraw",
+      "path": "Calendar/Daily Notes/Drawings/2023-04-21.excalidraw.md"
     },
     {
-      "basename": "How many simulations do we need",
-      "path": "Cards/How many simulations do we need.md"
+      "basename": "2023-04-21",
+      "path": "Calendar/Daily Notes/2023-04-21.md"
     },
     {
-      "basename": "Dataview query for backlinks",
-      "path": "+ Encounters/Dataview query for backlinks.md"
+      "basename": "Data Visualization",
+      "path": "Atlas/Data Visualization.md"
     },
     {
-      "basename": "Data Science",
-      "path": "Atlas/Data Science.md"
+      "basename": "excalibrain",
+      "path": "excalibrain.md"
     },
     {
-      "basename": "Probability and Statistics",
-      "path": "Atlas/Probability and Statistics.md"
+      "basename": "New one",
+      "path": "Extras/Canvases/New one.canvas"
     },
     {
-      "basename": "Untitled",
-      "path": "+ Encounters/Untitled.md"
+      "basename": "Create a list of possible outcomes in R",
+      "path": "Cards/Create a list of possible outcomes in R.md"
     },
     {
-      "basename": "Box and Whiskers Plot",
-      "path": "Atlas/Box and Whiskers Plot.md"
+      "basename": "Combinations of multiple choices",
+      "path": "Cards/Combinations of multiple choices.md"
     },
     {
-      "basename": "Exercise Log",
-      "path": "Calendar/Logs/Exercise Log.md"
+      "basename": "Highest IQ",
+      "path": "Cards/Highest IQ.md"
     },
     {
-      "basename": "Technology",
-      "path": "Atlas/Technology.md"
+      "basename": "Stratification",
+      "path": "Cards/Stratification.md"
+    },
+    {
+      "basename": "Z-score or Standard Units",
+      "path": "Cards/Z-score or Standard Units.md"
+    },
+    {
+      "basename": "The 68-95-99.7",
+      "path": "Cards/The 68-95-99.7.md"
+    },
+    {
+      "basename": "Visualize the probability density of a random variable",
+      "path": "+ Encounters/Visualize the probability density of a random variable.md"
+    },
+    {
+      "basename": "Standard Deviation",
+      "path": "Cards/Standard Deviation.md"
+    },
+    {
+      "basename": "Smooth Density",
+      "path": "Cards/Smooth Density.md"
+    },
+    {
+      "basename": "Show proportion for each category",
+      "path": "Cards/Show proportion for each category.md"
+    },
+    {
+      "basename": "Show a slice of a smooth density plot",
+      "path": "Cards/Show a slice of a smooth density plot.md"
+    },
+    {
+      "basename": "Outliers",
+      "path": "Cards/Outliers.md"
+    },
+    {
+      "basename": "Sampling models",
+      "path": "Cards/Sampling models.md"
+    },
+    {
+      "basename": "Random variables",
+      "path": "Cards/Random variables.md"
+    },
+    {
+      "basename": "Quantiles, Quartiles, Percentiles",
+      "path": "Cards/Quantiles, Quartiles, Percentiles.md"
+    },
+    {
+      "basename": "Quantile-quantile plots",
+      "path": "Cards/Quantile-quantile plots.md"
+    },
+    {
+      "basename": "Probability that data lies within a given range",
+      "path": "Cards/Probability that data lies within a given range.md"
+    },
+    {
+      "basename": "Probability of a value being within 1 SD of the Average",
+      "path": "Cards/Probability of a value being within 1 SD of the Average.md"
+    },
+    {
+      "basename": "Probability distribution of random variables",
+      "path": "Cards/Probability distribution of random variables.md"
+    },
+    {
+      "basename": "Probability density function",
+      "path": "Cards/Probability density function.md"
+    },
+    {
+      "basename": "Probability Cheatsheet",
+      "path": "Cards/Probability Cheatsheet.md"
+    },
+    {
+      "basename": "Normal Distribution",
+      "path": "Cards/Normal Distribution.md"
+    },
+    {
+      "basename": "Multiplication Rule",
+      "path": "Cards/Multiplication Rule.md"
+    },
+    {
+      "basename": "Monty Hall Problem",
+      "path": "Cards/Monty Hall Problem.md"
+    },
+    {
+      "basename": "Monte Carlo Simulation for continuous variables",
+      "path": "Cards/Monte Carlo Simulation for continuous variables.md"
     },
     {
       "basename": "Monte Carlo Simulation",
@@ -109,96 +145,60 @@
       "path": "Cards/Let's Make a Deal.md"
     },
     {
-      "basename": "A load of Python related cheat sheets",
-      "path": "Cards/A load of Python related cheat sheets.md"
+      "basename": "Expected Value Roulette",
+      "path": "Cards/Expected Value Roulette.md"
     },
     {
-      "basename": "Time Series Forecasting Wind Power",
-      "path": "Sources/Time Series Forecasting Wind Power.md"
-    },
-    {
-      "basename": "The Birthday Problem",
-      "path": "Cards/The Birthday Problem.md"
-    },
-    {
-      "basename": "Mastering the Fundamentals of Statistics for Data Science -Basic to Advance Level- Part 1",
-      "path": "Sources/Mastering the Fundamentals of Statistics for Data Science -Basic to Advance Level- Part 1.md"
-    },
-    {
-      "basename": "Multiplication Rule",
-      "path": "Cards/Multiplication Rule.md"
-    },
-    {
-      "basename": "Difference between a histogram and a bar plot",
-      "path": "Cards/Difference between a histogram and a bar plot.md"
-    },
-    {
-      "basename": "Central Limit Theorem",
-      "path": "Cards/Central Limit Theorem.md"
+      "basename": "Celtics and Cavs",
+      "path": "Cards/Celtics and Cavs.md"
     },
     {
       "basename": "Case study self-reported student heights",
       "path": "Cards/Case study self-reported student heights.md"
     },
     {
-      "basename": "Outliers",
-      "path": "Cards/Outliers.md"
-    },
-    {
-      "basename": "Distribution of IQ scores",
-      "path": "Cards/Distribution of IQ scores.md"
-    },
-    {
-      "basename": "Show a slice of a smooth density plot",
-      "path": "Cards/Show a slice of a smooth density plot.md"
-    },
-    {
-      "basename": "Show proportion for each category",
-      "path": "Cards/Show proportion for each category.md"
-    },
-    {
-      "basename": "Smooth Density",
-      "path": "Cards/Smooth Density.md"
-    },
-    {
-      "basename": "Combinations of multiple choices",
-      "path": "Cards/Combinations of multiple choices.md"
-    },
-    {
-      "basename": "Addition Rule",
-      "path": "Cards/Addition Rule.md"
-    },
-    {
       "basename": "Inter Quartile Range (IQR)",
       "path": "Cards/Inter Quartile Range (IQR).md"
     },
     {
-      "basename": "Data Visualization",
-      "path": "Atlas/Data Visualization.md"
-    },
-    {
-      "basename": "Forecasting",
-      "path": "Extras/Excalidraw/Forecasting.md"
-    },
-    {
-      "basename": "2023-04-19.excalidraw",
-      "path": "Calendar/Daily Notes/Drawings/2023-04-19.excalidraw.md"
-    },
-    {
-      "basename": "Sampling models",
-      "path": "Cards/Sampling models.md"
+      "basename": "Gamma distribution",
+      "path": "Cards/Gamma distribution.md"
     },
     {
       "basename": "Empirical Cumulative Distribution Function",
       "path": "Cards/Empirical Cumulative Distribution Function.md"
     },
     {
-      "basename": "dnorm, pnorm, qnorm, rnorm",
-      "path": "Cards/dnorm, pnorm, qnorm, rnorm.md"
+      "basename": "Expected Value and Standard Error",
+      "path": "Cards/Expected Value and Standard Error.md"
     },
     {
-      "basename": "Determine proportion of data below a certain value",
-      "path": "Cards/Determine proportion of data below a certain value.md"
+      "basename": "Distributions vs Probability Distributions",
+      "path": "+ Encounters/Distributions vs Probability Distributions.md"
+    },
+    {
+      "basename": "Difference between a histogram and a bar plot",
+      "path": "Cards/Difference between a histogram and a bar plot.md"
+    },
+    {
+      "basename": "Box and Whiskers Plot",
+      "path": "Atlas/Box and Whiskers Plot.md"
+    },
+    {
+      "basename": "Distribution of IQ scores",
+      "path": "Cards/Distribution of IQ scores.md"
+    },
+    {
+      "basename": "Calculate the probability of a natural 21 with a Monte Carlo simulation",
+      "path": "Cards/Calculate the probability of a natural 21 with a Monte Carlo simulation.md"
+    },
+    {
+      "basename": "Conditional Probabilities",
+      "path": "Cards/Conditional Probabilities.md"
+    },
+    {
+      "basename": "Addition Rule",
+      "path": "Cards/Addition Rule.md"
     }
   ],
   "omittedPaths": [],

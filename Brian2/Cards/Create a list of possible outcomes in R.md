@@ -1,6 +1,6 @@
 up:: [[R]]
-tags:: #note/reference #on/R #on/PnS 
-X:: 
+tags:: #note/reference #on/R #on/Probability 
+X:: [[Probability and Statistics]]
 
 ## Create a list of possible outcomes in R
 

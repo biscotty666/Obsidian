@@ -1,5 +1,5 @@
 up:: [[Probability and Statistics]]
-tags:: #source/book #note/reference #on/PnS #on/R 
+tags:: #source/book #note/reference #on/Probability  #on/R 
 X:: [[R]]  [[Introduction to Data Science]]
 
 ## Monty Hall Problem

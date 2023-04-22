@@ -2,8 +2,8 @@
 same: [[R]]
 ---
 up:: [[Probability and Statistics]]
-tags:: #source/book #note/reference
-X:: [[Introduction to Data Science]]
+tags:: #source/book #note/reference #on/Probability 
+X:: [[Introduction to Data Science]] [[R]]
 
 ## Conditional Probabilities
 

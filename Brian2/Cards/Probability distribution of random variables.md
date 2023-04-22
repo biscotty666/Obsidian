@@ -1,5 +1,5 @@
 up::  [[Random variables]]
-tags:: #source/book #note/reference #on/PnS 
+tags:: #source/book #note/reference #on/Probability 
 X:: 
 
 ## Probability distribution of random variables
@@ -28,6 +28,8 @@ mean(S < 0)
 ```
 
 We can now [[Visualize the probability density of a random variable]].
+
+
 
 ---
 

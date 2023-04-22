@@ -1,5 +1,5 @@
 up:: [[Probability and Statistics]]
-tags:: #note/reference  #on/PnS 
+tags:: #note/reference  #on/Statistics 
 X:: [[Introduction to Data Science]]
 
 ## Z-score or Standard Units
