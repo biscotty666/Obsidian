@@ -1,5 +1,5 @@
 up:: [[Latex]]
-tags:: #source/video #source/course
+tags:: #source/video #source/course #to/watch 
 
 # Latex Tutorial Video
 

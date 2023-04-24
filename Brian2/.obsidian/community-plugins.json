@@ -14,8 +14,6 @@
   "nldates-obsidian",
   "obsidian-hover-editor",
   "obsidian-auto-link-title",
-  "excalibrain",
-  "obsidian-excalidraw-plugin",
   "templater-obsidian",
   "obsidian-advanced-slides",
   "obsidian-tasks-plugin",
@@ -26,5 +24,7 @@
   "obsidian-local-rest-api",
   "obsidian-projects",
   "table-editor-obsidian",
-  "breadcrumbs"
+  "breadcrumbs",
+  "excalibrain",
+  "obsidian-excalidraw-plugin"
 ]

@@ -1,5 +1,5 @@
 up:: [[Obsidian]]
-tags:: #source/article #on/Training
+tags:: #source/article #on/Training #on/Obsidian 
 
 # Beginners Guide to Dataview
 

@@ -1,5 +1,5 @@
 up:: [[Data Visualization]]
-tags:: #source/internet #resources #on/DataVisualization 
+tags:: #source/internet #resources #on/DataVisualization #to/read
 X:: 
 
 ## Financial Data Visualization Widgets

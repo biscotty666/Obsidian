@@ -1,5 +1,5 @@
 up:: [[Zettelkasten]]
-tags:: #source/video 
+tags:: #source/video #on/PKM #on/Zettelkasten 
 X:: [[Obsidian]]
 
 # Obsidian Zettelkasten Note Taking

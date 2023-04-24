@@ -8,57 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4d31b24eab445626",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Calendar/Daily Notes/Drawings/2023-04-21.excalidraw.md"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "2dadde68786c090a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "2023-04-20.excalidraw",
-                  "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"Calendar/Daily Notes/Drawings/2023-04-20.excalidraw.md\"}}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/Daily Notes/2023-04-21.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "2669b73dec08ab89",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -91,12 +40,6 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Expected Value and Standard Error",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Expected Value and Standard Error.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":0}"
                 }
               ]
             },
@@ -111,9 +54,69 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "8255be338013bc48",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "2023-W16",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Weekly Notes/2023-W16.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":201},\"to\":{\"line\":6,\"ch\":201}},\"scroll\":0}"
+                },
+                {
+                  "title": "2023-04-23",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Daily Notes/2023-04-23.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "2023-W16",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Weekly Notes/2023-W16.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":12.168619791666666}"
+                },
+                {
+                  "title": "2023-04-18",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Daily Notes/2023-04-18.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "2023-04-17",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Daily Notes/2023-04-17.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":3.5833333333333335}"
+                },
+                {
+                  "title": "2023-W16",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Weekly Notes/2023-W16.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":20},\"to\":{\"line\":15,\"ch\":20}},\"scroll\":3.396484375}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Daily Notes/2023-04-24.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,13 +206,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -255,7 +256,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Atlas/Probability and Statistics.md",
+                "file": "Calendar/Daily Notes/2023-04-24.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -321,59 +322,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/Probability and Statistics.md"
+                "file": "Calendar/Daily Notes/2023-04-24.md"
               }
-            }
-          },
-          {
-            "id": "1dc0cb1cebc39098",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "2e70e60a0419bb09",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "85258f9f6505c276",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "BC-tree",
-              "state": {}
             }
           },
           {
@@ -392,9 +342,60 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "a6092d768a4de5fb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4eda45eefa34f940",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d0758e2c709544eb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "cc261747cbab30f2",
@@ -416,7 +417,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/Probability and Statistics.md",
+                "file": "Calendar/Daily Notes/2023-04-24.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -442,7 +443,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/Probability and Statistics.md",
+                "file": "Calendar/Daily Notes/2023-04-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -452,70 +453,66 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 451.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open today's daily note": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
+      "periodic-notes:Open today's daily note": false,
       "templater-obsidian:Templater": false,
-      "obsidian-projects:Open projects": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-projects:Open projects": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "1f0d52ddf552d22d",
-  "ophidian:layout-settings": {
-    "pane-relief:focus-lock": false
-  },
+  "active": "8255be338013bc48",
   "lastOpenFiles": [
-    "Extras/Templates/PnS Note.md",
-    "Atlas/Probability and Statistics.md",
-    "Cards/Central Limit Theorem.md",
-    "Cards/Calculated SD vs sd function.md",
+    "Calendar/Weekly Notes/2023-W16.md",
+    "Calendar/Daily Notes/Drawings/2023-04-18.excalidraw.md",
+    "Calendar/Daily Notes/Drawings/2023-04-19.excalidraw.md",
+    "Calendar/Daily Notes/Drawings/2023-04-20.excalidraw.md",
     "Calendar/Daily Notes/Drawings/2023-04-21.excalidraw.md",
-    "Extras/Excalidraw/Saraswati.md",
-    "Calendar/Daily Notes/2023-04-21.md",
+    "Calendar/Daily Notes/2023-04-24.md",
+    "Calendar/Daily Notes/Drawings/2023-04-23.excalidraw.md",
+    "Calendar/Daily Notes/Drawings/2023-04-23.excalidraw.svg",
+    "Calendar/Daily Notes/Drawings/2023-04-23.excalidraw.png",
+    "Calendar/Logs/Piano Log.md",
+    "Calendar/Logs/Study Log.md",
+    "Calendar/Logs/Exercise Log.md",
+    "Calendar/Daily Notes/2023-04-23.md",
+    "Calendar/Daily Notes/2023-04-18.md",
+    "Calendar/Daily Notes/2023-04-17.md",
+    "Atlas/Probability and Statistics.md",
+    "Calendar/Daily Notes/2023-04-22.md",
+    "Cards/Visualize the probability density of a random variable.md",
     "Atlas/Data Visualization.md",
-    "Extras/Excalidraw/Machine Learning.md",
+    "+ Encounters/TSA coffee prices.md",
+    "Cards/The Big Short Pt 2.md",
+    "Cards/Statistical properties of averages.md",
+    "+ Encounters/Random variables and the binomial distribution.md",
+    "+ Encounters/Python statistics.md",
+    "Cards/Law of Averages aka Law of Large Numbers.md",
+    "+ Encounters/GitHub credential configuration.md",
+    "Cards/floor and ceiling in R.md",
+    "Cards/Distributions vs Probability Distributions.md",
+    "Extras/Images/Pasted image 20230423220017.png",
+    "Extras/Images/Pasted image 20230423123450.png",
     "Calendar/Daily Notes/Drawings/2023-04-21.excalidraw.png",
     "Calendar/Daily Notes/Drawings/2023-04-21.excalidraw.svg",
-    "excalibrain.md",
-    "Cards/Monte Carlo Simulation for continuous variables.md",
-    "Cards/Determine proportions for categorical data.md",
     "Extras/Canvases/New one.canvas",
-    "Atlas/Python.md",
-    "Cards/Create a list of possible outcomes in R.md",
-    "Cards/Combinations of multiple choices.md",
-    "Cards/Highest IQ.md",
-    "Cards/The Birthday Problem.md",
-    "Cards/Stratification.md",
-    "Cards/Z-score or Standard Units.md",
-    "Cards/The 68-95-99.7.md",
-    "+ Encounters/Visualize the probability density of a random variable.md",
-    "Cards/Standard Deviation.md",
-    "Cards/Smooth Density.md",
-    "Cards/Show proportion for each category.md",
-    "Cards/Show a slice of a smooth density plot.md",
-    "Cards/Outliers.md",
     "Extras/Images/Pasted image 20230420220607.png",
     "Calendar/Daily Notes/Drawings/2023-04-20.excalidraw.png",
     "Calendar/Daily Notes/Drawings/2023-04-20.excalidraw.svg",
     "Extras/Images/Pasted image 20230419214311.png",
-    "Extras/Images/Pasted image 20230419213710.png",
-    "Extras/Images/Pasted image 20230419213703.png",
-    "Extras/Images/Pasted image 20230419211006.png",
-    "Extras/Images/Pasted image 20230419210956.png",
     "Calendar/Daily Notes/Drawings",
     "Extras/Canvases/Untitled 1.canvas",
     "Extras/Canvases/Untitled 1.excalidraw.canvas",

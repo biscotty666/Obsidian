@@ -1,5 +1,5 @@
 up:: [[PKM]]
-tags:: #map #concept 
+tags:: #map #on/PKM #on/Obsidian 
 Library:: 000
 
 # Zettelkasten

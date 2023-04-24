@@ -28,6 +28,7 @@ Introduction to Data Science
 - [[Calculated SD vs sd function]]
 - [[Quantiles, Quartiles, Percentiles]]
 - [[Standard Deviation]]
+- [[Statistical properties of averages]]
 - [[Stratification]]
 - [[The 68-95-99.7]]
 - [[Z-score or Standard Units]]
@@ -38,6 +39,7 @@ Introduction to Data Science
 - [[Conditional Probabilities]]
 - [[Distributions vs Probability Distributions]]
 - [[Expected Value and Standard Error]]
+- [[Law of Averages aka Law of Large Numbers]]
 - [[Monte Carlo Simulation]]
 - [[Multiplication Rule]]
 - [[Probability density function]]
@@ -51,6 +53,7 @@ Introduction to Data Science
 - [[Combinations of multiple choices]]
 - [[Create a list of possible outcomes in R]]
 - [[Determine proportions for categorical data]]
+- [[Determine proportion of data below a certain value]]
 - [[Determine the value at a certain percentile]]
 - [[Monte Carlo Simulation for continuous variables]]
 - [[Probability Cheatsheet]]
@@ -69,6 +72,8 @@ Introduction to Data Science
 - [[Let's Make a Deal]]
 - [[Monty Hall Problem]]
 - [[The Birthday Problem]]
+- [[The Big Short interest rate case study Pt. 1]]
+- [[The Big Short Pt 2]]
 
 ## Visualization
 

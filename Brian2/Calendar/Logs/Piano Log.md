@@ -3,6 +3,7 @@ up: [[Logs]]
 type: log
 related: [[Music]]
 ---
+tags:: #on/Music 
 X:: [[Music]]
 
 # Piano Practice Log

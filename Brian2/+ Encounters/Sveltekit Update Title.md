@@ -1,5 +1,5 @@
 up::
-tags:: #note/boat🚤 
+tags:: #note/boat🚤 #on/Svelte 
 X:: 
 
 ## Sveltekit Update Title

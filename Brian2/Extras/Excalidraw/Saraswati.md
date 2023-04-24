@@ -1,5 +1,5 @@
 up::
-tags:: #note/boat🚤 
+tags:: #note/boat🚤 #on/Philosophy
 X:: 
 
 ## Saraswati

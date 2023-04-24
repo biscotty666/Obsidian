@@ -1,5 +1,5 @@
 up:: [[Zettelkasten]]
-tags:: #source/video 
+tags:: #source/video #on/Obsidian 
 X:: [[Obsidian]]
 
 # Obsidian Zettelkasten Youtube video Kirsanov

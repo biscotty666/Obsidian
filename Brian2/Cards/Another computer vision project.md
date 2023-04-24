@@ -1,5 +1,5 @@
 up:: [[Machine Learning]]
-tags:: #note/investigate🔎  #source/article #on/ML
+tags:: #note/investigate🔎  #source/article #on/ML #to/read
 X:: 
 Priority:: Low
 

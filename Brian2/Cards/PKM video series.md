@@ -1,5 +1,5 @@
 up:: [[PKM]]
-tags:: #source/video #on/PKM 
+tags:: #source/video #on/PKM #to/watch 
 X:: 
 
 ### PKM video series

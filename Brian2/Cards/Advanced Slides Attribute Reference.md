@@ -1,5 +1,5 @@
 up:: [[Obsidian Slides Plugin]]
-tags:: #note/reference  #source/documentation 
+tags:: #note/reference  #source/documentation #on/Obsidian 
 X:: 
 
 ## Advanced Slides Attribute Reference

@@ -1,5 +1,5 @@
 up::
-tags:: #note/boat🚤 
+tags:: #note/boat🚤 #to/watch
 X:: 
 
 ## SvelteKit Course

@@ -7,6 +7,7 @@ Library:: 600
 
 - [[Box and Whiskers Plot]]
 - [[Difference between a histogram and a bar plot]]
+- [[Visualize the probability density of a random variable]]
 
 
 
