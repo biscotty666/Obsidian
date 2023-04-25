@@ -1,24 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-04-03",
+      "path": "Calendar/Daily Notes/Notes/2023-04-03.md"
+    },
+    {
+      "basename": "2023-04-25",
+      "path": "Calendar/Daily Notes/Notes/2023-04-25.md"
+    },
+    {
+      "basename": "2023-03-25",
+      "path": "Calendar/Daily Notes/Notes/2023-03-25.md"
+    },
+    {
+      "basename": "2023-04-25.excalidraw",
+      "path": "Calendar/Daily Notes/Drawings/2023-04-25.excalidraw.md"
+    },
+    {
       "basename": "Probability and Statistics",
       "path": "Atlas/Probability and Statistics.md"
     },
     {
+      "basename": "2023-04-24",
+      "path": "Calendar/Daily Notes/Notes/2023-04-24.md"
+    },
+    {
+      "basename": "2023-04-24.excalidraw",
+      "path": "Calendar/Daily Notes/Drawings/2023-04-24.excalidraw.md"
+    },
+    {
+      "basename": "Study Log",
+      "path": "Calendar/Logs/Study Log.md"
+    },
+    {
+      "basename": "Domestic Log",
+      "path": "Calendar/Logs/Domestic Log.md"
+    },
+    {
+      "basename": "Statistical inference and descriptive statistics",
+      "path": "+ Encounters/Statistical inference and descriptive statistics.md"
+    },
+    {
+      "basename": "Set or query graphical parameters",
+      "path": "+ Encounters/Set or query graphical parameters.md"
+    },
+    {
+      "basename": "Plot standard error vs sample size",
+      "path": "+ Encounters/Plot standard error vs sample size.md"
+    },
+    {
+      "basename": "R Note",
+      "path": "Extras/Templates/R Note.md"
+    },
+    {
+      "basename": "C15",
+      "path": "Extras/Templates/C15.md"
+    },
+    {
+      "basename": "Technology",
+      "path": "Atlas/Technology.md"
+    },
+    {
       "basename": "2023-W16",
       "path": "Calendar/Weekly Notes/2023-W16.md"
-    },
-    {
-      "basename": "2023-04-23",
-      "path": "Calendar/Daily Notes/2023-04-23.md"
-    },
-    {
-      "basename": "Spinning obsidian logo",
-      "path": "+ Encounters/Spinning obsidian logo.md"
-    },
-    {
-      "basename": "2023-04-24",
-      "path": "Calendar/Daily Notes/2023-04-24.md"
     },
     {
       "basename": "2023-04-18.excalidraw",
@@ -45,24 +89,24 @@
       "path": "Calendar/Logs/Piano Log.md"
     },
     {
-      "basename": "Study Log",
-      "path": "Calendar/Logs/Study Log.md"
-    },
-    {
       "basename": "Exercise Log",
       "path": "Calendar/Logs/Exercise Log.md"
     },
     {
+      "basename": "2023-04-23",
+      "path": "Calendar/Daily Notes/Notes/2023-04-23.md"
+    },
+    {
       "basename": "2023-04-18",
-      "path": "Calendar/Daily Notes/2023-04-18.md"
+      "path": "Calendar/Daily Notes/Notes/2023-04-18.md"
     },
     {
       "basename": "2023-04-17",
-      "path": "Calendar/Daily Notes/2023-04-17.md"
+      "path": "Calendar/Daily Notes/Notes/2023-04-17.md"
     },
     {
       "basename": "2023-04-22",
-      "path": "Calendar/Daily Notes/2023-04-22.md"
+      "path": "Calendar/Daily Notes/Notes/2023-04-22.md"
     },
     {
       "basename": "Visualize the probability density of a random variable",
@@ -126,7 +170,7 @@
     },
     {
       "basename": "2023-04-21",
-      "path": "Calendar/Daily Notes/2023-04-21.md"
+      "path": "Calendar/Daily Notes/Notes/2023-04-21.md"
     },
     {
       "basename": "Fedora install",
@@ -147,58 +191,6 @@
     {
       "basename": "excalibrain",
       "path": "excalibrain.md"
-    },
-    {
-      "basename": "Bash Scripting Tutorial",
-      "path": "Sources/Bash Scripting Tutorial.md"
-    },
-    {
-      "basename": "Latex Tutorial Video",
-      "path": "Sources/Latex Tutorial Video.md"
-    },
-    {
-      "basename": "Financial Data Visualization Widgets",
-      "path": "Cards/Financial Data Visualization Widgets.md"
-    },
-    {
-      "basename": "Advanced Slides Attribute Reference",
-      "path": "Cards/Advanced Slides Attribute Reference.md"
-    },
-    {
-      "basename": "Date String Formats",
-      "path": "Sources/Date String Formats.md"
-    },
-    {
-      "basename": "2023-W13",
-      "path": "Calendar/Weekly Notes/2023-W13.md"
-    },
-    {
-      "basename": "Obsidian Zettelkasten Youtube video Kirsanov",
-      "path": "Sources/Obsidian Zettelkasten Youtube video Kirsanov.md"
-    },
-    {
-      "basename": "Beginners Guide to Dataview",
-      "path": "Cards/Beginners Guide to Dataview.md"
-    },
-    {
-      "basename": "Obsidian Zettelkasten Note Taking",
-      "path": "Sources/Obsidian Zettelkasten Note Taking.md"
-    },
-    {
-      "basename": "Guiding Values of PKM",
-      "path": "Cards/Guiding Values of PKM.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
-      "basename": "PKM video series",
-      "path": "Cards/PKM video series.md"
-    },
-    {
-      "basename": "Another computer vision project",
-      "path": "Cards/Another computer vision project.md"
     }
   ],
   "omittedPaths": [],

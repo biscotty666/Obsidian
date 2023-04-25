@@ -168,7 +168,7 @@ Thoth ^jLFv2vnh
 
 [[Calendar/Daily Notes/Drawings/2023-04-21.excalidraw.md]] ^bkQoX4Bd
 
-[[Calendar/Daily Notes/2023-04-21.md]] ^XkyqEG1C
+[[2023-04-21]] ^XkyqEG1C
 
 [[Atlas/Data Visualization.md]] ^dh5DyK8L
 
