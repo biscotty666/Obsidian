@@ -4,12 +4,8 @@ same: [[Introduction to Data Science]]
 Library: 600
 ---
 up:: [[Data Science]]
-tags:: #on/PnS #map 
-X:: [[Data Visualization]]
-
-
-Introduction to Data Science
-
+tags:: #map 
+related:: [[Data Visualization]]
 
 # Probability and Statistics
 
@@ -37,7 +33,9 @@ Introduction to Data Science
 
 - [[Addition Rule]]
 - [[Conditional Probabilities]]
+- [[Continuous variables with exponential distribution]]
 - [[Distributions vs Probability Distributions]]
+- [[Expected value for continuous variables exponential distribution]]
 - [[Expected Value and Standard Error]]
 - [[Law of Averages aka Law of Large Numbers]]
 - [[Monte Carlo Simulation]]
@@ -46,7 +44,7 @@ Introduction to Data Science
 - [[Probability distribution of random variables]]
 - [[Random variables]]
 - [[Sampling models]]
-
+- [[Standard normal variable Z]]
 
 ## How to?
 

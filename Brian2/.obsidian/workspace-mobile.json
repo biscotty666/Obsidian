@@ -21,7 +21,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Atlas/Probability and Statistics.md",
+                        "file": "+ Encounters/Fedora Nvidia.md",
                         "mode": "source",
                         "backlinks": false,
                         "source": false
@@ -41,7 +41,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Atlas/Probability and Statistics.md",
+                        "file": "+ Encounters/Fedora Nvidia.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -83,7 +83,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Atlas/Probability and Statistics.md",
+                        "file": "+ Encounters/Fedora Nvidia.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -207,7 +207,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Atlas/Probability and Statistics.md",
+            "file": "+ Encounters/Fedora Nvidia.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -224,7 +224,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Atlas/Probability and Statistics.md",
+            "file": "+ Encounters/Fedora Nvidia.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -236,7 +236,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Atlas/Probability and Statistics.md"
+            "file": "+ Encounters/Fedora Nvidia.md"
           }
         }
       },
@@ -279,6 +279,15 @@
   },
   "active": "a44390eb6cbdf424",
   "lastOpenFiles": [
+    "+ Encounters/Statquest Expected Value.md",
+    "+ Encounters/Fedora Nvidia.md",
+    "+ Encounters/Local first software.md",
+    "+ Encounters/Climate Wave forecasting.sync-conflict-20230425-094929-BBO7X7A.md",
+    "+ Encounters/Reddit client in Svelte.md",
+    "+ Encounters/Climate Wave forecasting.md",
+    "+ Encounters/Sveltekit short course.md",
+    "+ Encounters/React router course.md",
+    "Atlas/Probability and Statistics.md",
     "Calendar/Weekly Notes/2023-W16.md",
     "Calendar/Daily Notes/2023-04-23.md",
     "+ Encounters/Spinning obsidian logo.md",
@@ -297,15 +306,6 @@
     "+ Encounters/Sun Tsu Proverbs.md",
     "+ Encounters/Obsidian Canvas Video.md",
     "+ Encounters/Purrr video.md",
-    "+ Encounters/A load of cheat sheets.sync-conflict-20230413-214507-HSJIBKW.md",
-    "+ Encounters/Obsidian Projects.md",
-    "+ Encounters/A load of cheat sheets.md",
-    "+ Encounters/Dataview deep dive.md",
-    "+ Encounters/Dataview deep dive.sync-conflict-20230413-172000-BBO7X7A.md",
-    "+ Encounters/Http course.md",
-    "Calendar/Daily Notes/2023-04-13.md",
-    "+ Encounters/Example of TSA workflow.md",
-    "Calendar/Daily Notes/2023-04-08.md",
     "Calendar/2022",
     "Extras/Images/Pasted image 20230401103803.jpg",
     "Extras/Canvases/Obsidian and PKM Class Overview.canvas",

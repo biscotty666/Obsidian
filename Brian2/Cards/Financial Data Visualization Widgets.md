@@ -1,6 +1,6 @@
 up:: [[Data Visualization]]
-tags:: #source/internet #resources #on/DataVisualization #to/read
-X:: 
+tags:: #on/DataVisualization  #source/internet #to/read
+Priority:: 2
 
 ## Financial Data Visualization Widgets
 

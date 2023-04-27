@@ -1,5 +1,5 @@
-up:: [[Reading and video list]]
-tags:: #source/video #to/watch 
+up:: [[Obsidian]]
+tags:: #source/video #to/watch #on/Obsidian 
 Priority:: 3
 
 Obsidian Excalidraw

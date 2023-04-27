@@ -1,4 +1,4 @@
-up:: [[Reading and video list]]
+up:: [[Obsidian]]
 tags:: #to/watch #source/video #on/Obsidian  
 Priority:: 3
 

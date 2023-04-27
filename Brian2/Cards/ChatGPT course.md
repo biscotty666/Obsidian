@@ -1,6 +1,6 @@
 up:: [[Reading and video list]]
-tags:: #to/watch 
-Priority:: 1
+tags:: #to/watch #on/GPT
+Priority:: 3
 
 ## ChatGPT course
 

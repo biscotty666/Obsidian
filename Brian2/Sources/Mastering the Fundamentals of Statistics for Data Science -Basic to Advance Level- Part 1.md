@@ -1,5 +1,6 @@
 up:: [[Probability and Statistics]]
-tags:: #source/article #to/read 
+tags:: #on/DataScience  #source/book  #to/read 
+Priority:: 1
 
 # Mastering the Fundamentals of Statistics for Data Science -Basic to Advance Level- Part 1
 

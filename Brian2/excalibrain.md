@@ -172,7 +172,7 @@ Thoth ^jLFv2vnh
 
 [[Atlas/Data Visualization.md]] ^dh5DyK8L
 
-[[Extras/Excalidraw/Forecasting.md]] ^UIURKwjC
+[[Forecasting]] ^UIURKwjC
 
 [[Extras/Excalidraw/Hestia.md]] ^nDkjAFpm
 

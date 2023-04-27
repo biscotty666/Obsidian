@@ -1,6 +1,6 @@
 up:: [[Linux]]
 tags:: #source/video #on/Training #on/Linux #to/watch 
-X:: 
+Priority:: 3
 
 ### Bash Scripting Tutorial
 

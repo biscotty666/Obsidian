@@ -34,9 +34,9 @@ tags:: #log/journal #note/daily
 
 - Go outside
 
-#### Cooking Log
+#### Domestic Log
 
-- What's cookin'
+- Something for the house
 
 
 ### Reflections
@@ -44,9 +44,6 @@ tags:: #log/journal #note/daily
 - Any thoughts or insights
 
 ### Tasks
-
-##### New
-
 
 ##### Overdue
 

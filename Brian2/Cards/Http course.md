@@ -1,6 +1,6 @@
-up:: [[Reading and video list]]
-tags:: #to/watch #on/infrastructure
-Priority:: 2
+up:: [[Technology]]
+tags:: #to/watch #on/infrastructure #on/infrastructure 
+Priority:: 3
 
 ## Http course
 

@@ -1,6 +1,6 @@
-up:: [[Reading and video list]]
-tags:: #on/infrastructure #source/video #to/watch 
-Priority:: 3
+up:: [[Data Science]]
+tags:: #on/DataScience  #source/video #to/watch 
+Priority:: 2
 
 ## IBM data analytics video
 

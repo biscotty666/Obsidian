@@ -1,4 +1,4 @@
-up:: [[Reading and video list]]
+up:: [[Mathematics]] 
 tags:: #source/video #to/watch #on/Mathematics
 Priority:: 3
 

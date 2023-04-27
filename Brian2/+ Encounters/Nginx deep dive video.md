@@ -1,6 +1,6 @@
-up::
-tags:: #note/boat🚤 
-X:: 
+up:: [[Technology]]
+tags:: #on/nginx #on/infrastructure #to/watch 
+Prioirty:: 3
 
 ## Nginx deep dive video
 

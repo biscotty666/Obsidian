@@ -1,6 +1,6 @@
-up:: [[Reading and video list]]
-tags:: #to/watch #on/Algorithms
-Priority:: 3
+up:: [[Programming]]
+tags:: #on/Algorithms #to/watch 
+Priority:: 2
 
 ## Graph Theory Algorithms
 

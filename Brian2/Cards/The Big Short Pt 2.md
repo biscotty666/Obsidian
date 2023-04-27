@@ -27,7 +27,7 @@ $$
 \mbox{Pr}(S < 0) = 
 \mbox{Pr}\left(Z < - \frac{\mbox{E}[S]}{\mbox{SE}[S]}\right)
 $$
-$Z$ is a standard normal variable. With expected value $\mu$ and standard deviation $\sigma$ and $z$ = `qnorm(0.01)`:
+$Z$ is a [[Standard normal variable Z]]. With expected value $\mu$ and standard deviation $\sigma$ and $z$ = `qnorm(0.01)`:
 
 $$
 -\frac{\mbox{E}[S]}{\mbox{SE}[S]} = - \frac{n\mu}{\sqrt{n}\sigma} = - \frac{\sqrt{n}\mu}{\sigma} = z

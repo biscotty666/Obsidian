@@ -1,6 +1,6 @@
-up::
-tags:: #note/boat🚤 #to/watch
-X:: 
+up:: [[Svelte]]
+tags:: #on/Svelte  #to/watch
+Priority:: 2
 
 ## SvelteKit Course
 

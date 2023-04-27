@@ -1,196 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-04-03",
-      "path": "Calendar/Daily Notes/Notes/2023-04-03.md"
+      "basename": "2023-04-26.excalidraw",
+      "path": "Calendar/Daily Notes/Drawings/2023-04-26.excalidraw.md"
     },
     {
-      "basename": "2023-04-25",
-      "path": "Calendar/Daily Notes/Notes/2023-04-25.md"
-    },
-    {
-      "basename": "2023-03-25",
-      "path": "Calendar/Daily Notes/Notes/2023-03-25.md"
-    },
-    {
-      "basename": "2023-04-25.excalidraw",
-      "path": "Calendar/Daily Notes/Drawings/2023-04-25.excalidraw.md"
+      "basename": "2023-04-26",
+      "path": "Calendar/Daily Notes/Notes/2023-04-26.md"
     },
     {
       "basename": "Probability and Statistics",
       "path": "Atlas/Probability and Statistics.md"
     },
     {
-      "basename": "2023-04-24",
-      "path": "Calendar/Daily Notes/Notes/2023-04-24.md"
+      "basename": "Daily Note",
+      "path": "Extras/Templates/Daily Note.md"
     },
     {
-      "basename": "2023-04-24.excalidraw",
-      "path": "Calendar/Daily Notes/Drawings/2023-04-24.excalidraw.md"
+      "basename": "Expected value for continuous variables exponential distribution",
+      "path": "+ Encounters/Expected value for continuous variables exponential distribution.md"
     },
     {
-      "basename": "Study Log",
-      "path": "Calendar/Logs/Study Log.md"
+      "basename": "Continuous variables with exponential distribution",
+      "path": "+ Encounters/Continuous variables with exponential distribution.md"
     },
     {
-      "basename": "Domestic Log",
-      "path": "Calendar/Logs/Domestic Log.md"
+      "basename": "Expected value discrete variables with exponential distribution",
+      "path": "+ Encounters/Expected value discrete variables with exponential distribution.md"
     },
     {
-      "basename": "Statistical inference and descriptive statistics",
-      "path": "+ Encounters/Statistical inference and descriptive statistics.md"
+      "basename": "Continuous vs discrete variables exponential distribution",
+      "path": "+ Encounters/Continuous vs discrete variables exponential distribution.md"
     },
     {
-      "basename": "Set or query graphical parameters",
-      "path": "+ Encounters/Set or query graphical parameters.md"
+      "basename": "Stat Note",
+      "path": "Extras/Templates/Stat Note.md"
     },
     {
-      "basename": "Plot standard error vs sample size",
-      "path": "+ Encounters/Plot standard error vs sample size.md"
+      "basename": "Random variables",
+      "path": "Cards/Random variables.md"
     },
     {
-      "basename": "R Note",
-      "path": "Extras/Templates/R Note.md"
+      "basename": "Expected value of discrete variables",
+      "path": "Cards/Expected value of discrete variables.md"
     },
     {
-      "basename": "C15",
-      "path": "Extras/Templates/C15.md"
+      "basename": "Expected Value and Standard Error",
+      "path": "Cards/Expected Value and Standard Error.md"
     },
     {
-      "basename": "Technology",
-      "path": "Atlas/Technology.md"
+      "basename": "Expected value for Discrete Variables",
+      "path": "+ Encounters/Expected value for Discrete Variables.md"
     },
     {
-      "basename": "2023-W16",
-      "path": "Calendar/Weekly Notes/2023-W16.md"
+      "basename": "Statquest Statistics Series",
+      "path": "+ Encounters/Statquest Statistics Series.md"
     },
     {
-      "basename": "2023-04-18.excalidraw",
-      "path": "Calendar/Daily Notes/Drawings/2023-04-18.excalidraw.md"
-    },
-    {
-      "basename": "2023-04-19.excalidraw",
-      "path": "Calendar/Daily Notes/Drawings/2023-04-19.excalidraw.md"
-    },
-    {
-      "basename": "2023-04-20.excalidraw",
-      "path": "Calendar/Daily Notes/Drawings/2023-04-20.excalidraw.md"
-    },
-    {
-      "basename": "2023-04-21.excalidraw",
-      "path": "Calendar/Daily Notes/Drawings/2023-04-21.excalidraw.md"
-    },
-    {
-      "basename": "2023-04-23.excalidraw",
-      "path": "Calendar/Daily Notes/Drawings/2023-04-23.excalidraw.md"
-    },
-    {
-      "basename": "Piano Log",
-      "path": "Calendar/Logs/Piano Log.md"
-    },
-    {
-      "basename": "Exercise Log",
-      "path": "Calendar/Logs/Exercise Log.md"
-    },
-    {
-      "basename": "2023-04-23",
-      "path": "Calendar/Daily Notes/Notes/2023-04-23.md"
-    },
-    {
-      "basename": "2023-04-18",
-      "path": "Calendar/Daily Notes/Notes/2023-04-18.md"
-    },
-    {
-      "basename": "2023-04-17",
-      "path": "Calendar/Daily Notes/Notes/2023-04-17.md"
-    },
-    {
-      "basename": "2023-04-22",
-      "path": "Calendar/Daily Notes/Notes/2023-04-22.md"
-    },
-    {
-      "basename": "Visualize the probability density of a random variable",
-      "path": "Cards/Visualize the probability density of a random variable.md"
-    },
-    {
-      "basename": "Data Visualization",
-      "path": "Atlas/Data Visualization.md"
-    },
-    {
-      "basename": "TSA coffee prices",
-      "path": "+ Encounters/TSA coffee prices.md"
+      "basename": "Standard normal variable Z",
+      "path": "+ Encounters/Standard normal variable Z.md"
     },
     {
       "basename": "The Big Short Pt 2",
       "path": "Cards/The Big Short Pt 2.md"
     },
     {
-      "basename": "Statistical properties of averages",
-      "path": "Cards/Statistical properties of averages.md"
-    },
-    {
-      "basename": "Python statistics",
-      "path": "+ Encounters/Python statistics.md"
-    },
-    {
-      "basename": "Law of Averages aka Law of Large Numbers",
-      "path": "Cards/Law of Averages aka Law of Large Numbers.md"
-    },
-    {
-      "basename": "GitHub credential configuration",
-      "path": "+ Encounters/GitHub credential configuration.md"
-    },
-    {
-      "basename": "floor and ceiling in R",
-      "path": "Cards/floor and ceiling in R.md"
-    },
-    {
-      "basename": "Distributions vs Probability Distributions",
-      "path": "Cards/Distributions vs Probability Distributions.md"
-    },
-    {
-      "basename": "Determine proportion of data below a certain value",
-      "path": "Cards/Determine proportion of data below a certain value.md"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "Atlas/Obsidian.md"
-    },
-    {
-      "basename": "Dataview query for backlinks",
-      "path": "Cards/Dataview query for backlinks.md"
-    },
-    {
-      "basename": "The Big Short interest rate case study Pt. 1",
-      "path": "Cards/The Big Short interest rate case study Pt. 1.md"
+      "basename": "Probability distribution of random variables",
+      "path": "Cards/Probability distribution of random variables.md"
     },
     {
       "basename": "Central Limit Theorem",
       "path": "Cards/Central Limit Theorem.md"
     },
     {
-      "basename": "2023-04-21",
-      "path": "Calendar/Daily Notes/Notes/2023-04-21.md"
+      "basename": "2023-04-25.excalidraw",
+      "path": "Calendar/Daily Notes/Drawings/2023-04-25.excalidraw.md"
     },
     {
-      "basename": "Fedora install",
-      "path": "+ Encounters/Fedora install.md"
+      "basename": "2023-04-25",
+      "path": "Calendar/Daily Notes/Notes/2023-04-25.md"
+    },
+    {
+      "basename": "Reading and video list",
+      "path": "Atlas/Reading and video list.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Purrr video",
+      "path": "Cards/Purrr video.md"
+    },
+    {
+      "basename": "Syntax",
+      "path": "Atlas/Syntax.md"
+    },
+    {
+      "basename": "Reddit client in Svelte",
+      "path": "Cards/Reddit client in Svelte.md"
+    },
+    {
+      "basename": "React router course",
+      "path": "+ Encounters/React router course.md"
+    },
+    {
+      "basename": "Obsidian & PKM Course Introduction",
+      "path": "+ Encounters/Obsidian & PKM Course Introduction.md"
+    },
+    {
+      "basename": "Notes 2 article video",
+      "path": "+ Encounters/Notes 2 article video.md"
+    },
+    {
+      "basename": "Obsidian Canvas Video",
+      "path": "Cards/Obsidian Canvas Video.md"
+    },
+    {
+      "basename": "Nginx deep dive video",
+      "path": "+ Encounters/Nginx deep dive video.md"
+    },
+    {
+      "basename": "Plot standard error vs sample size",
+      "path": "Cards/Plot standard error vs sample size.md"
+    },
+    {
+      "basename": "Statistical inference and descriptive statistics",
+      "path": "Cards/Statistical inference and descriptive statistics.md"
+    },
+    {
+      "basename": "Pyscript tutorial",
+      "path": "Cards/Pyscript tutorial.md"
+    },
+    {
+      "basename": "Python statistics",
+      "path": "Cards/Python statistics.md"
+    },
+    {
+      "basename": "Set or query graphical parameters",
+      "path": "+ Encounters/Set or query graphical parameters.md"
+    },
+    {
+      "basename": "Spinning obsidian logo",
+      "path": "+ Encounters/Spinning obsidian logo.md"
+    },
+    {
+      "basename": "SvelteKit Course",
+      "path": "+ Encounters/SvelteKit Course.md"
+    },
+    {
+      "basename": "SvelteKit from Scratch",
+      "path": "+ Encounters/SvelteKit from Scratch.md"
+    },
+    {
+      "basename": "Sveltekit short course",
+      "path": "Cards/Sveltekit short course.md"
+    },
+    {
+      "basename": "Sveltekit Update Title",
+      "path": "+ Encounters/Sveltekit Update Title.md"
+    },
+    {
+      "basename": "TSA coffee prices",
+      "path": "Cards/TSA coffee prices.md"
     },
     {
       "basename": "FCC ml class",
-      "path": "+ Encounters/FCC ml class.md"
+      "path": "Cards/FCC ml class.md"
     },
     {
-      "basename": "Mindmap connector",
-      "path": "Extras/Excalidraw/Scripts/Downloaded/Mindmap connector.md"
+      "basename": "Http course",
+      "path": "Cards/Http course.md"
     },
     {
-      "basename": "Saraswati",
-      "path": "Extras/Excalidraw/Saraswati.md"
+      "basename": "Dataview deep dive",
+      "path": "Cards/Dataview deep dive.md"
     },
     {
-      "basename": "excalibrain",
-      "path": "excalibrain.md"
+      "basename": "Obsidian Excalidraw",
+      "path": "Cards/Obsidian Excalidraw.md"
+    },
+    {
+      "basename": "Climate Wave forecasting",
+      "path": "Cards/Climate Wave forecasting.md"
+    },
+    {
+      "basename": "Forecasting",
+      "path": "Atlas/Forecasting.md"
+    },
+    {
+      "basename": "Data Science",
+      "path": "Atlas/Data Science.md"
+    },
+    {
+      "basename": "Demo.md",
+      "path": "+ Encounters/Demo.md.md"
+    },
+    {
+      "basename": "Laptop Notes",
+      "path": "+ Encounters/Laptop Notes.md"
     }
   ],
   "omittedPaths": [],

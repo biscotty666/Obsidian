@@ -1,6 +1,6 @@
 up:: [[PKM]]
-tags:: #source/video #on/PKM #to/watch 
-X:: 
+tags:: #on/PKM #source/video #to/watch 
+Priority:: 2
 
 ### PKM video series
 

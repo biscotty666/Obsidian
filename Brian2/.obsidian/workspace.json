@@ -8,6 +8,27 @@
         "type": "tabs",
         "children": [
           {
+            "id": "e6e160278d4c6154",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Calendar/Daily Notes/Drawings/2023-04-26.excalidraw.md"
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "2669b73dec08ab89",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -54,54 +75,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "aa6217c160c392d6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Calendar/Daily Notes/Drawings/2023-04-25.excalidraw.md"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "e2a5a7035dfa3723",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-04-25.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#on/Probability",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -195,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -241,6 +217,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Calendar/Daily Notes/Drawings/2023-04-26.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -305,7 +282,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Calendar/Daily Notes/Drawings/2023-04-26.excalidraw.md"
+              }
             }
           },
           {
@@ -377,7 +356,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "cc261747cbab30f2",
@@ -399,6 +378,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Calendar/Daily Notes/Drawings/2023-04-26.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -424,6 +404,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Calendar/Daily Notes/Drawings/2023-04-26.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -451,50 +432,50 @@
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-projects:Open projects": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "e6e160278d4c6154",
   "lastOpenFiles": [
-    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
-    "Calendar/Daily Notes/Notes/2023-04-03.md",
-    "Calendar/Daily Notes/Notes/2023-04-25.md",
-    "Calendar/Daily Notes/Notes/2023-03-25.md",
-    "Calendar/Daily Notes/Drawings/2023-04-25.excalidraw.md",
-    "Calendar/Daily Notes/Notes",
-    "Calendar/Daily Notes/Drawings/2023-04-25.excalidraw.png",
-    "Atlas/Probability and Statistics.md",
-    "Calendar/Daily Notes/Notes/2023-04-24.md",
-    "Calendar/Daily Notes/Drawings/2023-04-24.excalidraw.md",
-    "Atlas/Linux.md",
-    "Calendar/Logs/Domestic Log.md",
-    "Calendar/Logs/Exercise Log.md",
+    "Calendar/Daily Notes/Notes/2023-04-26.md",
     "Calendar/Logs/Piano Log.md",
+    "Calendar/Daily Notes/Drawings/2023-04-26.excalidraw.md",
+    "Atlas/Probability and Statistics.md",
+    "Extras/Templates/Daily Note.md",
     "Calendar/Logs/Study Log.md",
-    "Atlas/Obsidian.md",
-    "Extras/Excalidraw/Saraswati.md",
-    "+ Encounters/Statistical inference and descriptive statistics.md",
-    "+ Encounters/Set or query graphical parameters.md",
-    "+ Encounters/Plot standard error vs sample size.md",
-    "Extras/Templates/R Note.md",
-    "Extras/Templates/C15.md",
-    "Extras/Excalidraw/Ptah.md",
-    "Extras/Templates/PnS Note.md",
-    "Atlas/Technology.md",
-    "Home.md",
-    "Atlas/Python.md",
-    "Extras/Excalidraw/Hestia.md",
-    "Calendar/Daily Notes/Drawings/2023-04-24.excalidraw.png",
-    "Calendar/Daily Notes/Drawings/2023-04-24.excalidraw.svg",
-    "Calendar/Daily Notes/Drawings/2023-04-23.excalidraw.svg",
-    "Calendar/Daily Notes/Drawings/2023-04-23.excalidraw.png",
-    "Extras/Images/Pasted image 20230423220017.png",
-    "Extras/Images/Pasted image 20230423123450.png",
-    "Calendar/Daily Notes/Drawings/2023-04-21.excalidraw.png",
-    "Calendar/Daily Notes/Drawings/2023-04-21.excalidraw.svg",
+    "Calendar/Daily Notes/Drawings/2023-04-26.excalidraw.png",
+    "Calendar/Daily Notes/Drawings/2023-04-26.excalidraw.svg",
+    "Calendar/Logs/Domestic Log.md",
+    "+ Encounters/Expected value for continuous variables exponential distribution.md",
+    "Extras/Images/Pasted image 20230426173313.png",
+    "+ Encounters/Continuous variables with exponential distribution.md",
+    "+ Encounters/Expected value discrete variables with exponential distribution.md",
+    "+ Encounters/Continuous vs discrete variables exponential distribution.md",
+    "Extras/Images/Pasted image 20230426172850.png",
+    "Extras/Images/Pasted image 20230426172545.png",
+    "Extras/Images/Pasted image 20230426172328.png",
+    "Extras/Images/Pasted image 20230426172023.png",
+    "Extras/Images/Pasted image 20230426171832.png",
+    "Extras/Images/Pasted image 20230426171543.png",
+    "Extras/Templates/Stat Note.md",
+    "Cards/Random variables.md",
+    "Extras/Images/Pasted image 20230426170211.png",
+    "+ Encounters/Fedora Nvidia.md",
+    "Cards/Expected value of discrete variables.md",
+    "Cards/Expected Value and Standard Error.md",
+    "+ Encounters/Expected value for Discrete Variables.md",
+    "+ Encounters/Statquest Statistics Series.md",
+    "+ Encounters/Statquest Expected Value.md",
+    "+ Encounters/Local first software.md",
+    "+ Encounters/Standard normal variable Z.md",
+    "Cards/The Big Short Pt 2.md",
+    "Cards/Probability distribution of random variables.md",
+    "Cards/Central Limit Theorem.md",
+    "Calendar/Daily Notes/Drawings/2023-04-25.excalidraw.md",
+    "Calendar/Daily Notes/Notes/2023-04-25.md",
+    "Calendar/Daily Notes/Notes",
     "Extras/Canvases/New one.canvas",
-    "Extras/Images/Pasted image 20230420220607.png",
     "Calendar/Daily Notes/Drawings",
     "Extras/Canvases/Untitled 1.canvas",
     "Extras/Canvases/Untitled 1.excalidraw.canvas",

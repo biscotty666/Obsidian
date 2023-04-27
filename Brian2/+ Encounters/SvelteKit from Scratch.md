@@ -1,5 +1,5 @@
 up:: [[SvelteKit Course]]
-tags:: #note/reference #on/SvelteKit 
+tags:: #note/reference #on/Svelte 
 X:: 
 
 ## SvelteKit from Scratch
