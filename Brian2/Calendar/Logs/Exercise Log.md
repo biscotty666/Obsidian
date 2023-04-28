@@ -9,7 +9,7 @@ X:: [[Health]]
 
 ```dataview
 table without id
-file.name as Date, exercise-type as Type, exercise-time as Time, exercise-note as Note
+file.name as Date, exercise-type as Type, exercise-time as Time, exercise-route as Route, exercise-note as Note
 from #log/journal 
 where exercise-type
 sort file.name desc

@@ -8,28 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e6e160278d4c6154",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Calendar/Daily Notes/Drawings/2023-04-26.excalidraw.md"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "2669b73dec08ab89",
+            "id": "0e2647e4e0071502",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -44,10 +23,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/Data Visualization.md",
+                "file": "Calendar/Daily Notes/Notes/2023-04-27.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7fb03c0e5daa4b4d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Calendar/Daily Notes/Drawings/2023-04-27.excalidraw.md"
               },
               "pinned": true
             }
@@ -75,8 +75,31 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "1f91e8f4dccf6a79",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atlas/Probability and Statistics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#on/Probability",
+                "query": "tag:#on/PnS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -217,7 +240,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily Notes/Drawings/2023-04-26.excalidraw.md",
+                "file": "Atlas/Probability and Statistics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +285,7 @@
                   "repelStrength": 7.8125,
                   "linkStrength": 0.520833333333333,
                   "linkDistance": 30,
-                  "scale": 0.5168584698559345,
+                  "scale": 0.3020304427467065,
                   "close": true
                 }
               }
@@ -283,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily Notes/Drawings/2023-04-26.excalidraw.md"
+                "file": "Atlas/Probability and Statistics.md"
               }
             }
           },
@@ -356,7 +379,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "cc261747cbab30f2",
@@ -378,7 +401,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily Notes/Drawings/2023-04-26.excalidraw.md",
+                "file": "Atlas/Probability and Statistics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -404,7 +427,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily Notes/Drawings/2023-04-26.excalidraw.md",
+                "file": "Atlas/Probability and Statistics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -414,7 +437,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 451.5,
+    "width": 679.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -436,44 +459,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e6e160278d4c6154",
+  "active": "d535bd36dbc98e0b",
   "lastOpenFiles": [
-    "Calendar/Daily Notes/Notes/2023-04-26.md",
-    "Calendar/Logs/Piano Log.md",
-    "Calendar/Daily Notes/Drawings/2023-04-26.excalidraw.md",
+    "Calendar/Daily Notes/Drawings/2023-04-27.excalidraw.md",
+    "Calendar/Daily Notes/Notes/2023-04-27.md",
     "Atlas/Probability and Statistics.md",
-    "Extras/Templates/Daily Note.md",
-    "Calendar/Logs/Study Log.md",
-    "Calendar/Daily Notes/Drawings/2023-04-26.excalidraw.png",
-    "Calendar/Daily Notes/Drawings/2023-04-26.excalidraw.svg",
-    "Calendar/Logs/Domestic Log.md",
-    "+ Encounters/Expected value for continuous variables exponential distribution.md",
-    "Extras/Images/Pasted image 20230426173313.png",
-    "+ Encounters/Continuous variables with exponential distribution.md",
-    "+ Encounters/Expected value discrete variables with exponential distribution.md",
-    "+ Encounters/Continuous vs discrete variables exponential distribution.md",
-    "Extras/Images/Pasted image 20230426172850.png",
-    "Extras/Images/Pasted image 20230426172545.png",
-    "Extras/Images/Pasted image 20230426172328.png",
-    "Extras/Images/Pasted image 20230426172023.png",
-    "Extras/Images/Pasted image 20230426171832.png",
-    "Extras/Images/Pasted image 20230426171543.png",
-    "Extras/Templates/Stat Note.md",
-    "Cards/Random variables.md",
-    "Extras/Images/Pasted image 20230426170211.png",
-    "+ Encounters/Fedora Nvidia.md",
-    "Cards/Expected value of discrete variables.md",
-    "Cards/Expected Value and Standard Error.md",
-    "+ Encounters/Expected value for Discrete Variables.md",
+    "Cards/Outliers.md",
+    "Cards/Case study self-reported student heights.md",
+    "Extras/Excalidraw/Thoth.md",
     "+ Encounters/Statquest Statistics Series.md",
     "+ Encounters/Statquest Expected Value.md",
-    "+ Encounters/Local first software.md",
-    "+ Encounters/Standard normal variable Z.md",
-    "Cards/The Big Short Pt 2.md",
-    "Cards/Probability distribution of random variables.md",
-    "Cards/Central Limit Theorem.md",
-    "Calendar/Daily Notes/Drawings/2023-04-25.excalidraw.md",
-    "Calendar/Daily Notes/Notes/2023-04-25.md",
+    "Cards/Standard normal variable Z.md",
+    "Cards/Standard Error.md",
+    "Cards/Probability vs Likelihood.md",
+    "Cards/Maximum Likelihood.md",
+    "Cards/Expected value of discrete and continuous variables.md",
+    "Cards/Expected value for continuous variables exponential distribution.md",
+    "Cards/Expected value discrete variables with exponential distribution.md",
+    "Cards/Continuous vs discrete variables exponential distribution.md",
+    "Cards/Continuous variables with exponential distribution.md",
+    "Cards/Bootstrapping.md",
+    "Cards/Error Bars.md",
+    "Cards/The 68-95-99.7.md",
+    "Cards/Normal Distribution.md",
+    "Cards/Maximum Likelihood for the Normal Distribution.md",
+    "Cards/Poisson vs exponential distribution.md",
+    "Extras/Images/Pasted image 20230427163606.png",
+    "Extras/Images/Pasted image 20230427163504.png",
+    "Extras/Images/Pasted image 20230427163405.png",
+    "Extras/Images/Pasted image 20230427163330.png",
+    "Extras/Images/Pasted image 20230427163155.png",
+    "Extras/Images/Pasted image 20230427163051.png",
+    "Extras/Images/Pasted image 20230427163033.png",
+    "+ Encounters/Poisson vs exponential distribution.sync-conflict-20230427-114757-BBO7X7A.md",
+    "Extras/Images/Pasted image 20230427105914.png",
+    "Extras/Images/Pasted image 20230427104115.png",
+    "Extras/Images/Pasted image 20230427104031.png",
+    "Calendar/Logs/Exercise Log.md",
+    "Extras/Templates/Daily Note.md",
     "Calendar/Daily Notes/Notes",
     "Extras/Canvases/New one.canvas",
     "Calendar/Daily Notes/Drawings",

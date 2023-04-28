@@ -20,28 +20,28 @@ tags:: #log/journal #note/daily
 
 #### Study Log
 
-- Study something
+Study something
 
 #### Output Log
 
-- Create something
+Create something
 
 #### Piano Log
 
-- Play some piano
+Play some piano
 
 #### Exercise Log
 
-- Go outside
+Go outside
 
 #### Domestic Log
 
-- Something for the house
+Something for the house
 
 
 ### Reflections
 
-- Any thoughts or insights
+Any thoughts or insights
 
 ### Tasks
 

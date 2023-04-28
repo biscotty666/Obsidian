@@ -1,6 +1,98 @@
 {
   "recentFiles": [
     {
+      "basename": "Probability and Statistics",
+      "path": "Atlas/Probability and Statistics.md"
+    },
+    {
+      "basename": "2023-04-27.excalidraw",
+      "path": "Calendar/Daily Notes/Drawings/2023-04-27.excalidraw.md"
+    },
+    {
+      "basename": "2023-04-27",
+      "path": "Calendar/Daily Notes/Notes/2023-04-27.md"
+    },
+    {
+      "basename": "Outliers",
+      "path": "Cards/Outliers.md"
+    },
+    {
+      "basename": "Case study self-reported student heights",
+      "path": "Cards/Case study self-reported student heights.md"
+    },
+    {
+      "basename": "Statquest Statistics Series",
+      "path": "+ Encounters/Statquest Statistics Series.md"
+    },
+    {
+      "basename": "Standard normal variable Z",
+      "path": "Cards/Standard normal variable Z.md"
+    },
+    {
+      "basename": "Standard Error",
+      "path": "Cards/Standard Error.md"
+    },
+    {
+      "basename": "Probability vs Likelihood",
+      "path": "Cards/Probability vs Likelihood.md"
+    },
+    {
+      "basename": "Maximum Likelihood",
+      "path": "Cards/Maximum Likelihood.md"
+    },
+    {
+      "basename": "Expected value of discrete and continuous variables",
+      "path": "Cards/Expected value of discrete and continuous variables.md"
+    },
+    {
+      "basename": "Expected value for continuous variables exponential distribution",
+      "path": "Cards/Expected value for continuous variables exponential distribution.md"
+    },
+    {
+      "basename": "Expected value discrete variables with exponential distribution",
+      "path": "Cards/Expected value discrete variables with exponential distribution.md"
+    },
+    {
+      "basename": "Continuous vs discrete variables exponential distribution",
+      "path": "Cards/Continuous vs discrete variables exponential distribution.md"
+    },
+    {
+      "basename": "Continuous variables with exponential distribution",
+      "path": "Cards/Continuous variables with exponential distribution.md"
+    },
+    {
+      "basename": "Bootstrapping",
+      "path": "Cards/Bootstrapping.md"
+    },
+    {
+      "basename": "Error Bars",
+      "path": "Cards/Error Bars.md"
+    },
+    {
+      "basename": "The 68-95-99.7",
+      "path": "Cards/The 68-95-99.7.md"
+    },
+    {
+      "basename": "Normal Distribution",
+      "path": "Cards/Normal Distribution.md"
+    },
+    {
+      "basename": "Maximum Likelihood for the Normal Distribution",
+      "path": "Cards/Maximum Likelihood for the Normal Distribution.md"
+    },
+    {
+      "basename": "Poisson vs exponential distribution",
+      "path": "Cards/Poisson vs exponential distribution.md"
+    },
+    {
+      "basename": "Exercise Log",
+      "path": "Calendar/Logs/Exercise Log.md"
+    },
+    {
+      "basename": "Daily Note",
+      "path": "Extras/Templates/Daily Note.md"
+    },
+    {
       "basename": "2023-04-26.excalidraw",
       "path": "Calendar/Daily Notes/Drawings/2023-04-26.excalidraw.md"
     },
@@ -9,28 +101,16 @@
       "path": "Calendar/Daily Notes/Notes/2023-04-26.md"
     },
     {
-      "basename": "Probability and Statistics",
-      "path": "Atlas/Probability and Statistics.md"
+      "basename": "Maximum likelihood of the Exponential Distribution",
+      "path": "Cards/Maximum likelihood of the Exponential Distribution.md"
     },
     {
-      "basename": "Daily Note",
-      "path": "Extras/Templates/Daily Note.md"
+      "basename": "Expected value of discrete variables",
+      "path": "Cards/Expected value of discrete variables.md"
     },
     {
-      "basename": "Expected value for continuous variables exponential distribution",
-      "path": "+ Encounters/Expected value for continuous variables exponential distribution.md"
-    },
-    {
-      "basename": "Continuous variables with exponential distribution",
-      "path": "+ Encounters/Continuous variables with exponential distribution.md"
-    },
-    {
-      "basename": "Expected value discrete variables with exponential distribution",
-      "path": "+ Encounters/Expected value discrete variables with exponential distribution.md"
-    },
-    {
-      "basename": "Continuous vs discrete variables exponential distribution",
-      "path": "+ Encounters/Continuous vs discrete variables exponential distribution.md"
+      "basename": "Pasted Image 20230417091009_081",
+      "path": "Extras/Images/Pasted Image 20230417091009_081.png"
     },
     {
       "basename": "Stat Note",
@@ -41,24 +121,8 @@
       "path": "Cards/Random variables.md"
     },
     {
-      "basename": "Expected value of discrete variables",
-      "path": "Cards/Expected value of discrete variables.md"
-    },
-    {
       "basename": "Expected Value and Standard Error",
       "path": "Cards/Expected Value and Standard Error.md"
-    },
-    {
-      "basename": "Expected value for Discrete Variables",
-      "path": "+ Encounters/Expected value for Discrete Variables.md"
-    },
-    {
-      "basename": "Statquest Statistics Series",
-      "path": "+ Encounters/Statquest Statistics Series.md"
-    },
-    {
-      "basename": "Standard normal variable Z",
-      "path": "+ Encounters/Standard normal variable Z.md"
     },
     {
       "basename": "The Big Short Pt 2",
@@ -135,70 +199,6 @@
     {
       "basename": "Python statistics",
       "path": "Cards/Python statistics.md"
-    },
-    {
-      "basename": "Set or query graphical parameters",
-      "path": "+ Encounters/Set or query graphical parameters.md"
-    },
-    {
-      "basename": "Spinning obsidian logo",
-      "path": "+ Encounters/Spinning obsidian logo.md"
-    },
-    {
-      "basename": "SvelteKit Course",
-      "path": "+ Encounters/SvelteKit Course.md"
-    },
-    {
-      "basename": "SvelteKit from Scratch",
-      "path": "+ Encounters/SvelteKit from Scratch.md"
-    },
-    {
-      "basename": "Sveltekit short course",
-      "path": "Cards/Sveltekit short course.md"
-    },
-    {
-      "basename": "Sveltekit Update Title",
-      "path": "+ Encounters/Sveltekit Update Title.md"
-    },
-    {
-      "basename": "TSA coffee prices",
-      "path": "Cards/TSA coffee prices.md"
-    },
-    {
-      "basename": "FCC ml class",
-      "path": "Cards/FCC ml class.md"
-    },
-    {
-      "basename": "Http course",
-      "path": "Cards/Http course.md"
-    },
-    {
-      "basename": "Dataview deep dive",
-      "path": "Cards/Dataview deep dive.md"
-    },
-    {
-      "basename": "Obsidian Excalidraw",
-      "path": "Cards/Obsidian Excalidraw.md"
-    },
-    {
-      "basename": "Climate Wave forecasting",
-      "path": "Cards/Climate Wave forecasting.md"
-    },
-    {
-      "basename": "Forecasting",
-      "path": "Atlas/Forecasting.md"
-    },
-    {
-      "basename": "Data Science",
-      "path": "Atlas/Data Science.md"
-    },
-    {
-      "basename": "Demo.md",
-      "path": "+ Encounters/Demo.md.md"
-    },
-    {
-      "basename": "Laptop Notes",
-      "path": "+ Encounters/Laptop Notes.md"
     }
   ],
   "omittedPaths": [],
