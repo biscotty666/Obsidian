@@ -13,6 +13,12 @@ tags:: #log/journal #note/daily
 
 - Work towards something
 
+
+### Reflections
+
+Any thoughts or insights
+
+
 ### Today
 
 
@@ -38,10 +44,6 @@ Go outside
 
 Something for the house
 
-
-### Reflections
-
-Any thoughts or insights
 
 ### Tasks
 

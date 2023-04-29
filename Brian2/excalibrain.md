@@ -216,7 +216,7 @@ Thoth ^jLFv2vnh
 
 [[Extras/Images/Pasted Image 20230418081232_069.png]] ^3orETiVg
 
-[[Atlas/Probability and Statistics.md]] ^6UHV00t3
+[[Probability and Statistics]] ^6UHV00t3
 
 [[Extras/Excalidraw/Ptah.md]] ^utCPkuOn
 
