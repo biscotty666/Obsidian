@@ -83,7 +83,7 @@
             }
           },
           {
-            "id": "8ebfacf6ee962cd0",
+            "id": "8a4e165321d4aad9",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -93,43 +93,21 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "p-value",
+                  "title": "Expected Value and Standard Error",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/p-value.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+ Encounters/Calculating p-values.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5941e5e8806548e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Expected Value and Standard Error.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":4},\"to\":{\"line\":2,\"ch\":4}},\"scroll\":0}"
                 },
                 {
-                  "title": "Piano Log",
+                  "title": "Library",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Piano Log.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Library.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":42.100625}"
                 },
                 {
-                  "title": "Study Log",
+                  "title": "Central Limit Theorem",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Study Log.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Central Limit Theorem.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
@@ -137,51 +115,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Encounters/t-test.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e95e2904e11ddcbe",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/Reading and video list.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae151c76afcb21f5",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+ Encounters/Pico CSS.md",
+                "file": "Cards/Why divide by n-1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -189,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -236,7 +170,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#on/PnS",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -283,8 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -330,7 +263,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily Notes/Drawings/2023-04-29.excalidraw.md",
+                "file": "Cards/Why divide by n-1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -375,7 +308,7 @@
                   "repelStrength": 7.8125,
                   "linkStrength": 0.520833333333333,
                   "linkDistance": 30,
-                  "scale": 0.3020304427467065,
+                  "scale": 0.3020304427467057,
                   "close": true
                 }
               }
@@ -396,7 +329,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily Notes/Drawings/2023-04-29.excalidraw.md"
+                "file": "Cards/Why divide by n-1.md"
               }
             }
           },
@@ -469,7 +402,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "cc261747cbab30f2",
@@ -491,7 +424,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily Notes/Drawings/2023-04-29.excalidraw.md",
+                "file": "Cards/Why divide by n-1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -517,7 +450,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily Notes/Drawings/2023-04-29.excalidraw.md",
+                "file": "Cards/Why divide by n-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -527,7 +460,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 503.5,
+    "width": 411.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -545,48 +478,49 @@
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-projects:Open projects": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "f4878fc97cfef505",
+  "active": "8a4e165321d4aad9",
   "lastOpenFiles": [
-    "Calendar/Daily Notes/Drawings/2023-04-28.excalidraw.md",
     "Calendar/Daily Notes/Drawings/2023-04-29.excalidraw.md",
-    "Calendar/Daily Notes/Notes/2023-04-29.md",
-    "Cards/Reddit client in Svelte.md",
-    "+ Encounters/Pico CSS.md",
-    "Atlas/Reading and video list.md",
-    "+ Encounters/t-test.md",
-    "Calendar/Logs/Piano Log.md",
-    "Calendar/Daily Notes/Notes/2023-04-28.md",
+    "Cards/Expected Value and Standard Error.md",
+    "Calendar/Daily Notes/Drawings/2023-04-27.excalidraw.md",
     "Cards/Probability and Statistics.md",
-    "+ Encounters/Calculating p-values.md",
-    "Calendar/Logs/Study Log.md",
+    "Excalidraw/Drawing 2023-04-29 12.33.44.excalidraw.md",
+    "Calendar/Daily Notes/Drawings/2023-04-28.excalidraw.md",
+    "Calendar/Daily Notes/Notes/2023-04-29.md",
+    "Atlas/R.md",
+    "Calendar/Logs/Piano Log.md",
+    "Extras/Excalidraw/Ptah.md",
+    "Atlas/Linux.md",
+    "Atlas/Python.md",
+    "Atlas/Data Visualization.md",
+    "Cards/Library.md",
+    "Sources/Introduction to Data Science.md",
+    "Cards/Central Limit Theorem.md",
+    "Calendar/Logs/Exercise Log.md",
+    "Calendar/Daily Notes/Notes/2023-04-27.md",
+    "Excalidraw",
+    "Calendar/Daily Notes/Notes/2023-04-30.md",
+    "Extras/Excalidraw/Saraswati.md",
+    "Atlas/Obsidian.md",
+    "Atlas/Forecasting.md",
+    "Calendar/Daily Notes/Drawings/2023-04-30.excalidraw.md",
+    "+ Encounters/t-test.md",
+    "+ Encounters/Probability vs Statistics.md",
+    "+ Encounters/Untitled.md",
+    "Extras/Images/Pasted image 20230429110111.png",
+    "Extras/Images/Pasted image 20230429085316.png",
+    "Calendar/Daily Notes/Drawings/2023-04-29.excalidraw.png",
+    "Calendar/Daily Notes/Drawings/2023-04-29.excalidraw.svg",
     "Extras/Images/Pasted image 20230428212232.png",
-    "Cards/p-value.md",
-    "+ Encounters/Confidence Intervals.md",
     "Extras/Images/Pasted image 20230428205932.png",
     "Extras/Images/Pasted image 20230428205819.png",
     "Extras/Images/Pasted image 20230428205727.png",
-    "Cards/Population Variance.md",
-    "Cards/Why divide by n-1?.md",
     "Extras/Images/Pasted image 20230428160945.png",
     "Extras/Images/Pasted image 20230428160813.png",
-    "Extras/Images/Pasted image 20230428160420.png",
-    "Extras/Templates/Daily Note.md",
-    "Calendar/Logs/Domestic Log.md",
-    "Calendar/Logs/Exercise Log.md",
-    "Cards/Gamma distribution.md",
-    "Calendar/Daily Notes/Drawings/2023-04-28.excalidraw.png",
-    "Calendar/Daily Notes/Drawings/2023-04-28.excalidraw.svg",
-    "Extras/Excalidraw/Thoth.md",
-    "Calendar/Daily Notes/Drawings/2023-04-27.excalidraw.md",
-    "Calendar/Daily Notes/Notes/2023-04-27.md",
-    "Cards/Outliers.md",
-    "Cards/Case study self-reported student heights.md",
-    "+ Encounters/Statquest Statistics Series.md",
-    "Extras/Images/Pasted image 20230427163606.png",
     "Calendar/Daily Notes/Notes",
     "Extras/Canvases/New one.canvas",
     "Calendar/Daily Notes/Drawings",
@@ -601,7 +535,6 @@
     "Extras/Canvases/Obsidian Proverbs.canvas",
     "Extras/Excalidraw/Libraries/algorithms-and-data-structures-arrays-matrices-trees.excalidrawlib",
     "Extras/Excalidraw/Libraries/awesome-icons.excalidrawlib",
-    "Extras/Excalidraw/Libraries/data-viz.excalidrawlib",
     "Extras/Canvases/OPCourseIntro.canvas",
     "Extras/Canvases/Obsidian and PKM Class Overview.canvas",
     "Extras/Canvases/What is Obsidian?.canvas",

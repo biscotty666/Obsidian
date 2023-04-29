@@ -1,14 +1,13 @@
 ---
 up: [[Data Science]]
 same: [[Introduction to Data Science]]
-Library: 600
 ---
 up:: [[Data Science]]
 tags:: #map 
 related:: [[Data Visualization]]
+Library:: 600
 
 # Probability and Statistics
-
 
 ## Statistics
 
@@ -16,6 +15,7 @@ related:: [[Data Visualization]]
 - [[Combinations and Permutations]]
 - [[Confidence Intervals]]
 - [[Cumulative Distribution Function (CDF)]]
+- [[Calculating p-values]]
 - [[Bootstrapping]]
 - [[Data Variable Types]]
 - [[Empirical Cumulative Distribution Function]]

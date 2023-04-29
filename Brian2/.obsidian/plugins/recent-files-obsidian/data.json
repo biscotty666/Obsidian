@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Why divide by n-1",
+      "path": "Cards/Why divide by n-1.md"
+    },
+    {
       "basename": "2023-04-29.excalidraw",
       "path": "Calendar/Daily Notes/Drawings/2023-04-29.excalidraw.md"
+    },
+    {
+      "basename": "Expected Value and Standard Error",
+      "path": "Cards/Expected Value and Standard Error.md"
+    },
+    {
+      "basename": "2023-04-27.excalidraw",
+      "path": "Calendar/Daily Notes/Drawings/2023-04-27.excalidraw.md"
+    },
+    {
+      "basename": "Probability and Statistics",
+      "path": "Cards/Probability and Statistics.md"
+    },
+    {
+      "basename": "Drawing 2023-04-29 12.33.44.excalidraw",
+      "path": "Excalidraw/Drawing 2023-04-29 12.33.44.excalidraw.md"
     },
     {
       "basename": "2023-04-28.excalidraw",
@@ -13,44 +33,68 @@
       "path": "Calendar/Daily Notes/Notes/2023-04-29.md"
     },
     {
-      "basename": "Reddit client in Svelte",
-      "path": "Cards/Reddit client in Svelte.md"
+      "basename": "Piano Log",
+      "path": "Calendar/Logs/Piano Log.md"
     },
     {
-      "basename": "Pico CSS",
-      "path": "+ Encounters/Pico CSS.md"
+      "basename": "Library",
+      "path": "Cards/Library.md"
     },
     {
-      "basename": "Reading and video list",
-      "path": "Atlas/Reading and video list.md"
+      "basename": "Central Limit Theorem",
+      "path": "Cards/Central Limit Theorem.md"
+    },
+    {
+      "basename": "2023-04-30",
+      "path": "Calendar/Daily Notes/Notes/2023-04-30.md"
+    },
+    {
+      "basename": "2023-04-30.excalidraw",
+      "path": "Calendar/Daily Notes/Drawings/2023-04-30.excalidraw.md"
     },
     {
       "basename": "t-test",
       "path": "+ Encounters/t-test.md"
     },
     {
-      "basename": "Piano Log",
-      "path": "Calendar/Logs/Piano Log.md"
+      "basename": "Probability vs Statistics",
+      "path": "+ Encounters/Probability vs Statistics.md"
     },
     {
-      "basename": "2023-04-28",
-      "path": "Calendar/Daily Notes/Notes/2023-04-28.md"
-    },
-    {
-      "basename": "Probability and Statistics",
-      "path": "Cards/Probability and Statistics.md"
+      "basename": "Untitled",
+      "path": "+ Encounters/Untitled.md"
     },
     {
       "basename": "Calculating p-values",
       "path": "+ Encounters/Calculating p-values.md"
     },
     {
-      "basename": "Study Log",
-      "path": "Calendar/Logs/Study Log.md"
+      "basename": "Reading and video list",
+      "path": "Atlas/Reading and video list.md"
+    },
+    {
+      "basename": "Stat Note",
+      "path": "Extras/Templates/Stat Note.md"
+    },
+    {
+      "basename": "Pico CSS",
+      "path": "+ Encounters/Pico CSS.md"
     },
     {
       "basename": "p-value",
       "path": "Cards/p-value.md"
+    },
+    {
+      "basename": "Reddit client in Svelte",
+      "path": "Cards/Reddit client in Svelte.md"
+    },
+    {
+      "basename": "2023-04-28",
+      "path": "Calendar/Daily Notes/Notes/2023-04-28.md"
+    },
+    {
+      "basename": "Study Log",
+      "path": "Calendar/Logs/Study Log.md"
     },
     {
       "basename": "Confidence Intervals",
@@ -59,10 +103,6 @@
     {
       "basename": "Population Variance",
       "path": "Cards/Population Variance.md"
-    },
-    {
-      "basename": "Why divide by n-1?",
-      "path": "Cards/Why divide by n-1?.md"
     },
     {
       "basename": "Daily Note",
@@ -79,10 +119,6 @@
     {
       "basename": "Gamma distribution",
       "path": "Cards/Gamma distribution.md"
-    },
-    {
-      "basename": "2023-04-27.excalidraw",
-      "path": "Calendar/Daily Notes/Drawings/2023-04-27.excalidraw.md"
     },
     {
       "basename": "2023-04-27",
@@ -163,42 +199,6 @@
     {
       "basename": "2023-04-26.excalidraw",
       "path": "Calendar/Daily Notes/Drawings/2023-04-26.excalidraw.md"
-    },
-    {
-      "basename": "2023-04-26",
-      "path": "Calendar/Daily Notes/Notes/2023-04-26.md"
-    },
-    {
-      "basename": "Maximum likelihood of the Exponential Distribution",
-      "path": "Cards/Maximum likelihood of the Exponential Distribution.md"
-    },
-    {
-      "basename": "Expected value of discrete variables",
-      "path": "Cards/Expected value of discrete variables.md"
-    },
-    {
-      "basename": "Pasted Image 20230417091009_081",
-      "path": "Extras/Images/Pasted Image 20230417091009_081.png"
-    },
-    {
-      "basename": "Stat Note",
-      "path": "Extras/Templates/Stat Note.md"
-    },
-    {
-      "basename": "Random variables",
-      "path": "Cards/Random variables.md"
-    },
-    {
-      "basename": "Expected Value and Standard Error",
-      "path": "Cards/Expected Value and Standard Error.md"
-    },
-    {
-      "basename": "The Big Short Pt 2",
-      "path": "Cards/The Big Short Pt 2.md"
-    },
-    {
-      "basename": "Probability distribution of random variables",
-      "path": "Cards/Probability distribution of random variables.md"
     }
   ],
   "omittedPaths": [],

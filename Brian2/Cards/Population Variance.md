@@ -28,7 +28,7 @@ $$
 
 ### Why divide by $n-1$?
 
-[[Why divide by n-1?]]
+[[Why divide by n-1]]
 
 
 
