@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Why divide by n-1",
-      "path": "Cards/Why divide by n-1.md"
+      "basename": "Introduction to Obsidian and PKM",
+      "path": "+ Encounters/Introduction to Obsidian and PKM.md"
+    },
+    {
+      "basename": "2023-04-30.excalidraw",
+      "path": "Calendar/Daily Notes/Drawings/2023-04-30.excalidraw.md"
+    },
+    {
+      "basename": "2023-04-30",
+      "path": "Calendar/Daily Notes/Notes/2023-04-30.md"
+    },
+    {
+      "basename": "Probability and Statistics",
+      "path": "Cards/Probability and Statistics.md"
+    },
+    {
+      "basename": "2023-04-29",
+      "path": "Calendar/Daily Notes/Notes/2023-04-29.md"
     },
     {
       "basename": "2023-04-29.excalidraw",
       "path": "Calendar/Daily Notes/Drawings/2023-04-29.excalidraw.md"
+    },
+    {
+      "basename": "Confidence Intervals",
+      "path": "+ Encounters/Confidence Intervals.md"
+    },
+    {
+      "basename": "Power analysis",
+      "path": "+ Encounters/Power analysis.md"
+    },
+    {
+      "basename": "p-hacking",
+      "path": "+ Encounters/p-hacking.md"
+    },
+    {
+      "basename": "False Discovery Rates",
+      "path": "+ Encounters/False Discovery Rates.md"
+    },
+    {
+      "basename": "Why divide by n-1",
+      "path": "Cards/Why divide by n-1.md"
     },
     {
       "basename": "Expected Value and Standard Error",
@@ -17,20 +53,12 @@
       "path": "Calendar/Daily Notes/Drawings/2023-04-27.excalidraw.md"
     },
     {
-      "basename": "Probability and Statistics",
-      "path": "Cards/Probability and Statistics.md"
-    },
-    {
       "basename": "Drawing 2023-04-29 12.33.44.excalidraw",
       "path": "Excalidraw/Drawing 2023-04-29 12.33.44.excalidraw.md"
     },
     {
       "basename": "2023-04-28.excalidraw",
       "path": "Calendar/Daily Notes/Drawings/2023-04-28.excalidraw.md"
-    },
-    {
-      "basename": "2023-04-29",
-      "path": "Calendar/Daily Notes/Notes/2023-04-29.md"
     },
     {
       "basename": "Piano Log",
@@ -43,14 +71,6 @@
     {
       "basename": "Central Limit Theorem",
       "path": "Cards/Central Limit Theorem.md"
-    },
-    {
-      "basename": "2023-04-30",
-      "path": "Calendar/Daily Notes/Notes/2023-04-30.md"
-    },
-    {
-      "basename": "2023-04-30.excalidraw",
-      "path": "Calendar/Daily Notes/Drawings/2023-04-30.excalidraw.md"
     },
     {
       "basename": "t-test",
@@ -95,10 +115,6 @@
     {
       "basename": "Study Log",
       "path": "Calendar/Logs/Study Log.md"
-    },
-    {
-      "basename": "Confidence Intervals",
-      "path": "+ Encounters/Confidence Intervals.md"
     },
     {
       "basename": "Population Variance",
@@ -183,22 +199,6 @@
     {
       "basename": "The 68-95-99.7",
       "path": "Cards/The 68-95-99.7.md"
-    },
-    {
-      "basename": "Normal Distribution",
-      "path": "Cards/Normal Distribution.md"
-    },
-    {
-      "basename": "Maximum Likelihood for the Normal Distribution",
-      "path": "Cards/Maximum Likelihood for the Normal Distribution.md"
-    },
-    {
-      "basename": "Poisson vs exponential distribution",
-      "path": "Cards/Poisson vs exponential distribution.md"
-    },
-    {
-      "basename": "2023-04-26.excalidraw",
-      "path": "Calendar/Daily Notes/Drawings/2023-04-26.excalidraw.md"
     }
   ],
   "omittedPaths": [],

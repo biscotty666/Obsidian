@@ -8,57 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d46c6c5f21eea798",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Reddit client in Svelte",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Reddit client in Svelte.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":44},\"to\":{\"line\":21,\"ch\":44}}}"
-                }
-              ]
-            },
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-04-29.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "f4878fc97cfef505",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Calendar/Daily Notes/Drawings/2023-04-29.excalidraw.md"
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "1f0d52ddf552d22d",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -83,7 +32,7 @@
             }
           },
           {
-            "id": "8a4e165321d4aad9",
+            "id": "191ab3cb8aded1ed",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -93,37 +42,105 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Expected Value and Standard Error",
+                  "title": "2023-04-30",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Expected Value and Standard Error.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":4},\"to\":{\"line\":2,\"ch\":4}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Daily Notes/Notes/2023-04-30.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":24},\"to\":{\"line\":14,\"ch\":24}}}"
                 },
                 {
-                  "title": "Library",
+                  "title": "Confidence Intervals",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Library.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":42.100625}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Confidence Intervals.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":104},\"to\":{\"line\":7,\"ch\":104}}}"
                 },
                 {
-                  "title": "Central Limit Theorem",
+                  "title": "Power analysis",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Central Limit Theorem.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Power analysis.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":120},\"to\":{\"line\":7,\"ch\":120}}}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Calendar/Daily Notes/Drawings/2023-04-30.excalidraw.md"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "558792d6d47c80b9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/Why divide by n-1.md",
+                "file": "+ Encounters/Introduction to Obsidian and PKM.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "8b1499be118575c9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Daily Notes/Notes/2023-04-30.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
+      },
+      {
+        "id": "8647c6b26e629201",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75c2ef985ea3f71c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,7 +234,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -263,7 +281,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cards/Why divide by n-1.md",
+                "file": "+ Encounters/Introduction to Obsidian and PKM.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -329,7 +347,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/Why divide by n-1.md"
+                "file": "+ Encounters/Introduction to Obsidian and PKM.md"
               }
             }
           },
@@ -402,7 +420,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "cc261747cbab30f2",
@@ -424,7 +442,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/Why divide by n-1.md",
+                "file": "+ Encounters/Introduction to Obsidian and PKM.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -450,7 +468,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/Why divide by n-1.md",
+                "file": "+ Encounters/Introduction to Obsidian and PKM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -482,15 +500,33 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "8a4e165321d4aad9",
+  "active": "558792d6d47c80b9",
   "lastOpenFiles": [
+    "Calendar/Daily Notes/Drawings/2023-04-30.excalidraw.md",
+    "+ Encounters/Introduction to Obsidian and PKM.md",
+    "Calendar/Daily Notes/Drawings/2023-04-30.excalidraw.png",
+    "Calendar/Daily Notes/Drawings/2023-04-30.excalidraw.svg",
+    "Calendar/Daily Notes/Notes/2023-04-30.md",
+    "Cards/Probability and Statistics.md",
+    "Calendar/Daily Notes/Notes/2023-04-29.md",
     "Calendar/Daily Notes/Drawings/2023-04-29.excalidraw.md",
+    "+ Encounters/Confidence Intervals.md",
+    "+ Encounters/Self driving car is ml.md",
+    "+ Encounters/Power analysis.md",
+    "+ Encounters/p-hacking.md",
+    "+ Encounters/False Discovery Rates.md",
+    "Extras/Images/Pasted image 20230429225002.png",
+    "Extras/Images/Pasted image 20230429224913.png",
+    "Extras/Images/Pasted image 20230429224836.png",
+    "Extras/Images/Pasted image 20230429224803.png",
+    "Extras/Images/Pasted image 20230429224635.png",
+    "Extras/Images/Pasted image 20230429224515.png",
+    "Extras/Images/Pasted image 20230429221648.png",
+    "Cards/Why divide by n-1.md",
     "Cards/Expected Value and Standard Error.md",
     "Calendar/Daily Notes/Drawings/2023-04-27.excalidraw.md",
-    "Cards/Probability and Statistics.md",
     "Excalidraw/Drawing 2023-04-29 12.33.44.excalidraw.md",
     "Calendar/Daily Notes/Drawings/2023-04-28.excalidraw.md",
-    "Calendar/Daily Notes/Notes/2023-04-29.md",
     "Atlas/R.md",
     "Calendar/Logs/Piano Log.md",
     "Extras/Excalidraw/Ptah.md",
@@ -501,26 +537,8 @@
     "Sources/Introduction to Data Science.md",
     "Cards/Central Limit Theorem.md",
     "Calendar/Logs/Exercise Log.md",
-    "Calendar/Daily Notes/Notes/2023-04-27.md",
     "Excalidraw",
-    "Calendar/Daily Notes/Notes/2023-04-30.md",
-    "Extras/Excalidraw/Saraswati.md",
-    "Atlas/Obsidian.md",
-    "Atlas/Forecasting.md",
-    "Calendar/Daily Notes/Drawings/2023-04-30.excalidraw.md",
-    "+ Encounters/t-test.md",
-    "+ Encounters/Probability vs Statistics.md",
-    "+ Encounters/Untitled.md",
     "Extras/Images/Pasted image 20230429110111.png",
-    "Extras/Images/Pasted image 20230429085316.png",
-    "Calendar/Daily Notes/Drawings/2023-04-29.excalidraw.png",
-    "Calendar/Daily Notes/Drawings/2023-04-29.excalidraw.svg",
-    "Extras/Images/Pasted image 20230428212232.png",
-    "Extras/Images/Pasted image 20230428205932.png",
-    "Extras/Images/Pasted image 20230428205819.png",
-    "Extras/Images/Pasted image 20230428205727.png",
-    "Extras/Images/Pasted image 20230428160945.png",
-    "Extras/Images/Pasted image 20230428160813.png",
     "Calendar/Daily Notes/Notes",
     "Extras/Canvases/New one.canvas",
     "Calendar/Daily Notes/Drawings",
