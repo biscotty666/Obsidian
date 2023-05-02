@@ -1,8 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "Introduction to Obsidian and PKM",
-      "path": "+ Encounters/Introduction to Obsidian and PKM.md"
+      "basename": "Slides 1",
+      "path": "Spaces/Obsidian and PKM Class/Slides 1.md"
+    },
+    {
+      "basename": "Slides 2",
+      "path": "Spaces/Obsidian and PKM Class/Slides 2.md"
+    },
+    {
+      "basename": "Obsidian Advanced Slides",
+      "path": "+ Encounters/Obsidian Advanced Slides.md"
+    },
+    {
+      "basename": "Advanced Slides Embeds",
+      "path": "Cards/Advanced Slides Embeds.md"
+    },
+    {
+      "basename": "Advanced Slides Fragments",
+      "path": "Cards/Advanced Slides Fragments.md"
+    },
+    {
+      "basename": "Advanced Slides Frontmatter",
+      "path": "Cards/Advanced Slides Frontmatter.md"
+    },
+    {
+      "basename": "Advanced Slides Grid",
+      "path": "Cards/Advanced Slides Grid.md"
+    },
+    {
+      "basename": "Advanced Slides Blocks",
+      "path": "Cards/Advanced Slides Blocks.md"
+    },
+    {
+      "basename": "Advanced Slides Themes",
+      "path": "Cards/Advanced Slides Themes.md"
+    },
+    {
+      "basename": "Intro Obsidian PKM Outline",
+      "path": "Spaces/Obsidian and PKM Class/Intro Obsidian PKM Outline.md"
+    },
+    {
+      "basename": "Advanced Slides CSS",
+      "path": "Cards/Advanced Slides CSS.md"
+    },
+    {
+      "basename": "Advanced Slides Splits",
+      "path": "Cards/Advanced Slides Splits.md"
+    },
+    {
+      "basename": "Obsidian Callouts",
+      "path": "Sources/Obsidian Callouts.md"
+    },
+    {
+      "basename": "Study Log",
+      "path": "Calendar/Logs/Study Log.md"
+    },
+    {
+      "basename": "2023-05-01.excalidraw",
+      "path": "Calendar/Daily Notes/Drawings/2023-05-01.excalidraw.md"
+    },
+    {
+      "basename": "2023-05-01",
+      "path": "Calendar/Daily Notes/Notes/2023-05-01.md"
     },
     {
       "basename": "2023-04-30.excalidraw",
@@ -13,8 +73,48 @@
       "path": "Calendar/Daily Notes/Notes/2023-04-30.md"
     },
     {
+      "basename": "Advanced Slides Speaker Notes",
+      "path": "Cards/Advanced Slides Speaker Notes.md"
+    },
+    {
+      "basename": "Advanced Slides Charts",
+      "path": "Cards/Advanced Slides Charts.md"
+    },
+    {
+      "basename": "Advanced Slides Emojis",
+      "path": "Cards/Advanced Slides Emojis.md"
+    },
+    {
+      "basename": "Advanced Slides Icons",
+      "path": "Cards/Advanced Slides Icons.md"
+    },
+    {
+      "basename": "Advanced Slides Excalidraw",
+      "path": "Cards/Advanced Slides Excalidraw.md"
+    },
+    {
+      "basename": "Advanced Slides Backgrounds",
+      "path": "Cards/Advanced Slides Backgrounds.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "Atlas/Obsidian.md"
+    },
+    {
+      "basename": "Emoji Shortcode Reference",
+      "path": "+ Encounters/Emoji Shortcode Reference.md"
+    },
+    {
       "basename": "Probability and Statistics",
       "path": "Cards/Probability and Statistics.md"
+    },
+    {
+      "basename": "Domestic Log",
+      "path": "Calendar/Logs/Domestic Log.md"
+    },
+    {
+      "basename": "Exercise Log",
+      "path": "Calendar/Logs/Exercise Log.md"
     },
     {
       "basename": "2023-04-29",
@@ -81,10 +181,6 @@
       "path": "+ Encounters/Probability vs Statistics.md"
     },
     {
-      "basename": "Untitled",
-      "path": "+ Encounters/Untitled.md"
-    },
-    {
       "basename": "Calculating p-values",
       "path": "+ Encounters/Calculating p-values.md"
     },
@@ -103,102 +199,6 @@
     {
       "basename": "p-value",
       "path": "Cards/p-value.md"
-    },
-    {
-      "basename": "Reddit client in Svelte",
-      "path": "Cards/Reddit client in Svelte.md"
-    },
-    {
-      "basename": "2023-04-28",
-      "path": "Calendar/Daily Notes/Notes/2023-04-28.md"
-    },
-    {
-      "basename": "Study Log",
-      "path": "Calendar/Logs/Study Log.md"
-    },
-    {
-      "basename": "Population Variance",
-      "path": "Cards/Population Variance.md"
-    },
-    {
-      "basename": "Daily Note",
-      "path": "Extras/Templates/Daily Note.md"
-    },
-    {
-      "basename": "Domestic Log",
-      "path": "Calendar/Logs/Domestic Log.md"
-    },
-    {
-      "basename": "Exercise Log",
-      "path": "Calendar/Logs/Exercise Log.md"
-    },
-    {
-      "basename": "Gamma distribution",
-      "path": "Cards/Gamma distribution.md"
-    },
-    {
-      "basename": "2023-04-27",
-      "path": "Calendar/Daily Notes/Notes/2023-04-27.md"
-    },
-    {
-      "basename": "Outliers",
-      "path": "Cards/Outliers.md"
-    },
-    {
-      "basename": "Case study self-reported student heights",
-      "path": "Cards/Case study self-reported student heights.md"
-    },
-    {
-      "basename": "Statquest Statistics Series",
-      "path": "+ Encounters/Statquest Statistics Series.md"
-    },
-    {
-      "basename": "Standard normal variable Z",
-      "path": "Cards/Standard normal variable Z.md"
-    },
-    {
-      "basename": "Standard Error",
-      "path": "Cards/Standard Error.md"
-    },
-    {
-      "basename": "Probability vs Likelihood",
-      "path": "Cards/Probability vs Likelihood.md"
-    },
-    {
-      "basename": "Maximum Likelihood",
-      "path": "Cards/Maximum Likelihood.md"
-    },
-    {
-      "basename": "Expected value of discrete and continuous variables",
-      "path": "Cards/Expected value of discrete and continuous variables.md"
-    },
-    {
-      "basename": "Expected value for continuous variables exponential distribution",
-      "path": "Cards/Expected value for continuous variables exponential distribution.md"
-    },
-    {
-      "basename": "Expected value discrete variables with exponential distribution",
-      "path": "Cards/Expected value discrete variables with exponential distribution.md"
-    },
-    {
-      "basename": "Continuous vs discrete variables exponential distribution",
-      "path": "Cards/Continuous vs discrete variables exponential distribution.md"
-    },
-    {
-      "basename": "Continuous variables with exponential distribution",
-      "path": "Cards/Continuous variables with exponential distribution.md"
-    },
-    {
-      "basename": "Bootstrapping",
-      "path": "Cards/Bootstrapping.md"
-    },
-    {
-      "basename": "Error Bars",
-      "path": "Cards/Error Bars.md"
-    },
-    {
-      "basename": "The 68-95-99.7",
-      "path": "Cards/The 68-95-99.7.md"
     }
   ],
   "omittedPaths": [],

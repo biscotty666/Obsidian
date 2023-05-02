@@ -21,7 +21,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "+ Encounters/Self driving car is ml.md",
+                        "file": "Spaces/Obsidian and PKM Class/Introduction to Obsidian and PKM.md",
                         "mode": "source",
                         "backlinks": false,
                         "source": false
@@ -41,7 +41,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "+ Encounters/Self driving car is ml.md",
+                        "file": "Spaces/Obsidian and PKM Class/Introduction to Obsidian and PKM.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -83,7 +83,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "+ Encounters/Self driving car is ml.md",
+                        "file": "Spaces/Obsidian and PKM Class/Introduction to Obsidian and PKM.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -207,7 +207,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "+ Encounters/Self driving car is ml.md",
+            "file": "Spaces/Obsidian and PKM Class/Introduction to Obsidian and PKM.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -224,7 +224,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "+ Encounters/Self driving car is ml.md",
+            "file": "Spaces/Obsidian and PKM Class/Introduction to Obsidian and PKM.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -236,7 +236,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "+ Encounters/Self driving car is ml.md"
+            "file": "Spaces/Obsidian and PKM Class/Introduction to Obsidian and PKM.md"
           }
         }
       },
@@ -279,6 +279,10 @@
   },
   "active": "a44390eb6cbdf424",
   "lastOpenFiles": [
+    "+ Encounters/Obsidian & PKM Course Introduction.md",
+    "+ Encounters/Untitled.md",
+    "+ Encounters/Untitled 1.md",
+    "Spaces/Obsidian and PKM Class/Obsidian and PKM Training Class.md",
     "+ Encounters/Self driving car is ml.md",
     "+ Encounters/Poisson vs exponential distribution.sync-conflict-20230427-114757-BBO7X7A.md",
     "+ Encounters/Fedora Nvidia.md",
@@ -302,10 +306,6 @@
     "+ Encounters/Linear algebra course.md",
     "Extras/Canvases/Obsidian Proverbs.canvas",
     "+ Encounters/Notes 2 article video.md",
-    "+ Encounters/Chinese Proverbs.md",
-    "+ Encounters/IBM data analytics video.md",
-    "+ Encounters/Excalidraw tutorial.md",
-    "Atlas/Proverbs.md",
     "Calendar/2022",
     "Extras/Images/Pasted image 20230401103803.jpg",
     "Extras/Canvases/Obsidian and PKM Class Overview.canvas",

@@ -18,6 +18,7 @@ Library:: 600
 - [[Syncing Obsidian and Kindle]]
 - [[Obsidian Templater]]
 - [[Obsidian Slides Plugin]] 
+- [[Obsidian Advanced Slides]]
 
 ### #on/Obsidian 
 ```dataview

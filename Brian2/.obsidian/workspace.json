@@ -8,6 +8,51 @@
         "type": "tabs",
         "children": [
           {
+            "id": "6ebfc3e88af6fcce",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Calendar/Daily Notes/Drawings/2023-05-01.excalidraw.md"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7a71316146163337",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Daily Notes/Notes/2023-05-01.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "1f0d52ddf552d22d",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -32,7 +77,7 @@
             }
           },
           {
-            "id": "191ab3cb8aded1ed",
+            "id": "013cb710d6fd37dc",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -40,38 +85,23 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "2023-04-30",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Daily Notes/Notes/2023-04-30.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":24},\"to\":{\"line\":14,\"ch\":24}}}"
-                },
-                {
-                  "title": "Confidence Intervals",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Confidence Intervals.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":104},\"to\":{\"line\":7,\"ch\":104}}}"
-                },
-                {
-                  "title": "Power analysis",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Power analysis.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":120},\"to\":{\"line\":7,\"ch\":120}}}"
                 }
               ]
             },
             "pinned": true,
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Calendar/Daily Notes/Drawings/2023-04-30.excalidraw.md"
+                "file": "Spaces/Obsidian and PKM Class/Intro Obsidian PKM Outline.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
               "pinned": true
             }
           },
           {
-            "id": "558792d6d47c80b9",
+            "id": "4dd399279ba0abb4",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -79,21 +109,35 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Advanced Slides Fragments",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Advanced Slides Fragments.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Slides 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/Obsidian and PKM Class/Slides 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
                 }
               ]
             },
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Encounters/Introduction to Obsidian and PKM.md",
+                "file": "Spaces/Obsidian and PKM Class/Slides 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "8b1499be118575c9",
+            "id": "913bcd8f7bc76854",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -108,7 +152,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-04-30.md",
+                "file": "+ Encounters/Obsidian Advanced Slides.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -117,14 +161,14 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
-        "id": "8647c6b26e629201",
+        "id": "9d4a9649c41a65f1",
         "type": "tabs",
         "children": [
           {
-            "id": "75c2ef985ea3f71c",
+            "id": "2cd13eba4be7f490",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -187,7 +231,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "animate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -281,7 +325,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ Encounters/Introduction to Obsidian and PKM.md",
+                "file": "Spaces/Obsidian and PKM Class/Slides 1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -347,7 +391,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ Encounters/Introduction to Obsidian and PKM.md"
+                "file": "Spaces/Obsidian and PKM Class/Slides 1.md"
               }
             }
           },
@@ -418,6 +462,23 @@
               "type": "BC-matrix",
               "state": {}
             }
+          },
+          {
+            "id": "50ae3c99e6d96532",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 5
@@ -442,7 +503,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ Encounters/Introduction to Obsidian and PKM.md",
+                "file": "Spaces/Obsidian and PKM Class/Slides 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -468,7 +529,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ Encounters/Introduction to Obsidian and PKM.md",
+                "file": "Spaces/Obsidian and PKM Class/Slides 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -500,45 +561,49 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "558792d6d47c80b9",
+  "active": "4dd399279ba0abb4",
   "lastOpenFiles": [
+    "Spaces/Obsidian and PKM Class/Slides 2.md",
+    "Spaces/Obsidian and PKM Class/Slides 1.md",
+    "Extras/Images/2023-05-01 16-12-17.mkv",
+    "Spaces/Obsidian and PKM Class/Resources/test.mkv",
+    "Spaces/Obsidian and PKM Class/Resources/2023-05-01 16-12-17.mkv",
+    "+ Encounters/Obsidian Advanced Slides.md",
+    "Cards/Advanced Slides Embeds.md",
+    "Cards/Advanced Slides Fragments.md",
+    "Cards/Advanced Slides Frontmatter.md",
+    "Cards/Advanced Slides Grid.md",
+    "Cards/Advanced Slides Blocks.md",
+    "Cards/Advanced Slides Themes.md",
+    "Spaces/Obsidian and PKM Class/Intro Obsidian PKM Outline.md",
+    "Cards/Advanced Slides CSS.md",
+    "Cards/Advanced Slides Splits.md",
+    "Sources/Obsidian Callouts.md",
+    "Calendar/Logs/Study Log.md",
+    "Calendar/Daily Notes/Drawings/2023-05-01.excalidraw.md",
+    "Calendar/Daily Notes/Notes/2023-05-01.md",
     "Calendar/Daily Notes/Drawings/2023-04-30.excalidraw.md",
-    "+ Encounters/Introduction to Obsidian and PKM.md",
+    "Calendar/Daily Notes/Notes/2023-04-30.md",
+    "Cards/Advanced Slides Speaker Notes.md",
+    "+ Encounters/Untitled.md",
+    "Cards/Advanced Slides Charts.md",
+    "Cards/Advanced Slides Emojis.md",
+    "Cards/Advanced Slides Icons.md",
+    "Cards/Advanced Slides Excalidraw.md",
+    "Extras/Templates/Advanced Slides Template.md",
+    "Cards/Advanced Slides Backgrounds.md",
+    "Spaces/Obsidian and PKM Class/Resources",
+    "Extras/Images/Tesuque Bike Routes.png",
+    "Extras/Images/Pasted image 20230430121544.png",
     "Calendar/Daily Notes/Drawings/2023-04-30.excalidraw.png",
     "Calendar/Daily Notes/Drawings/2023-04-30.excalidraw.svg",
-    "Calendar/Daily Notes/Notes/2023-04-30.md",
-    "Cards/Probability and Statistics.md",
-    "Calendar/Daily Notes/Notes/2023-04-29.md",
-    "Calendar/Daily Notes/Drawings/2023-04-29.excalidraw.md",
-    "+ Encounters/Confidence Intervals.md",
-    "+ Encounters/Self driving car is ml.md",
-    "+ Encounters/Power analysis.md",
-    "+ Encounters/p-hacking.md",
-    "+ Encounters/False Discovery Rates.md",
     "Extras/Images/Pasted image 20230429225002.png",
     "Extras/Images/Pasted image 20230429224913.png",
     "Extras/Images/Pasted image 20230429224836.png",
     "Extras/Images/Pasted image 20230429224803.png",
     "Extras/Images/Pasted image 20230429224635.png",
     "Extras/Images/Pasted image 20230429224515.png",
-    "Extras/Images/Pasted image 20230429221648.png",
-    "Cards/Why divide by n-1.md",
-    "Cards/Expected Value and Standard Error.md",
-    "Calendar/Daily Notes/Drawings/2023-04-27.excalidraw.md",
-    "Excalidraw/Drawing 2023-04-29 12.33.44.excalidraw.md",
-    "Calendar/Daily Notes/Drawings/2023-04-28.excalidraw.md",
-    "Atlas/R.md",
-    "Calendar/Logs/Piano Log.md",
-    "Extras/Excalidraw/Ptah.md",
-    "Atlas/Linux.md",
-    "Atlas/Python.md",
-    "Atlas/Data Visualization.md",
-    "Cards/Library.md",
-    "Sources/Introduction to Data Science.md",
-    "Cards/Central Limit Theorem.md",
-    "Calendar/Logs/Exercise Log.md",
     "Excalidraw",
-    "Extras/Images/Pasted image 20230429110111.png",
     "Calendar/Daily Notes/Notes",
     "Extras/Canvases/New one.canvas",
     "Calendar/Daily Notes/Drawings",
@@ -548,11 +613,7 @@
     "Calendar/Logs/Piano",
     "Calendar/Logs",
     "Extras/Excalidraw/Libraries/emojis.excalidrawlib",
-    "emojis.excalidrawlib",
-    "Extras/Excalidraw/Scripts/Downloaded",
     "Extras/Canvases/Obsidian Proverbs.canvas",
-    "Extras/Excalidraw/Libraries/algorithms-and-data-structures-arrays-matrices-trees.excalidrawlib",
-    "Extras/Excalidraw/Libraries/awesome-icons.excalidrawlib",
     "Extras/Canvases/OPCourseIntro.canvas",
     "Extras/Canvases/Obsidian and PKM Class Overview.canvas",
     "Extras/Canvases/What is Obsidian?.canvas",
