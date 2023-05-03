@@ -8,7 +8,40 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ebfc3e88af6fcce",
+            "id": "3fce90a6d85fad61",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "2023-05-03",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Daily Notes/Notes/2023-05-03.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Piano Log",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Piano Log.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}}}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Calendar/Daily Notes/Drawings/2023-05-03.excalidraw.md"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "5196c1e6880e7740",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -23,85 +56,13 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Calendar/Daily Notes/Drawings/2023-05-01.excalidraw.md"
+                "file": "Spaces/ObsPKMClass/Resources/Professional Intro.excalidraw.md"
               },
               "pinned": true
             }
           },
           {
-            "id": "7a71316146163337",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-05-01.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "1f0d52ddf552d22d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/Probability and Statistics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "013cb710d6fd37dc",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/ObsPKMClass/Intro Obsidian PKM Outline.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "4dd399279ba0abb4",
+            "id": "2058821edbace7db",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -111,99 +72,57 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Advanced Slides Fragments",
+                  "title": "Daily Note",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Advanced Slides Fragments.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Extras/Templates/Daily Note.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":12},\"to\":{\"line\":28,\"ch\":12}},\"scroll\":0}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Daily Notes/Notes/2023-05-03.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "44d493ed9a0c71e2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Piano Log",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Piano Log.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Slides 1",
+                  "title": "Domestic Log",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/ObsPKMClass/Slides1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                }
-              ]
-            },
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/ObsPKMClass/Slides1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "913bcd8f7bc76854",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+ Encounters/Obsidian Advanced Slides.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "e2613704f356f086",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Logs/Domestic Log.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/ObsPKMClass/Slides1.md",
+                "file": "Calendar/Logs/Exercise Log.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
-            }
-          }
-        ],
-        "currentTab": 6
-      },
-      {
-        "id": "6816f9eda60c7f8b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "588c07834aa72b05",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
             }
           }
         ]
@@ -295,12 +214,30 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "61f4306fa543a4e1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -346,7 +283,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Spaces/ObsPKMClass/Slides1.md",
+                "file": "Calendar/Daily Notes/Drawings/2023-05-03.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -412,7 +349,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/ObsPKMClass/Slides1.md"
+                "file": "Calendar/Daily Notes/Drawings/2023-05-03.excalidraw.md"
               }
             }
           },
@@ -483,23 +420,6 @@
               "type": "BC-matrix",
               "state": {}
             }
-          },
-          {
-            "id": "50ae3c99e6d96532",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {}
-            }
           }
         ],
         "currentTab": 5
@@ -524,7 +444,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/ObsPKMClass/Slides1.md",
+                "file": "Calendar/Daily Notes/Drawings/2023-05-03.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -550,7 +470,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/ObsPKMClass/Slides1.md",
+                "file": "Calendar/Daily Notes/Drawings/2023-05-03.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -574,66 +494,67 @@
       "workspaces:Manage workspace layouts": false,
       "periodic-notes:Open today's daily note": false,
       "templater-obsidian:Templater": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-projects:Open projects": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "webpage-html-export:Export Vault to HTML": false,
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "3fce90a6d85fad61",
   "lastOpenFiles": [
-    "Spaces/ObsPKMClass/Slides 2.md",
-    "Spaces/ObsPKMClass/Slides1.md",
-    "Extras/Images/2023-05-01 16-12-17.mkv",
-    "Spaces/ObsPKMClass/Resources/test.mkv",
-    "Spaces/Obsidian and PKM Class/Resources/2023-05-01 16-12-17.mkv",
-    "+ Encounters/Obsidian Advanced Slides.md",
-    "Cards/Advanced Slides Embeds.md",
-    "Cards/Advanced Slides Fragments.md",
-    "Cards/Advanced Slides Frontmatter.md",
-    "Cards/Advanced Slides Grid.md",
-    "Cards/Advanced Slides Blocks.md",
-    "Cards/Advanced Slides Themes.md",
-    "Spaces/ObsPKMClass/Intro Obsidian PKM Outline.md",
-    "Cards/Advanced Slides CSS.md",
-    "Cards/Advanced Slides Splits.md",
-    "Sources/Obsidian Callouts.md",
+    "Calendar/Logs/Exercise Log.md",
+    "+ Encounters/Ride-20230503.md",
+    "Calendar/Daily Notes/Notes/2023-05-03.md",
+    "Calendar/Logs/Piano Log.md",
+    "Calendar/Daily Notes/Drawings/2023-05-03.excalidraw.md",
     "Calendar/Logs/Study Log.md",
-    "Calendar/Daily Notes/Drawings/2023-05-01.excalidraw.md",
+    "Cards/Probability and Statistics.md",
+    "Spaces/ObsPKMClass/Resources/Professional Intro.excalidraw.md",
+    "Excalidraw/Libraries/Untitled.md",
+    "Calendar/Logs/Domestic Log.md",
+    "Spaces/ObsPKMClass/Resources/Experience English.md",
+    "Atlas/Linux.md",
+    "Excalidraw/Libraries/bubbles.excalidrawlib",
+    "Atlas/R.md",
+    "Excalidraw/Libraries/stick-figures-collaboration.excalidrawlib",
+    "Excalidraw/Libraries/data-science (1).excalidrawlib",
+    "Extras/Images/Pasted Image 20230503103935_607.svg",
+    "Extras/Excalidraw/2023-04-17 2023-04-17 08.56.11.excalidraw.png",
+    "Extras/Excalidraw/Libraries/system-design.excalidrawlib",
+    "Extras/Excalidraw/Libraries/stick-figures.excalidrawlib",
+    "Extras/Excalidraw/Libraries/software-architecture.excalidrawlib",
+    "Extras/Excalidraw/Libraries/it-logos.excalidrawlib",
+    "Extras/Excalidraw/Libraries/icons.excalidrawlib",
+    "Extras/Excalidraw/Libraries/google-icons.excalidrawlib",
+    "Extras/Excalidraw/Libraries/forms.excalidrawlib",
+    "Extras/Excalidraw/Hestia.md",
+    "Extras/Templates/Daily Note.md",
+    "Calendar/Daily Notes/Drawings/2023-05-02.excalidraw.md",
+    "Calendar/Daily Notes/Notes/2023-05-02.md",
+    "Calendar/Daily Notes/Drawings/2023-05-03.excalidraw.png",
+    "Calendar/Daily Notes/Drawings/2023-05-03.excalidraw.svg",
+    "Calendar/Daily Notes/Drawings/2023-05-02.excalidraw.png",
+    "Calendar/Daily Notes/Drawings/2023-05-02.excalidraw.svg",
     "Calendar/Daily Notes/Notes/2023-05-01.md",
-    "Calendar/Daily Notes/Drawings/2023-04-30.excalidraw.md",
-    "Calendar/Daily Notes/Notes/2023-04-30.md",
-    "Cards/Advanced Slides Speaker Notes.md",
+    "Spaces/ObsPKMClass/Slides1.md",
+    "Calendar/Daily Notes/Drawings/2023-05-01.excalidraw.svg",
+    "Spaces/ObsPKMClass/Intro Obsidian PKM Outline.md",
+    "+ Encounters/Obsidian Advanced Slides.md",
+    "Extras/Images/WorldSatellite.png",
+    "Extras/Images/Pasted Image 20230503002240_121.png",
+    "+ Encounters/note.md",
     "+ Encounters/Untitled.md",
-    "Cards/Advanced Slides Charts.md",
-    "Cards/Advanced Slides Emojis.md",
-    "Cards/Advanced Slides Icons.md",
-    "Cards/Advanced Slides Excalidraw.md",
-    "Extras/Templates/Advanced Slides Template.md",
-    "Cards/Advanced Slides Backgrounds.md",
-    "Spaces/ObsPKMClass/Resources",
-    "Extras/Images/Tesuque Bike Routes.png",
-    "Extras/Images/Pasted image 20230430121544.png",
-    "Calendar/Daily Notes/Drawings/2023-04-30.excalidraw.png",
-    "Calendar/Daily Notes/Drawings/2023-04-30.excalidraw.svg",
-    "Extras/Images/Pasted image 20230429225002.png",
-    "Extras/Images/Pasted image 20230429224913.png",
-    "Extras/Images/Pasted image 20230429224836.png",
-    "Extras/Images/Pasted image 20230429224803.png",
-    "Extras/Images/Pasted image 20230429224635.png",
-    "Extras/Images/Pasted image 20230429224515.png",
-    "Excalidraw",
-    "Calendar/Daily Notes/Notes",
+    "Calendar/Daily Notes/Drawings/2023-04-28.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Lighten background color.svg",
+    "Excalidraw/Scripts/Downloaded/Lighten background color.md",
+    "Excalidraw/Palettes/Palette test.md",
     "Extras/Canvases/New one.canvas",
-    "Calendar/Daily Notes/Drawings",
     "Extras/Canvases/Untitled 1.canvas",
     "Extras/Canvases/Untitled 1.excalidraw.canvas",
     "Extras/Canvases/Untitled.canvas",
-    "Calendar/Logs/Piano",
-    "Calendar/Logs",
-    "Extras/Excalidraw/Libraries/emojis.excalidrawlib",
     "Extras/Canvases/Obsidian Proverbs.canvas",
     "Extras/Canvases/OPCourseIntro.canvas",
     "Extras/Canvases/Obsidian and PKM Class Overview.canvas",

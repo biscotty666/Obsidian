@@ -26,7 +26,8 @@ Any thoughts or insights
 
 #### Study Log
 
-Study something
+Std Log:: 
+Std Cat:: 
 
 #### Output Log
 
@@ -34,16 +35,20 @@ Create something
 
 #### Piano Log
 
-Play some piano
+Pia Time:: 
+Pia Note:: 
+Pia Songs:: 
 
 #### Exercise Log
 
-Go outside
+Exc Type:: 
+Exc Route:: 
+Exc Time:: 
+Exc Note:: 
 
 #### Domestic Log
 
-Something for the house
-
+Dom Log:: 
 
 ### Tasks
 

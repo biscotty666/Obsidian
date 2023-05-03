@@ -40,26 +40,6 @@ Obsidian <!-- element class="fragment fade-up"  -->
 :::
 :::
 
-::: block <!-- element class="fragment fade-up" pad="10px 10px" -->
-#### Zettelkasten
-
-::: block <!-- element pad="15px 00px" style="background-color: #FA9884;" -->
-Concept
-
-Making Useful notes <!-- element class="fragment fade-up " -->
-:::
-:::
-::: block <!-- element class="fragment fade-up" pad="10px 10px" -->
-#### Obsidian
-
-::: block <!-- element pad="15px 00px" style="background-color: #FA9884;" -->
-Why Obsidian?
-
-Installing Obsidian <!-- element class="fragment fade-up " -->
-
-Making your first note <!-- element class="fragment fade-up"  -->
-:::
-:::
 
 :::
 </grid>

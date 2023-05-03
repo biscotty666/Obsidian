@@ -10,6 +10,14 @@ X:: [[Music]]
 
 ```dataview
 table without id
+file.name as Date, pia-note as Notes, pia-songs as Songs, pia-time as Time
+from #log/journal 
+where pia-note
+sort file.name desc
+```
+
+```dataview
+table without id
 file.name as Date, piano-log as Notes, piano-time as Time
 from #log/journal 
 where piano-log

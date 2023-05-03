@@ -15,7 +15,6 @@
   "obsidian-hover-editor",
   "obsidian-auto-link-title",
   "templater-obsidian",
-  "obsidian-advanced-slides",
   "obsidian-tasks-plugin",
   "obsidian-icons-plugin",
   "emoji-shortcodes",
@@ -26,5 +25,10 @@
   "table-editor-obsidian",
   "breadcrumbs",
   "excalibrain",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-advanced-slides",
+  "obsidian-enhancing-export",
+  "webpage-html-export",
+  "obsidian-html-plugin",
+  "obsidian-pandoc"
 ]
