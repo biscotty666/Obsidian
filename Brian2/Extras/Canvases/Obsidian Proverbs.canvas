@@ -12,9 +12,9 @@
 		{"id":"c4e20549fb0d5c99","x":-530,"y":-180,"width":400,"height":80,"color":"2","type":"text","text":"Make a list of proverbs from the video whcih I’d like to record a remember."},
 		{"id":"2fa7ecbeb60f13e1","x":-530,"y":-40,"width":400,"height":280,"color":"4","type":"file","file":"+ Encounters/List of Proverbs.md"},
 		{"id":"7869ec79b6c56785","x":0,"y":-180,"width":355,"height":80,"color":"2","type":"text","text":"Create a task."},
-		{"id":"55f25b005b1fc0cf","x":20,"y":-40,"width":420,"height":280,"type":"file","file":"Calendar/Daily Notes/Notes/2023-04-15.md"},
+		{"id":"55f25b005b1fc0cf","x":20,"y":-40,"width":420,"height":280,"type":"file","file":"Calendar/Daily Notes/Notes/2023-04/2023-04-15.md"},
 		{"id":"c2073b06d75b4b99","x":-170,"y":2820,"width":250,"height":60,"color":"2","type":"text","text":"Mark task as done"},
-		{"type":"file","file":"Calendar/Daily Notes/Notes/2023-04-15.md","id":"064550d5d52e7e73","x":-255,"y":2980,"width":420,"height":280},
+		{"type":"file","file":"Calendar/Daily Notes/Notes/2023-04/2023-04-15.md","id":"064550d5d52e7e73","x":-255,"y":2980,"width":420,"height":280},
 		{"id":"805b4018c3758bf8","x":-680,"y":980,"width":400,"height":320,"color":"4","type":"file","file":"Cards/Warfare and Deception.md"},
 		{"id":"19691634c0a373c3","x":-210,"y":980,"width":330,"height":460,"color":"4","type":"file","file":"Cards/Moment of patience.md"},
 		{"id":"4cedbc3511495897","x":230,"y":980,"width":360,"height":320,"color":"4","type":"file","file":"Cards/The best cosmetic.md"}

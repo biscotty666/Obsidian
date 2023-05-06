@@ -1,10 +1,3 @@
----
-up: [[Logs]]
-type: log
-related: [[Health]]
----
-X:: 
-
 # Study Log
 
 ```dataview
@@ -23,6 +16,11 @@ from #log/journal
 where study-log
 sort file.name desc
 ```
+
+---
+
+up:: [[Logs]]
+tags:: #log  
 
 
 

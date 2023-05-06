@@ -4,6 +4,8 @@ X::
 
 ## Probability distribution of random variables
 
+
+
 In [[Sampling models - Casino roulette winnings]] we created a model to calculate the payout based on repeated random sampling. What we want to do now is calculate the probability of a result falling within a certain range. For example, what is the probability that the casino loses money?
 
 The [[Cumulative Distribution Function (CDF)]] is
@@ -36,6 +38,7 @@ We can now [[Visualize the probability density of a random variable]].
 ### References
 
 [[Introduction to Data Science]]
+[Constructing a probability distribution for random variable | Khan Academy - YouTube](https://www.youtube.com/watch?v=cqK3uRoPtk0&list=PLSQl0a2vh4HCLjAoORNwUJLWi5ovMjbax&index=14)
 
 
 

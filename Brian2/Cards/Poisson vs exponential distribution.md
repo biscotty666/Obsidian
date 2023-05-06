@@ -1,6 +1,6 @@
 up:: [[Probability and Statistics]]
 tags::  #on/Probability #note/reference #source/video 
-related:: 
+related:: [[Poisson distribution]]
 
 ## Poisson vs exponential distribution
 
@@ -27,6 +27,8 @@ $$
 $$
 
 ### Poisson
+
+[[Poisson Examples]]
 
 - Number of events in a time interval
 - Discrete time between events

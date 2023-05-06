@@ -35,10 +35,12 @@ Library:: 600
 - [[Stratification]]
 - [[The 68-95-99.7]]
 - [[Z-score or Standard Units]]
+- [[Z-scores aka Standard Scores]]
 
 ## Probability
 
 - [[Addition Rule]]
+- [[Binomial Distribution]]
 - [[Conditional Probabilities]]
 - [[Continuous vs discrete variables exponential distribution]]
 - [[Continuous variables with exponential distribution]]
@@ -54,6 +56,7 @@ Library:: 600
 - [[Monte Carlo Simulation]]
 - [[Multiplication Rule]]
 - [[Poisson vs exponential distribution]]
+- [[Poisson distribution]]
 - [[Probability density function]]
 - [[Probability distribution of random variables]]
 - [[Probability vs Likelihood]]

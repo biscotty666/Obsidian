@@ -11,13 +11,11 @@ tags:: #log/journal #note/daily
 
 ### Progress
 
-- Work towards something
-
+Work towards something
 
 ### Reflections
 
 Any thoughts or insights
-
 
 ### Today
 
@@ -25,13 +23,12 @@ Any thoughts or insights
 ### Logs
 
 #### Study Log
-
 Std Log:: 
 Std Cat:: 
 
-#### Output Log
-
-Create something
+#### Work Log
+Wrk Log:: 
+Wrk Cat:: 
 
 #### Piano Log
 
@@ -44,6 +41,7 @@ Pia Songs::
 Exc Type:: 
 Exc Route:: 
 Exc Time:: 
+Exc Dist:: 
 Exc Note:: 
 
 #### Domestic Log
@@ -52,7 +50,7 @@ Dom Log::
 
 ### Tasks
 
-##### Overdue
+#### Overdue
 
 ```tasks
 not done
@@ -60,7 +58,7 @@ due before today
 ```
 
 
-##### Due today
+#### Due today
 
 ```tasks
 not done
@@ -68,7 +66,15 @@ due today
 status.type is not IN_PROGRESS
 ```
 
-##### High and medium priority
+#### Completed Today
+
+```dataview
+task
+where completion = date(today)
+```
+
+
+#### High and medium priority
 
 ```tasks
 not done
@@ -76,14 +82,13 @@ not done
 sort by priority
 ```
 
-##### In Progress
+#### In Progress
 
 ```tasks
 status.type is IN_PROGRESS
 ```
 
-##### Others
-
+#### Others
 
 ```tasks
 not done

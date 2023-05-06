@@ -166,7 +166,7 @@ Thoth ^jLFv2vnh
 
 5 ^wDhLxwuH
 
-[[Calendar/Daily Notes/Drawings/2023-04-21.excalidraw.md]] ^bkQoX4Bd
+[[2023-04-21.excalidraw]] ^bkQoX4Bd
 
 [[2023-04-21]] ^XkyqEG1C
 
@@ -174,7 +174,7 @@ Thoth ^jLFv2vnh
 
 [[Forecasting]] ^UIURKwjC
 
-[[Extras/Excalidraw/Hestia.md]] ^nDkjAFpm
+[[Hestia]] ^nDkjAFpm
 
 [[Atlas/Linux.md]] ^IfUWuFUu
 
@@ -218,15 +218,15 @@ Thoth ^jLFv2vnh
 
 [[Probability and Statistics]] ^6UHV00t3
 
-[[Extras/Excalidraw/Ptah.md]] ^utCPkuOn
+[[Ptah]] ^utCPkuOn
 
 [[Atlas/Python.md]] ^UthSXBvW
 
 [[Atlas/R.md]] ^ZhQL6aum
 
-[[Extras/Excalidraw/Saraswati.md]] ^ecSIIOvN
+[[Saraswati]] ^ecSIIOvN
 
-[[Extras/Excalidraw/Thoth.md]] ^JfQdKJq2
+[[Thoth]] ^JfQdKJq2
 
 %%
 # Drawing

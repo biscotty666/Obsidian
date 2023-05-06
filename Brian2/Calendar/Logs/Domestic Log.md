@@ -1,10 +1,3 @@
----
-up: [[Logs]]
-type: log
-related: [[Health]]
----
-X:: 
-
 # Domestic Log
 
 ```dataview
@@ -14,6 +7,12 @@ from #log/journal
 where dom-log
 sort file.name desc
 ```
+
+---
+
+up:: [[Logs]]
+tags:: #log/journal 
+
 
 
 

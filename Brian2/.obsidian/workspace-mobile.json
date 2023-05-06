@@ -21,8 +21,8 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "+ Encounters/Today's Ride.md",
-                        "mode": "preview",
+                        "file": "Calendar/Daily Notes/Notes/2023-05-05.md",
+                        "mode": "source",
                         "backlinks": false,
                         "source": false
                       }
@@ -41,7 +41,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "+ Encounters/Today's Ride.md",
+                        "file": "Calendar/Daily Notes/Notes/2023-05-05.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -83,7 +83,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "+ Encounters/Today's Ride.md",
+                        "file": "Calendar/Daily Notes/Notes/2023-05-05.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -158,7 +158,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "2023-04-08",
+            "query": "Central lim",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -203,7 +203,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "e906ea1dae891a8c",
@@ -215,7 +215,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "+ Encounters/Today's Ride.md",
+            "file": "Calendar/Daily Notes/Notes/2023-05-05.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "+ Encounters/Today's Ride.md",
+            "file": "Calendar/Daily Notes/Notes/2023-05-05.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -244,7 +244,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "+ Encounters/Today's Ride.md"
+            "file": "Calendar/Daily Notes/Notes/2023-05-05.md"
           }
         }
       },
@@ -287,8 +287,18 @@
   },
   "active": "a44390eb6cbdf424",
   "lastOpenFiles": [
-    "+ Encounters/Vue tutorial.md",
+    "+ Encounters/Today's walk.md",
+    "+ Encounters/Bernalillo movies in the park.md",
+    "Calendar/Daily Notes/Notes/2023-05-05.md",
+    "Cards/Central Limit Theorem.md",
+    "Calendar/Daily Notes/Notes/2023-05-04.md",
+    "+ Encounters/Lvm with btrfs.md",
+    "+ Encounters/Recursion programming.md",
+    "+ Encounters/Poisson distribution.md",
+    "+ Encounters/Z-scores aka Standard Scores.md",
+    "Cards/Ride-20230504.md",
     "+ Encounters/Today's Ride.md",
+    "+ Encounters/Vue tutorial.md",
     "+ Encounters/Statistical Paradixes.md",
     "+ Encounters/Statquest article.md",
     "+ Encounters/Another Svelte project.md",
@@ -303,16 +313,6 @@
     "+ Encounters/Poisson vs exponential distribution.md",
     "+ Encounters/Statquest Expected Value.md",
     "+ Encounters/Local first software.md",
-    "+ Encounters/Climate Wave forecasting.sync-conflict-20230425-094929-BBO7X7A.md",
-    "+ Encounters/Reddit client in Svelte.md",
-    "+ Encounters/Climate Wave forecasting.md",
-    "+ Encounters/Sveltekit short course.md",
-    "+ Encounters/React router course.md",
-    "Atlas/Probability and Statistics.md",
-    "Calendar/Weekly Notes/2023-W16.md",
-    "Calendar/Daily Notes/2023-04-23.md",
-    "+ Encounters/Spinning obsidian logo.md",
-    "+ Encounters/Python statistics.md",
     "Extras/Canvases/Obsidian Proverbs.canvas",
     "Calendar/2022",
     "Extras/Images/Pasted image 20230401103803.jpg",

@@ -4,7 +4,9 @@ X::
 
 ## Central Limit Theorem
 
-Recognizes that in many real-life situations, random independent samples taken from common data, eg heights or draws from an urn, tend to match the [[Normal Distribution]].
+As sample size increases the sample mean $\bar{x}$ approaches the population mean $\mu$ . 
+
+In many real-life situations, random independent samples taken from common data, eg heights or draws from an urn, tend to match the [[Normal Distribution]].
 
 If a [[Random variables]] has a has a probability distribution which approximates the Normal distribution, the probability distribution can be fully described by the average (expected value) and standard deviation (standard error).
 
