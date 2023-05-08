@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "250942356c8ec1f4",
+            "id": "3a000694dec6150b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -23,161 +23,12 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Calendar/Daily Notes/Drawings/2023-05-05.excalidraw.md"
+                "file": "Calendar/Daily Notes/Drawings/2023-05-07.excalidraw.md"
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "b2771fda9b2304e3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "2023-05-04",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Daily Notes/Notes/2023-05-04.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":44.640625}"
-                }
-              ]
-            },
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar/Daily Notes/Notes/2023-05-05.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "be400fc6a2ecffce",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+ Encounters/Coin Flip Example.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "4ea37949564d0848",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Twitter Example",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Twitter Example.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":18},\"to\":{\"line\":3,\"ch\":18}},\"scroll\":0}"
-                }
-              ]
-            },
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards/Binomial Distribution.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "29ba63834058e91e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Inter Quartile Range (IQR)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Inter Quartile Range (IQR).md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":102},\"to\":{\"line\":17,\"ch\":102}}}"
-                },
-                {
-                  "title": "Probability distribution of random variables",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Probability distribution of random variables.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Law of Averages aka Law of Large Numbers",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Law of Averages aka Law of Large Numbers.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":32},\"to\":{\"line\":15,\"ch\":32}}}"
-                },
-                {
-                  "title": "History does not repeat",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/History does not repeat.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
-                },
-                {
-                  "title": "Expected Value of Binomial Distribution",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Expected Value of Binomial Distribution.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":0},\"to\":{\"line\":43,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Life Insurance Example",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/Life Insurance Example.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":12},\"to\":{\"line\":6,\"ch\":12}}}"
-                },
-                {
-                  "title": "McDonalds Example",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Cards/McDonalds Example.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+ Encounters/Permutations and combinations.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "random variable",
+                "query": "qq pl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -299,7 +150,7 @@
       {
         "id": "ea89fdbc5439f479",
         "type": "tabs",
-        "dimension": 53.93474088291747,
+        "dimension": 80.80614203454894,
         "children": [
           {
             "id": "4f6e4ddebde66a86",
@@ -336,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "+ Encounters/Permutations and combinations.md",
+                "file": "Calendar/Daily Notes/Drawings/2023-05-07.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -381,7 +232,7 @@
                   "repelStrength": 7.8125,
                   "linkStrength": 0.520833333333333,
                   "linkDistance": 30,
-                  "scale": 0.3020304427467057,
+                  "scale": 0.4530456641200585,
                   "close": true
                 }
               }
@@ -402,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ Encounters/Permutations and combinations.md"
+                "file": "Calendar/Daily Notes/Drawings/2023-05-07.excalidraw.md"
               }
             }
           },
@@ -475,12 +326,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "cc261747cbab30f2",
         "type": "tabs",
-        "dimension": 46.06525911708253,
+        "dimension": 19.193857965451055,
         "children": [
           {
             "id": "d535bd36dbc98e0b",
@@ -497,7 +348,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ Encounters/Permutations and combinations.md",
+                "file": "Calendar/Daily Notes/Drawings/2023-05-07.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -523,7 +374,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ Encounters/Permutations and combinations.md",
+                "file": "Calendar/Daily Notes/Drawings/2023-05-07.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -533,7 +384,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5,
+    "width": 431.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -556,54 +407,53 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "29ba63834058e91e",
+  "active": "3a000694dec6150b",
   "lastOpenFiles": [
-    "+ Encounters/Coin Flip Example.md",
-    "Calendar/Daily Notes/Notes/2023-05-05.md",
-    "Calendar/Daily Notes/Drawings/2023-05-05.excalidraw.md",
-    "+ Encounters/Permutations and combinations.md",
-    "Cards/Inter Quartile Range (IQR).md",
-    "Cards/Probability distribution of random variables.md",
-    "Cards/Law of Averages aka Law of Large Numbers.md",
-    "+ Encounters/History does not repeat.md",
-    "+ Encounters/Expected Value of Binomial Distribution.md",
-    "Cards/Binomial Distribution.md",
-    "Cards/Life Insurance Example.md",
-    "Cards/McDonalds Example.md",
-    "+ Encounters/Twitter Example.md",
-    "Extras/Templates/YTStat.md",
-    "Extras/Templates/Boat Note.md",
-    "Extras/Templates/Syntax Note.md",
-    "Cards/Probability and Statistics.md",
-    "Calendar/Logs/Exercise Log.md",
-    "Cards/Walk-20230505.md",
-    "+ Encounters/Bernalillo movies in the park.md",
-    "Atlas/Data Visualization.md",
-    "Cards/Thoth.md",
-    "Calendar/Logs/Piano Log.md",
+    "Calendar/Daily Notes/Notes/2023-05-07.md",
+    "Calendar/Daily Notes/Drawings/2023-05-07.excalidraw.md",
+    "Calendar/Daily Notes/Drawings/2023-05-07.excalidraw.png",
+    "Calendar/Daily Notes/Drawings/2023-05-07.excalidraw.svg",
+    "Calendar/Weekly Notes/2023-W18.md",
+    "Calendar/2022/2023-05-07-w18.md",
+    "Cards/QQ-plots.md",
+    "Calendar/2022",
+    "+ Encounters/Ride-20230507.md",
+    "+ Encounters/Ride-20230503.md",
     "Calendar/Logs/Domestic Log.md",
-    "Calendar/Logs/Study Log.md",
-    "Atlas/Obsidian.md",
+    "+ Encounters/Spread.md",
+    "+ Encounters/Leg Cramps Study.md",
+    "Extras/Images/probability_cheatsheet.pdf",
+    "Cards/Expected Value and Standard Error.md",
+    "Cards/Statistical properties of averages.md",
+    "Cards/Random variables.md",
+    "Cards/Standard Error.md",
+    "Cards/Central Limit Theorem.md",
+    "Atlas/Laptop Log.md",
+    "Atlas/Data Visualization.md",
+    "Atlas/Reading and video list.md",
+    "Extras/Templates/Daily Note.md",
+    "Atlas/Technology.md",
+    "Cards/Frequency Polygon.md",
+    "Cards/Expected Value of Binomial Distribution.md",
+    "Cards/Coin Flip Example.md",
+    "Cards/Cumulative Relative Frequency Table.md",
+    "Cards/Conditional Probability Examples.md",
+    "Calendar/Daily Notes/Drawings/2023-05-06.excalidraw.png",
+    "Calendar/Daily Notes/Drawings/2023-05-06.excalidraw.svg",
+    "Excalidraw/Drawing 2023-05-07 01.20.49.excalidraw.png",
+    "Excalidraw/Drawing 2023-05-07 01.20.49.excalidraw.svg",
+    "Extras/Images/Pasted image 20230506233800.png",
+    "Excalidraw/Conditional Probability Uniform Distribution.excalidraw.png",
+    "Excalidraw/Conditional Probability Uniform Distribution.excalidraw.svg",
     "Calendar/Daily Notes/Drawings/2023-05-05.excalidraw.png",
-    "Calendar/Daily Notes/Drawings/2023-05-05.excalidraw.svg",
-    "Extras/Images/Pasted image 20230504223718.png",
-    "Extras/Images/Pasted image 20230504223556.png",
-    "Calendar/Daily Notes/Drawings/2023-05-04.excalidraw.png",
-    "Calendar/Daily Notes/Drawings/2023-05-04.excalidraw.svg",
     "Calendar/Daily Notes/Drawings/2023-04",
     "Calendar/Daily Notes/Notes/2023-04",
     "Calendar/Daily Notes/Notes/2023-03",
     "Excalidraw/Libraries/bubbles.excalidrawlib",
     "Excalidraw/Libraries/stick-figures-collaboration.excalidrawlib",
     "Excalidraw/Libraries/data-science (1).excalidrawlib",
-    "Extras/Images/Pasted Image 20230503103935_607.svg",
-    "Extras/Excalidraw/2023-04-17 2023-04-17 08.56.11.excalidraw.png",
     "Extras/Excalidraw/Libraries/system-design.excalidrawlib",
     "Extras/Excalidraw/Libraries/stick-figures.excalidrawlib",
-    "Extras/Excalidraw/Libraries/software-architecture.excalidrawlib",
-    "Extras/Excalidraw/Libraries/it-logos.excalidrawlib",
-    "Calendar/Daily Notes/Drawings/2023-05-03.excalidraw.png",
-    "Calendar/Daily Notes/Drawings/2023-05-03.excalidraw.svg",
     "Extras/Canvases/New one.canvas",
     "Extras/Canvases/Untitled 1.canvas",
     "Extras/Canvases/Untitled 1.excalidraw.canvas",

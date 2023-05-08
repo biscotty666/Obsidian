@@ -1,5 +1,5 @@
 up:: [[Linux]]
-tags:: #source/video #on/Training #on/Linux #to/watch 
+tags:: #on/Linux #to/watch #source/video 
 Priority:: 3
 
 ### Bash Scripting Tutorial

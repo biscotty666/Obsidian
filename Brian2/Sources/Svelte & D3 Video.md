@@ -1,5 +1,5 @@
 up:: [[Svelte]]
-tags:: #source/video 
+tags:: #source/video #on/Svelte 
 X:: [[d3]] [[Data Visualization]]
 
 # Svelte & D3 Video

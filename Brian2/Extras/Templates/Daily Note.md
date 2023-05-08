@@ -48,6 +48,11 @@ Exc Note::
 
 Dom Log:: 
 
+#### Laptop Log
+
+Laptop Log:: 
+Laptop Comments::
+
 ### Tasks
 
 #### Overdue

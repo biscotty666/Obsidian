@@ -21,7 +21,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Calendar/Daily Notes/Notes/2023-05-05.md",
+                        "file": "+ Encounters/Leg Cramps Study.md",
                         "mode": "source",
                         "backlinks": false,
                         "source": false
@@ -41,7 +41,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Calendar/Daily Notes/Notes/2023-05-05.md",
+                        "file": "+ Encounters/Leg Cramps Study.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -83,7 +83,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Calendar/Daily Notes/Notes/2023-05-05.md",
+                        "file": "+ Encounters/Leg Cramps Study.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -202,8 +202,7 @@
           "state": {}
         }
       }
-    ],
-    "currentTab": 1
+    ]
   },
   "right": {
     "id": "e906ea1dae891a8c",
@@ -215,7 +214,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Calendar/Daily Notes/Notes/2023-05-05.md",
+            "file": "+ Encounters/Leg Cramps Study.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -232,7 +231,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Calendar/Daily Notes/Notes/2023-05-05.md",
+            "file": "+ Encounters/Leg Cramps Study.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -244,7 +243,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Calendar/Daily Notes/Notes/2023-05-05.md"
+            "file": "+ Encounters/Leg Cramps Study.md"
           }
         }
       },
@@ -287,9 +286,15 @@
   },
   "active": "a44390eb6cbdf424",
   "lastOpenFiles": [
+    "Cards/Ride-20230503.md",
+    "+ Encounters/Leg Cramps Study.md",
+    "+ Encounters/New ride.md",
+    "Cards/A load of Python related cheat sheets.md",
+    "Cards/Probability Cheatsheet.md",
+    "+ Encounters/GitHub actions.md",
+    "Calendar/Daily Notes/Notes/2023-05-05.md",
     "+ Encounters/Today's walk.md",
     "+ Encounters/Bernalillo movies in the park.md",
-    "Calendar/Daily Notes/Notes/2023-05-05.md",
     "Cards/Central Limit Theorem.md",
     "Calendar/Daily Notes/Notes/2023-05-04.md",
     "+ Encounters/Lvm with btrfs.md",
@@ -307,12 +312,6 @@
     "+ Encounters/Untitled.md",
     "+ Encounters/Untitled 1.md",
     "Spaces/Obsidian and PKM Class/Obsidian and PKM Training Class.md",
-    "+ Encounters/Self driving car is ml.md",
-    "+ Encounters/Poisson vs exponential distribution.sync-conflict-20230427-114757-BBO7X7A.md",
-    "+ Encounters/Fedora Nvidia.md",
-    "+ Encounters/Poisson vs exponential distribution.md",
-    "+ Encounters/Statquest Expected Value.md",
-    "+ Encounters/Local first software.md",
     "Extras/Canvases/Obsidian Proverbs.canvas",
     "Calendar/2022",
     "Extras/Images/Pasted image 20230401103803.jpg",

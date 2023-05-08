@@ -1,10 +1,6 @@
----
-up: [[Data Science]]
-same: [[Introduction to Data Science]]
----
 up:: [[Data Science]]
 tags:: #map 
-related:: [[Data Visualization]]
+related:: [[Data Visualization]] [[Introduction to Data Science]]
 Library:: 600
 
 # Probability and Statistics

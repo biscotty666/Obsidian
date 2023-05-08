@@ -6,10 +6,10 @@ tags:: #map #to/watch #to/read
 ### Videos
 
 ```dataview
-table
-Priority, tags
+table without id
+Priority, file.name as Topic, tags as Tags
 from (#to/watch OR #videotowatch )
-where file.name != "Reading and video list"
+where file.name != "Reading and video list" and file.name != "2023-05-04"
 sort Priority asc, tags
 ```
 

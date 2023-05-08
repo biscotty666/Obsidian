@@ -14,3 +14,4 @@ Library:: 600
 -  [[Svelte]]
 -  [[Syncthing]]
 - [[D3]]
+- [[Laptop Log]]

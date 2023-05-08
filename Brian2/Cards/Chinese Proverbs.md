@@ -1,7 +1,5 @@
-up:: [[Reading and video list]]
-tags:: #source/video #to/watch 
-X::  [[Proverbs]]
-Priority:: 3
+up:: [[Proverbs]]
+tags:: #source/video #on/Philosophy 
 
 ## Chinese Proverbs
 

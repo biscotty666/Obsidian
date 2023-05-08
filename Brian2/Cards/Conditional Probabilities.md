@@ -7,6 +7,8 @@ X:: [[Introduction to Data Science]] [[R]]
 
 ## Conditional Probabilities
 
+### When order matters
+
 $$
 \mbox{Pr}(A \mid B) = \mbox{Pr}(A)
 $$
@@ -14,8 +16,6 @@ $$
 For this we need to calculate __permutations__ with `permutations()`. 
 
 Using the deck of cards created in [[Construct a deck of cards in R]]:
-
-### When order matters
 
 To get the number of possible 2-card hands __when order matters__:
 
@@ -52,11 +52,11 @@ mean(first_card%in%kings & second_card%in%kings) / mean(first_card%in%kings)
 ## [1] 0.0588
 ```
 
+### When order doesn't matter
+
 $$
 \frac{\mbox{Pr}(A \mbox{ and } B)}{ \mbox{Pr}(A)}
 $$
-
-### When order doesn't matter
 
 To compute the changes of a natural 21 in Blackjack:
 
