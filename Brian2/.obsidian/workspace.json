@@ -8,7 +8,56 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3a000694dec6150b",
+            "id": "23e9993100d14ee1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "2023-05-09",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/Daily Notes/Notes/2023-05-09.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":18},\"to\":{\"line\":22,\"ch\":18}}}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Calendar/Daily Notes/Drawings/2023-05-09.excalidraw.md"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "34018ebcf087eb9a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Daily Notes/Notes/2023-05-09.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "befe21930986014a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -21,14 +70,42 @@
             },
             "pinned": true,
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Calendar/Daily Notes/Drawings/2023-05-07.excalidraw.md"
+                "file": "Cards/Gamma distribution.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "36c65902405aec4e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+ Encounters/Bakery Customers.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,8 +212,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,7 +263,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Calendar/Daily Notes/Drawings/2023-05-07.excalidraw.md",
+                "file": "Calendar/Daily Notes/Notes/2023-05-09.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -253,7 +329,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/Daily Notes/Drawings/2023-05-07.excalidraw.md"
+                "file": "Calendar/Daily Notes/Notes/2023-05-09.md"
               }
             }
           },
@@ -348,7 +424,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/Daily Notes/Drawings/2023-05-07.excalidraw.md",
+                "file": "Calendar/Daily Notes/Notes/2023-05-09.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -374,7 +450,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/Daily Notes/Drawings/2023-05-07.excalidraw.md",
+                "file": "Calendar/Daily Notes/Notes/2023-05-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -407,17 +483,28 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3a000694dec6150b",
+  "active": "34018ebcf087eb9a",
   "lastOpenFiles": [
-    "Calendar/Daily Notes/Notes/2023-05-07.md",
+    "Calendar/Daily Notes/Drawings/2023-05-09.excalidraw.md",
+    "Calendar/Daily Notes/Drawings/2023-05-08.excalidraw.md",
+    "Calendar/Daily Notes/Notes/2023-05-09.md",
+    "Calendar/Daily Notes/Notes/2023-05-08.md",
+    "Cards/Gamma distribution.md",
+    "+ Encounters/Bakery Customers.md",
+    "+ Encounters/Bakery Customers.sync-conflict-20230508-233813-OBMWZHZ.md",
+    "+ Encounters/Record sales.md",
+    "Calendar/Daily Notes/Drawings/2023-05-08.excalidraw.png",
+    "Calendar/Daily Notes/Drawings/2023-05-08.excalidraw.svg",
+    "+ Encounters/Ride-20230508.md",
+    "+ Encounters/Ride-20230507.md",
     "Calendar/Daily Notes/Drawings/2023-05-07.excalidraw.md",
+    "Calendar/Daily Notes/Notes/2023-05-07.md",
     "Calendar/Daily Notes/Drawings/2023-05-07.excalidraw.png",
     "Calendar/Daily Notes/Drawings/2023-05-07.excalidraw.svg",
     "Calendar/Weekly Notes/2023-W18.md",
     "Calendar/2022/2023-05-07-w18.md",
     "Cards/QQ-plots.md",
     "Calendar/2022",
-    "+ Encounters/Ride-20230507.md",
     "+ Encounters/Ride-20230503.md",
     "Calendar/Logs/Domestic Log.md",
     "+ Encounters/Spread.md",
@@ -430,22 +517,12 @@
     "Cards/Central Limit Theorem.md",
     "Atlas/Laptop Log.md",
     "Atlas/Data Visualization.md",
-    "Atlas/Reading and video list.md",
-    "Extras/Templates/Daily Note.md",
-    "Atlas/Technology.md",
-    "Cards/Frequency Polygon.md",
-    "Cards/Expected Value of Binomial Distribution.md",
-    "Cards/Coin Flip Example.md",
-    "Cards/Cumulative Relative Frequency Table.md",
-    "Cards/Conditional Probability Examples.md",
     "Calendar/Daily Notes/Drawings/2023-05-06.excalidraw.png",
     "Calendar/Daily Notes/Drawings/2023-05-06.excalidraw.svg",
     "Excalidraw/Drawing 2023-05-07 01.20.49.excalidraw.png",
     "Excalidraw/Drawing 2023-05-07 01.20.49.excalidraw.svg",
     "Extras/Images/Pasted image 20230506233800.png",
     "Excalidraw/Conditional Probability Uniform Distribution.excalidraw.png",
-    "Excalidraw/Conditional Probability Uniform Distribution.excalidraw.svg",
-    "Calendar/Daily Notes/Drawings/2023-05-05.excalidraw.png",
     "Calendar/Daily Notes/Drawings/2023-04",
     "Calendar/Daily Notes/Notes/2023-04",
     "Calendar/Daily Notes/Notes/2023-03",

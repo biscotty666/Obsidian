@@ -21,7 +21,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "+ Encounters/Leg Cramps Study.md",
+                        "file": "Cards/Sveltekit short course.md",
                         "mode": "source",
                         "backlinks": false,
                         "source": false
@@ -41,7 +41,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "+ Encounters/Leg Cramps Study.md",
+                        "file": "Cards/Sveltekit short course.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -83,7 +83,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "+ Encounters/Leg Cramps Study.md",
+                        "file": "Cards/Sveltekit short course.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -214,7 +214,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "+ Encounters/Leg Cramps Study.md",
+            "file": "Cards/Sveltekit short course.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "+ Encounters/Leg Cramps Study.md",
+            "file": "Cards/Sveltekit short course.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -243,7 +243,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "+ Encounters/Leg Cramps Study.md"
+            "file": "Cards/Sveltekit short course.md"
           }
         }
       },
@@ -286,8 +286,14 @@
   },
   "active": "a44390eb6cbdf424",
   "lastOpenFiles": [
-    "Cards/Ride-20230503.md",
+    "Atlas/Reading and video list.md",
+    "+ Encounters/Record sales.md",
+    "Calendar/Daily Notes/Notes/2023-05-08.md",
+    "Calendar/Daily Notes/Notes/2023-05-03.md",
+    "+ Encounters/Daily Ride a.md",
+    "+ Encounters/Ride-20230508.md",
     "+ Encounters/Leg Cramps Study.md",
+    "Cards/Ride-20230503.md",
     "+ Encounters/New ride.md",
     "Cards/A load of Python related cheat sheets.md",
     "Cards/Probability Cheatsheet.md",
@@ -306,12 +312,6 @@
     "+ Encounters/Vue tutorial.md",
     "+ Encounters/Statistical Paradixes.md",
     "+ Encounters/Statquest article.md",
-    "+ Encounters/Another Svelte project.md",
-    "Spaces/Obsidian and PKM Class/Introduction to Obsidian and PKM.md",
-    "+ Encounters/Obsidian & PKM Course Introduction.md",
-    "+ Encounters/Untitled.md",
-    "+ Encounters/Untitled 1.md",
-    "Spaces/Obsidian and PKM Class/Obsidian and PKM Training Class.md",
     "Extras/Canvases/Obsidian Proverbs.canvas",
     "Calendar/2022",
     "Extras/Images/Pasted image 20230401103803.jpg",

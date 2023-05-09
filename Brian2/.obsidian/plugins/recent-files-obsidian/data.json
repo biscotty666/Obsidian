@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-05-09",
+      "path": "Calendar/Daily Notes/Notes/2023-05-09.md"
+    },
+    {
+      "basename": "2023-05-09.excalidraw",
+      "path": "Calendar/Daily Notes/Drawings/2023-05-09.excalidraw.md"
+    },
+    {
+      "basename": "2023-05-08.excalidraw",
+      "path": "Calendar/Daily Notes/Drawings/2023-05-08.excalidraw.md"
+    },
+    {
+      "basename": "2023-05-08",
+      "path": "Calendar/Daily Notes/Notes/2023-05-08.md"
+    },
+    {
+      "basename": "Gamma distribution",
+      "path": "Cards/Gamma distribution.md"
+    },
+    {
+      "basename": "Bakery Customers",
+      "path": "+ Encounters/Bakery Customers.md"
+    },
+    {
+      "basename": "Ride-20230508",
+      "path": "+ Encounters/Ride-20230508.md"
+    },
+    {
+      "basename": "Ride-20230507",
+      "path": "+ Encounters/Ride-20230507.md"
+    },
+    {
       "basename": "2023-05-07.excalidraw",
       "path": "Calendar/Daily Notes/Drawings/2023-05-07.excalidraw.md"
     },
@@ -15,10 +47,6 @@
     {
       "basename": "QQ-plots",
       "path": "Cards/QQ-plots.md"
-    },
-    {
-      "basename": "Ride-20230507",
-      "path": "+ Encounters/Ride-20230507.md"
     },
     {
       "basename": "Ride-20230503",
@@ -171,34 +199,6 @@
     {
       "basename": "Stem and Leaf Plots",
       "path": "Cards/Stem and Leaf Plots.md"
-    },
-    {
-      "basename": "Sun Tsu Proverbs",
-      "path": "Cards/Sun Tsu Proverbs.md"
-    },
-    {
-      "basename": "SvelteKit Course",
-      "path": "Cards/SvelteKit Course.md"
-    },
-    {
-      "basename": "SvelteKit from Scratch",
-      "path": "Cards/SvelteKit from Scratch.md"
-    },
-    {
-      "basename": "Sveltekit Update Title",
-      "path": "Cards/Sveltekit Update Title.md"
-    },
-    {
-      "basename": "Svelte D3 another video",
-      "path": "Cards/Svelte D3 another video.md"
-    },
-    {
-      "basename": "Svelte & D3 Video",
-      "path": "Sources/Svelte & D3 Video.md"
-    },
-    {
-      "basename": "Twitter Example",
-      "path": "Cards/Twitter Example.md"
     }
   ],
   "omittedPaths": [],
