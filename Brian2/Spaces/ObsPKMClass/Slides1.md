@@ -8,7 +8,7 @@ transition: slide
 
 ---
 
-## Introduction to Notetaking with Obsidian
+## Introduction to Note-taking with Obsidian
 
 \- Brian Carey, MS, DOM <!-- element class="fragment" -->
 

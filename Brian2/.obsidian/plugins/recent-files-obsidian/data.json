@@ -1,12 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "2023-05-09",
-      "path": "Calendar/Daily Notes/Notes/2023-05-09.md"
+      "basename": "Personal Knowledge Management",
+      "path": "Spaces/ObsPKMClass/Personal Knowledge Management.md"
+    },
+    {
+      "basename": "Advanced Slides Themes",
+      "path": "Cards/Advanced Slides Themes.md"
+    },
+    {
+      "basename": "Advanced Slides Blocks",
+      "path": "Cards/Advanced Slides Blocks.md"
+    },
+    {
+      "basename": "Intro Obsidian PKM Outline",
+      "path": "Spaces/ObsPKMClass/Intro Obsidian PKM Outline.md"
+    },
+    {
+      "basename": "Intro to PKM",
+      "path": "Spaces/ObsPKMClass/Intro to PKM.md"
+    },
+    {
+      "basename": "Advanced Slides Frontmatter",
+      "path": "Cards/Advanced Slides Frontmatter.md"
+    },
+    {
+      "basename": "Obsidian PKM Class Map",
+      "path": "Spaces/ObsPKMClass/Obsidian PKM Class Map.md"
+    },
+    {
+      "basename": "2023-05-10.excalidraw",
+      "path": "Calendar/Daily Notes/Drawings/2023-05-10.excalidraw.md"
+    },
+    {
+      "basename": "2023-05-10",
+      "path": "Calendar/Daily Notes/Notes/2023-05-10.md"
+    },
+    {
+      "basename": "Slides1",
+      "path": "Spaces/ObsPKMClass/Slides1.md"
     },
     {
       "basename": "2023-05-09.excalidraw",
       "path": "Calendar/Daily Notes/Drawings/2023-05-09.excalidraw.md"
+    },
+    {
+      "basename": "2023-05-09",
+      "path": "Calendar/Daily Notes/Notes/2023-05-09.md"
+    },
+    {
+      "basename": "Drawing 2023-05-09 23.37.56.excalidraw",
+      "path": "Excalidraw/Drawing 2023-05-09 23.37.56.excalidraw.md"
+    },
+    {
+      "basename": "Gamma distribution",
+      "path": "Cards/Gamma distribution.md"
+    },
+    {
+      "basename": "Gamma distribution 1",
+      "path": "Cards/Gamma distribution 1.md"
+    },
+    {
+      "basename": "Bakery Customers",
+      "path": "+ Encounters/Bakery Customers.md"
+    },
+    {
+      "basename": "Ride-2023-05-09",
+      "path": "Cards/Ride-2023-05-09.md"
+    },
+    {
+      "basename": "Ride",
+      "path": "Extras/Templates/Ride.md"
+    },
+    {
+      "basename": "Obsidian Advanced Slides",
+      "path": "Cards/Obsidian Advanced Slides.md"
     },
     {
       "basename": "2023-05-08.excalidraw",
@@ -15,14 +83,6 @@
     {
       "basename": "2023-05-08",
       "path": "Calendar/Daily Notes/Notes/2023-05-08.md"
-    },
-    {
-      "basename": "Gamma distribution",
-      "path": "Cards/Gamma distribution.md"
-    },
-    {
-      "basename": "Bakery Customers",
-      "path": "+ Encounters/Bakery Customers.md"
     },
     {
       "basename": "Ride-20230508",
@@ -139,66 +199,6 @@
     {
       "basename": "Notes to published articles",
       "path": "Cards/Notes to published articles.md"
-    },
-    {
-      "basename": "Obsidian Advanced Slides",
-      "path": "Cards/Obsidian Advanced Slides.md"
-    },
-    {
-      "basename": "Permutations and combinations",
-      "path": "Cards/Permutations and combinations.md"
-    },
-    {
-      "basename": "Pico CSS",
-      "path": "Cards/Pico CSS.md"
-    },
-    {
-      "basename": "Probability vs Statistics Quotation",
-      "path": "Cards/Probability vs Statistics Quotation.md"
-    },
-    {
-      "basename": "Problems on Continuous Uniform Distributions",
-      "path": "Cards/Problems on Continuous Uniform Distributions.md"
-    },
-    {
-      "basename": "React router course",
-      "path": "Cards/React router course.md"
-    },
-    {
-      "basename": "Recursion programming",
-      "path": "Cards/Recursion programming.md"
-    },
-    {
-      "basename": "Saraswati",
-      "path": "+ Encounters/Saraswati.md"
-    },
-    {
-      "basename": "Self driving car is ml",
-      "path": "Cards/Self driving car is ml.md"
-    },
-    {
-      "basename": "Spinning obsidian logo",
-      "path": "+ Encounters/Spinning obsidian logo.md"
-    },
-    {
-      "basename": "Vue tutorial",
-      "path": "Cards/Vue tutorial.md"
-    },
-    {
-      "basename": "Svelte",
-      "path": "Atlas/Svelte.md"
-    },
-    {
-      "basename": "Statistical Paradoxes",
-      "path": "Cards/Statistical Paradoxes.md"
-    },
-    {
-      "basename": "Statquest Statistics Series",
-      "path": "Cards/Statquest Statistics Series.md"
-    },
-    {
-      "basename": "Stem and Leaf Plots",
-      "path": "Cards/Stem and Leaf Plots.md"
     }
   ],
   "omittedPaths": [],

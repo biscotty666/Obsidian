@@ -37,6 +37,11 @@ Using $\lambda=1/\theta$:
 $$
 f(x) = \frac{x^{\alpha - 1}e^{-\lambda x}\lambda^\alpha}{\Gamma(\alpha)}
 $$
+or, alternatively:
+$$
+\mbox{P}(y\,|\, \alpha,\lambda)=\frac{\lambda^\alpha}{\Gamma(\alpha)}y^{\alpha-1}e^{-\lambda y}
+$$
+
 
 ### Expected value, variance
 
@@ -51,8 +56,10 @@ $$
 
 1. When $\alpha=1$, we have an [[Poisson vs exponential distribution|exponential distribution]] with a PDF:
 $$
-f(x)=\frac{1}{\theta}e^{-x/\theta}
+f(x)=e^{-\lambda x}
 $$
+
+
 2. When $\theta=2$ and $\alpha=r/2$ we have a [[Chi-squared Distribution]] with $r$ degrees of freedom. This models the distribution of teh sum of the squares of $r$ random variables, each standard normal. The PDF is:
 $$
 f(x)=\frac{x^{r/2-1}e^{-x/2}}{\Gamma(r/2)2^{r/2}}
